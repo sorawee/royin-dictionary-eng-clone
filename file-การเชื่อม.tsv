@@ -1,0 +1,1925 @@
+A.C. welding generator	เครื่องกำเนิดไฟฟ้าเชื่อมกระแสสลับ	๒๐ ก.ย. ๒๕๔๔
+เม็ดโลหะกระเด็น	spatter	๒๐ ก.ย. ๒๕๔๔
+แรงเริ่มเชื่อม	initial force	๒๐ ก.ย. ๒๕๔๔
+แรงย้อนกลับ	backward force	๒๐ ก.ย. ๒๕๔๔
+แรงเสียดทาน	friction force	๒๐ ก.ย. ๒๕๔๔
+แรงยู่	upset force	๒๐ ก.ย. ๒๕๔๔
+แรงยู่หลังเชื่อม	post-weld upset force	๒๐ ก.ย. ๒๕๔๔
+แรงเชื่อม	welding force	๒๐ ก.ย. ๒๕๔๔
+แรงกดยู่	"forge force; <a href=""/coinages/websearch.php?Wd=forging+force&amp;Sj=0"">forging force</a>"	๒๐ ก.ย. ๒๕๔๔
+แรงดันเร่ง	accelerating voltage	๒๐ ก.ย. ๒๕๔๔
+แรงกดอุ่นหลังเชื่อม	post-heating force	๒๐ ก.ย. ๒๕๔๔
+แรงขั้วเชื่อม	electrode force	๒๐ ก.ย. ๒๕๔๔
+แรงดันเริ่มอาร์ก	striking voltage	๒๐ ก.ย. ๒๕๔๔
+แรงดันโหลด	load voltage	๒๐ ก.ย. ๒๕๔๔
+แรงดันวงจรเปิด	open circuit voltage	๒๐ ก.ย. ๒๕๔๔
+แรงดันอาร์ก	arc voltage	๒๐ ก.ย. ๒๕๔๔
+แรงดันอาร์กเกิดซ้ำ	restriking voltage	๒๐ ก.ย. ๒๕๔๔
+แรงดันอาร์กจริง	true arc voltage	๒๐ ก.ย. ๒๕๔๔
+แรงดันไบแอส	bias voltage	๒๐ ก.ย. ๒๕๔๔
+แรงดันจุดอาร์กซ้ำเป็นรอบ	cyclic reignition voltage	๒๐ ก.ย. ๒๕๔๔
+แรงผลัก	forward force	๒๐ ก.ย. ๒๕๔๔
+accelerating voltage	แรงดันเร่ง	๒๐ ก.ย. ๒๕๔๔
+แว่นเชื่อม	"welding goggles; <a href=""/coinages/websearch.php?Wd=welding+spectacles&amp;Sj=0"">welding spectacles</a>"	๒๐ ก.ย. ๒๕๔๔
+แว่นกันสะเก็ด	chipping goggles	๒๐ ก.ย. ๒๕๔๔
+actual throat thickness	ความหนารอยเชื่อมจริง	๒๐ ก.ย. ๒๕๔๔
+เวลาให้ความร้อน	heating time	๒๐ ก.ย. ๒๕๔๔
+เวลาร้อน	"heat time; <a href=""/coinages/websearch.php?Wd=on-time&amp;Sj=0"">on-time</a>"	๒๐ ก.ย. ๒๕๔๔
+เวลาร้อนระหว่างเชื่อม	weld interval heat time	๒๐ ก.ย. ๒๕๔๔
+เวลาร้อนเชื่อม	weld heat time	๒๐ ก.ย. ๒๕๔๔
+เวลาเสียดทาน	friction time	๒๐ ก.ย. ๒๕๔๔
+เวลารอบการเชื่อม	welding cycle time	๒๐ ก.ย. ๒๕๔๔
+เวลาใช้แรงกด	pressure application time	๒๐ ก.ย. ๒๕๔๔
+เวลาเชื่อม	weld time	๒๐ ก.ย. ๒๕๔๔
+เวลาเชื่อมยู่	upset time	๒๐ ก.ย. ๒๕๔๔
+เวลาเชื่อมกดยู่	upsetting time	๒๐ ก.ย. ๒๕๔๔
+เวลาเดินเครื่องเปล่า	idling time	๒๐ ก.ย. ๒๕๔๔
+เวลาเย็นตัว	"cool time; <a href=""/coinages/websearch.php?Wd=off-time&amp;Sj=0"">off-time</a>"	๒๐ ก.ย. ๒๕๔๔
+เวลาเว้นเชื่อม	step time	๒๐ ก.ย. ๒๕๔๔
+เวลาระหว่างพัลส์	interpulse time	๒๐ ก.ย. ๒๕๔๔
+เวลากระแสเชื่อมยู่	upset current time	๒๐ ก.ย. ๒๕๔๔
+เวลาก่อนเชื่อม	pre-weld time	๒๐ ก.ย. ๒๕๔๔
+เวลาการเชื่อม	welding time	๒๐ ก.ย. ๒๕๔๔
+เวลาการหยุด	stopping time	๒๐ ก.ย. ๒๕๔๔
+เวลากด	squeeze time	๒๐ ก.ย. ๒๕๔๔
+เวลากดยู่	"forge time; <a href=""/coinages/websearch.php?Wd=forging+time&amp;Sj=0"">forging time</a>"	๒๐ ก.ย. ๒๕๔๔
+เวลากดเชื่อม	welding pressure time	๒๐ ก.ย. ๒๕๔๔
+เวลากดค้าง	"dwell time; <a href=""/coinages/websearch.php?Wd=hold+time&amp;Sj=0"">hold time</a>"	๒๐ ก.ย. ๒๕๔๔
+เวลาคงความดันอุ่นหลังเชื่อม	post-heating pressure time	๒๐ ก.ย. ๒๕๔๔
+เวลาคืนสภาพ	recovery time	๒๐ ก.ย. ๒๕๔๔
+เวลาต่อเที่ยวเชื่อม	"rate of travel; <a href=""/coinages/websearch.php?Wd=travel+speed&amp;Sj=0"">travel speed</a>"	๒๐ ก.ย. ๒๕๔๔
+เวลาแพร่ความร้อน	heat diffusion time	๒๐ ก.ย. ๒๕๔๔
+เวลาวาบ	flashing time	๒๐ ก.ย. ๒๕๔๔
+เวลาสัมผัส	touch time	๒๐ ก.ย. ๒๕๔๔
+เวลาหลังเชื่อม	post-weld time	๒๐ ก.ย. ๒๕๔๔
+เวลาหน่วงเชื่อม	weld delay time	๒๐ ก.ย. ๒๕๔๔
+เวลาหน่วงกด	forge delay time	๒๐ ก.ย. ๒๕๔๔
+เวลาอัตรากระแสเปลี่ยน	slope time	๒๐ ก.ย. ๒๕๔๔
+เวลาอาร์ก	arcing time	๒๐ ก.ย. ๒๕๔๔
+เวลาอุ่นก่อนเชื่อม, เวลาอุ่นก่อนวาบ	preheat time	๒๐ ก.ย. ๒๕๔๔
+เวลาลดแรงกด	pressure decrease time	๒๐ ก.ย. ๒๕๔๔
+เวลาลดระยะหัวเชื่อม	head lowering time	๒๐ ก.ย. ๒๕๔๔
+เวลากระแสเสื่อม	decay time	๒๐ ก.ย. ๒๕๔๔
+เวลาปล่อยเย็น	"chill time; <a href=""/coinages/websearch.php?Wd=quench+time&amp;Sj=0"">quench time</a>"	๒๐ ก.ย. ๒๕๔๔
+เวลาปล่อยกระแสอุ่นหลังเชื่อม	post-heat time	๒๐ ก.ย. ๒๕๔๔
+เวลาปลอดกระแส	current-off time	๒๐ ก.ย. ๒๕๔๔
+เวลาปลดแรงกด	pressure-off time	๒๐ ก.ย. ๒๕๔๔
+เวลาพัลส์	pulse time	๒๐ ก.ย. ๒๕๔๔
+ระยะเว้นก่อนเชื่อม	"stand-off distance; <a href=""/coinages/websearch.php?Wd=stand-off+gap&amp;Sj=0"">stand-off gap</a>"	๒๐ ก.ย. ๒๕๔๔
+ระยะยู่	upset length	๒๐ ก.ย. ๒๕๔๔
+ระยะยู่เสียดทาน	burn-off length	๒๐ ก.ย. ๒๕๔๔
+ระยะยก	lift	๒๐ ก.ย. ๒๕๔๔
+ระยะเคลื่อนยู่	upset travel	๒๐ ก.ย. ๒๕๔๔
+ระยะเผื่อวาบ	flashing allowance	๒๐ ก.ย. ๒๕๔๔
+ระยะเผื่ออุ่นก่อนวาบ	preheating allowance	๒๐ ก.ย. ๒๕๔๔
+ระยะวาบ	flashing travel	๒๐ ก.ย. ๒๕๔๔
+ระยะเชื่อม	work distance	๒๐ ก.ย. ๒๕๔๔
+ระยะเบน	drag	๒๐ ก.ย. ๒๕๔๔
+ระยะเผื่อรวม	total allowance	๒๐ ก.ย. ๒๕๔๔
+ระยะเผื่อยู่	upset allowance	๒๐ ก.ย. ๒๕๔๔
+ระยะหดรวม	total loss	๒๐ ก.ย. ๒๕๔๔
+ระยะหดขณะวาบ	flashing loss	๒๐ ก.ย. ๒๕๔๔
+ระยะหดขณะอุ่นก่อนวาบ	preheating loss	๒๐ ก.ย. ๒๕๔๔
+ระยะหลอมลึก	fusion penetration	๒๐ ก.ย. ๒๕๔๔
+ระยะสึก	wearing depth	๒๐ ก.ย. ๒๕๔๔
+ระยะอาร์ก	arc length	๒๐ ก.ย. ๒๕๔๔
+ระยะลึก	"throat; <a href=""/coinages/websearch.php?Wd=throat+depth&amp;Sj=0"">throat depth</a>"	๒๐ ก.ย. ๒๕๔๔
+ระยะชักหัวเชื่อม	machine stroke	๒๐ ก.ย. ๒๕๔๔
+ระยะกดยู่	forge length	๒๐ ก.ย. ๒๕๔๔
+ระยะขอบ	edge distance	๒๐ ก.ย. ๒๕๔๔
+ระยะขั้วเชื่อม	"electrode clearance; <a href=""/coinages/websearch.php?Wd=electrode+gap&amp;Sj=0"">electrode gap</a>"	๒๐ ก.ย. ๒๕๔๔
+ระยะชักใช้งาน	operational stroke	๒๐ ก.ย. ๒๕๔๔
+ระยะปากจับ	clamp opening	๒๐ ก.ย. ๒๕๔๔
+ระบบแสงส่องนำ	optical viewing system	๒๐ ก.ย. ๒๕๔๔
+ระบบยกสูง	high lift system	๒๐ ก.ย. ๒๕๔๔
+ระบบเชื่อมสุญญากาศเต็มที่	"full vacuum system; <a href=""/coinages/websearch.php?Wd=hard+vacuum+system&amp;Sj=0"">hard vacuum system</a>"	๒๐ ก.ย. ๒๕๔๔
+ระบบเชื่อมสุญญากาศไม่สมบูรณ์	"partial vacuum system; <a href=""/coinages/websearch.php?Wd=soft+vacuum+system&amp;Sj=0"">soft vacuum system</a>"	๒๐ ก.ย. ๒๕๔๔
+ระบบเชื่อมนอกสุญญากาศ	"non-vacuum system; <a href=""/coinages/websearch.php?Wd=out+of+vacuum+system&amp;Sj=0"">out of vacuum system</a>"	๒๐ ก.ย. ๒๕๔๔
+ระบบหน่วงกันสะดุด	delayed non-beat	๒๐ ก.ย. ๒๕๔๔
+ระบบกันสะดุด	non-beat	๒๐ ก.ย. ๒๕๔๔
+ระบบนำหัวตัด	"cutter steering system; <a href=""/coinages/websearch.php?Wd=steering+system&amp;Sj=0"">steering system</a>"	๒๐ ก.ย. ๒๕๔๔
+แหวนรองเชื่อมชั่วคราว	temporary backing ring	๒๐ ก.ย. ๒๕๔๔
+แหวนรองเชื่อมถาวร	permanent backing ring	๒๐ ก.ย. ๒๕๔๔
+แหวนรองเชื่อม	backing ring	๒๐ ก.ย. ๒๕๔๔
+ม้วนลวดเชื่อม	welding wire	๒๐ ก.ย. ๒๕๔๔
+ม้วนลวดเติม	filler wire	๒๐ ก.ย. ๒๕๔๔
+ร่องหด	shrinkage groove	๒๐ ก.ย. ๒๕๔๔
+ร่องไม่เต็ม	incompletely filled groove	๒๐ ก.ย. ๒๕๔๔
+ร่องตัด	kerf	๒๐ ก.ย. ๒๕๔๔
+รอยเว้าที่ฐาน, รอยเว้าที่ราก	"root concavity; <a href=""/coinages/websearch.php?Wd=suck-back&amp;Sj=0"">suck-back</a>; <a href=""/coinages/websearch.php?Wd=underwashing&amp;Sj=0"">underwashing</a>"	๒๐ ก.ย. ๒๕๔๔
+รอยแหว่งขอบแนว	undercut	๒๐ ก.ย. ๒๕๔๔
+รอยร้าว	crack	๒๐ ก.ย. ๒๕๔๔
+รอยร้าวขณะเย็น	cold crack	๒๐ ก.ย. ๒๕๔๔
+รอยร้าวขณะร้อน	hot crack	๒๐ ก.ย. ๒๕๔๔
+รอยร้าวขณะแข็งตัว	solidification crack	๒๐ ก.ย. ๒๕๔๔
+รอยย่น; การเกิดรอยย่น	puckering	๒๐ ก.ย. ๒๕๔๔
+รอยเกย	overlap	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมยึด	tack weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมมุม	fillet weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมมุมหน้าเว้า	concave fillet weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมมุมหน้าราบ	flat face fillet weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมมุมหน้านูน	convex fillet weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมมุมด้านเท่า	mitre fillet weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมวงแหวน	fillet	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมวงรอบ; รอยเชื่อมวงแหวน	collar	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมหย่อน	sagged weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมอุด	plug weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมไหม้	burnt weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมกันรั่ว	"sealing weld; <a href=""/coinages/websearch.php?Wd=seal+weld&amp;Sj=0"">seal weld</a>"	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมขอบ	edge weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมจุดหลอม	fusion spot weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมชน	butt weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมชนรูปตัวยูเดี่ยว	single-U butt weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมชนรูปตัวยูคู่	double-U butt weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมชนรูปตัวเจเดี่ยว	single-J butt weld	๒๐ ก.ย. ๒๕๔๔
+รอยเครื่องมือ	tool mark	๒๐ ก.ย. ๒๕๔๔
+รอยเคาะ	chipping mark	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อม; งานเชื่อม; เชื่อม	weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมเรียบ	flush weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมเว้นระยะ	intermittent weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมเว้นระยะสลับฟันปลา	staggered intermittent weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมเว้นระยะตรงกัน	chain intermittent weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมร่อง	groove weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมชนรูปตัวเจคู่	double-J butt weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมชนรูปตัววีเดี่ยว	single-V butt weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมชนรูปตัววีคู่	double-V butt weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมชนหน้าเฉียงเดี่ยว	single-bevel butt weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมชนหน้าเฉียงคู่	double-bevel butt weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมชนหน้าฉาก	square butt weld	๒๐ ก.ย. ๒๕๔๔
+รอยเชื่อมต่อเนื่อง	continuous weld	๒๐ ก.ย. ๒๕๔๔
+รอยเบน	drag line	๒๐ ก.ย. ๒๕๔๔
+รอยขัด	grinding mark	๒๐ ก.ย. ๒๕๔๔
+รอยค้อน	hammer mark	๒๐ ก.ย. ๒๕๔๔
+รอยต่อ	joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อรูปกากบาท	cruciform joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อรูปตัวที	T-joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อเกย	lap joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อเกยรอบช่อง	slot lap joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อเข้าลิ่ม	cleft joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อเฉียงปากบานใน	short bell branch joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อมุม	corner joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อมุมฉากชิ้นเสริมเดี่ยว	single-glut square corner	๒๐ ก.ย. ๒๕๔๔
+รอยต่อหางนก	dovetail joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อลิ่มรูปตัวที	T-shaped pocket joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อขอบ	edge joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อชน	butt joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อชนรูปตัวที	T-butt joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อชนหน้าเรียบ	plain butt joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อชนชิ้นเสริมเดี่ยว	single-glut butt joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อชนชิ้นเสริมคู่	double-glut butt joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อชนปากบานใน	diminishing bell butt joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อชนปากบานนอก	bell butt joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อตัวทีรูปอานม้า	branch T saddle joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อทาบแนว	scarf joint	๒๐ ก.ย. ๒๕๔๔
+รอยต่อฝังหัว	dab joint	๒๐ ก.ย. ๒๕๔๔
+รอยบุ๋ม	crater pipe	๒๐ ก.ย. ๒๕๔๔
+แอ่งหลอมเหลว	"molten pool; <a href=""/coinages/websearch.php?Wd=weld+pool&amp;Sj=0"">weld pool</a>"	๒๐ ก.ย. ๒๕๔๔
+air-acetylene blowpipe	คันเชื่อมอากาศ-อะเซทิลีน	๒๐ ก.ย. ๒๕๔๔
+air-arc cutting	การตัดด้วยอาร์กอากาศ	๒๐ ก.ย. ๒๕๔๔
+รอบการเชื่อม	welding cycle	๒๐ ก.ย. ๒๕๔๔
+รอบความดันสองระดับ	dual pressure cycle	๒๐ ก.ย. ๒๕๔๔
+รอบความดันหลายระดับ	multi-pressure cycle	๒๐ ก.ย. ๒๕๔๔
+รอบทำงาน	duty cycle	๒๐ ก.ย. ๒๕๔๔
+all-position rightward welding	การเชื่อมถอยหลังทุกท่า	๒๐ ก.ย. ๒๕๔๔
+all-weld test piece	ชิ้นงานทดสอบเนื้อโลหะเชื่อม	๒๐ ก.ย. ๒๕๔๔
+all-weld test specimen	ชิ้นทดสอบมาตรฐานเนื้อโลหะเชื่อม	๒๐ ก.ย. ๒๕๔๔
+alloy powder electrode	ลวดเชื่อมหุ้มผงโลหะ	๒๐ ก.ย. ๒๕๔๔
+alternate polarity operation; alternate polarity welding	การเชื่อมขั้วสลับ	๒๐ ก.ย. ๒๕๔๔
+alternate polarity welding; alternate polarity operation	การเชื่อมขั้วสลับ	๒๐ ก.ย. ๒๕๔๔
+aluminothermic welding	"การเชื่อมอะลูมิโนเทอร์มิก <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=thermit+welding&amp;Sj=0"">thermit welding</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+analogue timer	เครื่องตั้งเวลาแบบเข็ม	๒๐ ก.ย. ๒๕๔๔
+รัศมีฐาน, รัศมีราก	root radius	๒๐ ก.ย. ๒๕๔๔
+angle centre electrode	ขั้วเชื่อมปลายเอียงร่วมศูนย์	๒๐ ก.ย. ๒๕๔๔
+angle electrode; inclined electrode	ขั้วเชื่อมปลายเอียง	๒๐ ก.ย. ๒๕๔๔
+angle of bevel	มุมหน้าเฉียง, มุมบาก	๒๐ ก.ย. ๒๕๔๔
+angle of preparation; included angle	มุมร่องเชื่อม	๒๐ ก.ย. ๒๕๔๔
+angle offset electrode	ขั้วเชื่อมปลายเอียงเยื้องศูนย์	๒๐ ก.ย. ๒๕๔๔
+annular flame cutting nozzle; annular preheat cutting nozzle	หัวตัดวงแหวน	๒๐ ก.ย. ๒๕๔๔
+annular preheat cutting nozzle; annular flame cutting nozzle	หัวตัดวงแหวน	๒๐ ก.ย. ๒๕๔๔
+anvil	ทั่ง	๒๐ ก.ย. ๒๕๔๔
+ราก, ฐาน	root	๒๐ ก.ย. ๒๕๔๔
+รางสแลก	slag shute	๒๐ ก.ย. ๒๕๔๔
+arc	อาร์ก	๒๐ ก.ย. ๒๕๔๔
+arc blow	อาร์กเบน	๒๐ ก.ย. ๒๕๔๔
+arc blow compensator; arc damper	ตัวหน่วงอาร์กเบน	๒๐ ก.ย. ๒๕๔๔
+arc plasma cutting; plasma arc cutting	การตัดด้วยอาร์กพลาสมา	๒๐ ก.ย. ๒๕๔๔
+arc plasma welding; plasma arc welding	การเชื่อมด้วยอาร์กพลาสมา	๒๐ ก.ย. ๒๕๔๔
+arc spot welding	การเชื่อมจุดอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arc stud welding	การเชื่อมสลักอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arc voltage	แรงดันอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arc welding	การเชื่อมอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arc welding electrode	ลวดเชื่อมอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arc welding plant; arc welding set	ชุดเชื่อมอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arc cutting	การตัดด้วยอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arc damper; arc blow compensator	ตัวหน่วงอาร์กเบน	๒๐ ก.ย. ๒๕๔๔
+arc eye	ตาอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arc fan	อาร์กรูปพัด	๒๐ ก.ย. ๒๕๔๔
+arc image welding	การเชื่อมด้วยรังสีอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arc length	ระยะอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arc welding set; arc welding plant	ชุดเชื่อมอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arc welding transformer	หม้อแปลงเชื่อมอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arcing time factor	แฟกเตอร์เวลาอาร์ก	๒๐ ก.ย. ๒๕๔๔
+arcing time	เวลาอาร์ก	๒๐ ก.ย. ๒๕๔๔
+argon-arc torch; TIG torch	หัวเชื่อมทิก	๒๐ ก.ย. ๒๕๔๔
+arm	แขนยึด	๒๐ ก.ย. ๒๕๔๔
+articulated-arm cutting machine	เครื่องตัดแขนพับ	๒๐ ก.ย. ๒๕๔๔
+atomic-hydrogen torch	หัวเชื่อมไฮโดรเจน	๒๐ ก.ย. ๒๕๔๔
+atomic-hydrogen welding	การเชื่อมไฮโดรเจน	๒๐ ก.ย. ๒๕๔๔
+รูออกซิเจนตัด	cutting oxygen bore	๒๐ ก.ย. ๒๕๔๔
+automatic welding	การเชื่อมอัตโนมัติ	๒๐ ก.ย. ๒๕๔๔
+automatic stud welding equipment	บริภัณฑ์งานเชื่อมสลักอัตโนมัติ	๒๐ ก.ย. ๒๕๔๔
+รูขึ้น	riser	๒๐ ก.ย. ๒๕๔๔
+โลหะเจือแล่นประสาน	brazing alloy	๒๐ ก.ย. ๒๕๔๔
+โลหะเชื่อม	weld metal	๒๐ ก.ย. ๒๕๔๔
+โลหะเชื่อมส่วนเกิน	"excess weld metal; <a href=""/coinages/websearch.php?Wd=reinforcement&amp;Sj=0"">reinforcement</a>"	๒๐ ก.ย. ๒๕๔๔
+โลหะเติม	filler metal	๒๐ ก.ย. ๒๕๔๔
+โลหะเติมแล้ว	deposited metal	๒๐ ก.ย. ๒๕๔๔
+โลหะเติมบรอนซ์	bronze filler metal	๒๐ ก.ย. ๒๕๔๔
+โลหะสเปลเตอร์	spelter	๒๐ ก.ย. ๒๕๔๔
+โลหะไหลหนี	metal run-out	๒๐ ก.ย. ๒๕๔๔
+โลหะชิ้นงาน	parent metal	๒๐ ก.ย. ๒๕๔๔
+โล่เชื่อมประจำที่	fixed shield	๒๐ ก.ย. ๒๕๔๔
+โลหะยู่	"upset; <a href=""/coinages/websearch.php?Wd=upset+metal&amp;Sj=0"">upset metal</a>"	๒๐ ก.ย. ๒๕๔๔
+โลหะประสาน	braze metal	๒๐ ก.ย. ๒๕๔๔
+เลนส์โฟกัส	focusing lens	๒๐ ก.ย. ๒๕๔๔
+แลนซ์ออกซิเจน	oxygen lance	๒๐ ก.ย. ๒๕๔๔
+แลนซ์ออกซิเจนไส้ลวด	packed lance	๒๐ ก.ย. ๒๕๔๔
+แลนซ์ออกซิเจนไส้ผง	powder lance	๒๐ ก.ย. ๒๕๔๔
+แก๊สคลุม	gas shield	๒๐ ก.ย. ๒๕๔๔
+เกลียวต่อท่ออ่อน	threaded hose connection	๒๐ ก.ย. ๒๕๔๔
+แกนนำลวดเชื่อม	"wire feed nozzle; <a href=""/coinages/websearch.php?Wd=wire+guide&amp;Sj=0"">wire guide</a>"	๒๐ ก.ย. ๒๕๔๔
+แกนนำลวดเชื่อมสิ้นเปลือง	"consumable nozzle; <a href=""/coinages/websearch.php?Wd=consumable+wire+guide&amp;Sj=0"">consumable wire guide</a>"	๒๐ ก.ย. ๒๕๔๔
+เขตรอยเชื่อม	weld junction	๒๐ ก.ย. ๒๕๔๔
+แขนยึด	arm	๒๐ ก.ย. ๒๕๔๔
+แขนโยก, กระเดื่องขั้วเชื่อม	rocker arm	๒๐ ก.ย. ๒๕๔๔
+แคโทด	cathode	๒๐ ก.ย. ๒๕๔๔
+เครื่องเรียงกระแสตรง	rectifier converter	๒๐ ก.ย. ๒๕๔๔
+เครื่องเลเซอร์	laser	๒๐ ก.ย. ๒๕๔๔
+เครื่องเลเซอร์ใช้แก๊ส	gas laser	๒๐ ก.ย. ๒๕๔๔
+เครื่องเจียนด้วยเปลวไฟ	flame planing machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องเลเซอร์ใช้ของแข็ง	solid state laser	๒๐ ก.ย. ๒๕๔๔
+เครื่องเชื่อมใช้มอเตอร์	motor-operated welding machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องเชื่อมใช้กำลังกล	power-operated welding machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องเชื่อมแบบคันเหยียบ	"foot-operated welding machine; <a href=""/coinages/websearch.php?Wd=pedal-operated+welding+machine&amp;Sj=0"">pedal-operated welding machine</a>"	๒๐ ก.ย. ๒๕๔๔
+เครื่องเชื่อมมือกด	hand-operated welding machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องเชื่อมสามเฟส	three-phase welding machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องเชื่อมจุดเหนี่ยวนำ	"induction spot-welding machine; <a href=""/coinages/websearch.php?Wd=inductor+spot-welding+machine&amp;Sj=0"">inductor spot-welding machine</a>"	๒๐ ก.ย. ๒๕๔๔
+เครื่องเชื่อมจุดใช้แบตเตอรี่	battery spot-welding machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องเชื่อมจุดแบบเก็บประจุ	"capacitor spot-welding machine; <a href=""/coinages/websearch.php?Wd=condenser-discharge+spot+welding+machine&amp;Sj=0"">condenser-discharge spot welding machine</a>"	๒๐ ก.ย. ๒๕๔๔
+เครื่องเชื่อมจุดแบบเคลื่อนย้ายได้	portable spot-welding machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องเชื่อมจุดแบบคีม	"pincer spot-welding machine; <a href=""/coinages/websearch.php?Wd=plier+spot-welding+machine&amp;Sj=0"">plier spot-welding machine</a>"	๒๐ ก.ย. ๒๕๔๔
+เครื่องเชื่อมจุดแบบปืน	gun welding machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องเชื่อมด้วยลำอิเล็กตรอน	electron beam welding machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องแปลงความถี่อิเล็กทรอนิกส์	electronic frequency converter	๒๐ ก.ย. ๒๕๔๔
+เครื่องมือเชื่อมสลัก	stud welding tool	๒๐ ก.ย. ๒๕๔๔
+เครื่องกำเนิดไฟฟ้าเชื่อมกระแสสลับ	A.C. welding generator	๒๐ ก.ย. ๒๕๔๔
+เครื่องกำเนิดไฟฟ้าเชื่อมกระแสตรง	D.C. welding generator	๒๐ ก.ย. ๒๕๔๔
+เครื่องกันเกิดรอยบุ๋ม	crater filler	๒๐ ก.ย. ๒๕๔๔
+เครื่องจุดอาร์กซ้ำด้วยแรงดันกระโชก	surge injector	๒๐ ก.ย. ๒๕๔๔
+เครื่องตั้งเวลาเชื่อม	weld timer	๒๐ ก.ย. ๒๕๔๔
+เครื่องตั้งเวลาแบบเข็ม	analogue timer	๒๐ ก.ย. ๒๕๔๔
+เครื่องตั้งเวลาแบบลำดับ	sequence timer	๒๐ ก.ย. ๒๕๔๔
+เครื่องตั้งเวลาแบบดิจิทัล	digital timer	๒๐ ก.ย. ๒๕๔๔
+เครื่องตัด	cutting machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องตัดแขนพับ	articulated-arm cutting machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องตัดเดี่ยวระหว่างราง	"gantry cutting machine; <a href=""/coinages/websearch.php?Wd=portal+cutting+machine&amp;Sj=0"">portal cutting machine</a>"	๒๐ ก.ย. ๒๕๔๔
+เครื่องตัดแบบผสม	portal-cantilever cutting machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องตัดสองมิติ	cross-carriage cutting machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องตัดคานยื่นเดี่ยว	single-cantilever cutting machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องตัดคานยื่นเดี่ยวยาว	extended boom single-cantilever cutting machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องตัดคานยื่นสองข้าง	double-cantilever cutting machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องตัดคู่ระหว่างราง	double-portal cutting machine	๒๐ ก.ย. ๒๕๔๔
+เครื่องนับรอบ	cycle counter	๒๐ ก.ย. ๒๕๔๔
+เครื่องบันทึกรอบ	cycle recorder	๒๐ ก.ย. ๒๕๔๔
+เครื่องประหยัดแก๊ส	gas economizer	๒๐ ก.ย. ๒๕๔๔
+โคนลวดเชื่อม, ก้นลวดเชื่อม	stub end	๒๐ ก.ย. ๒๕๔๔
+เชื่อม; งานเชื่อม; รอยเชื่อม	weld	๒๐ ก.ย. ๒๕๔๔
+แท่น	platen	๒๐ ก.ย. ๒๕๔๔
+แท่งยึดตัวประกับ	"cross bar; <a href=""/coinages/websearch.php?Wd=gap+bar&amp;Sj=0"">gap bar</a>"	๒๐ ก.ย. ๒๕๔๔
+เที่ยวเชื่อม	"pass; <a href=""/coinages/websearch.php?Wd=run&amp;Sj=0"">run</a>"	๒๐ ก.ย. ๒๕๔๔
+เที่ยวเชื่อมราก, เที่ยวเชื่อมฐาน	"root pass; <a href=""/coinages/websearch.php?Wd=root+run&amp;Sj=0"">root run</a>"	๒๐ ก.ย. ๒๕๔๔
+เที่ยวเชื่อมหลอมเหลว	melt run	๒๐ ก.ย. ๒๕๔๔
+เที่ยวเชื่อมหลอมลึก	"penetration pass; <a href=""/coinages/websearch.php?Wd=penetration+run&amp;Sj=0"">penetration run</a>"	๒๐ ก.ย. ๒๕๔๔
+เที่ยวเชื่อมฐาน, เที่ยวเชื่อมราก	"root pass; <a href=""/coinages/websearch.php?Wd=root+run&amp;Sj=0"">root run</a>"	๒๐ ก.ย. ๒๕๔๔
+เที่ยวเชื่อมปิดหลัง	"backing run; <a href=""/coinages/websearch.php?Wd=sealing+run&amp;Sj=0"">sealing run</a>"	๒๐ ก.ย. ๒๕๔๔
+เทคนิคการเชื่อม	welding technique	๒๐ ก.ย. ๒๕๔๔
+แนวระดับ, ท่าระดับ	horizontal position	๒๐ ก.ย. ๒๕๔๔
+แนวเหนือศีรษะ, ท่าเหนือศีรษะ	overhead position	๒๐ ก.ย. ๒๕๔๔
+แนวเอียง, ท่าเอียง	inclined position	๒๐ ก.ย. ๒๕๔๔
+แนวราบ, ท่าราบ	flat position	๒๐ ก.ย. ๒๕๔๔
+แนวเชื่อม	bead	๒๐ ก.ย. ๒๕๔๔
+แนวเชื่อมเส้นเชือก	stringer bead	๒๐ ก.ย. ๒๕๔๔
+แนวเชื่อมรับแรง	strength weld	๒๐ ก.ย. ๒๕๔๔
+แนวเชื่อมราก, แนวเชื่อมฐาน	root bead	๒๐ ก.ย. ๒๕๔๔
+แนวเชื่อมหลอมลึก	penetration bead	๒๐ ก.ย. ๒๕๔๔
+แนวเชื่อมหลอมลึกเกิน	excess penetration bead	๒๐ ก.ย. ๒๕๔๔
+แนวเชื่อมฐาน, แนวเชื่อมราก	root bead	๒๐ ก.ย. ๒๕๔๔
+แนวการเชื่อม, ท่าเชื่อม	welding position	๒๐ ก.ย. ๒๕๔๔
+แนวตั้ง, ท่าตั้ง	vertical position	๒๐ ก.ย. ๒๕๔๔
+แนวปะทะ	collision front	๒๐ ก.ย. ๒๕๔๔
+เบ้าเทอร์มิต	thermit crucible	๒๐ ก.ย. ๒๕๔๔
+แบบหล่อ	mould	๒๐ ก.ย. ๒๕๔๔
+แบบขี้ผึ้ง	wax pattern	๒๐ ก.ย. ๒๕๔๔
+แป้นเกลียวข้อต่อท่ออ่อน	hose coupling nut	๒๐ ก.ย. ๒๕๔๔
+เปลวอ่อน	soft flame	๒๐ ก.ย. ๒๕๔๔
+เปลวออกซิเจนมาก, เปลวเพิ่ม	oxidizing flame	๒๐ ก.ย. ๒๕๔๔
+เปลวลด	reducing flame	๒๐ ก.ย. ๒๕๔๔
+เปลวกลาง	neutral flame	๒๐ ก.ย. ๒๕๔๔
+เปลวขนนก	feather	๒๐ ก.ย. ๒๕๔๔
+เปลวคาร์บอนมาก	carburizing flame	๒๐ ก.ย. ๒๕๔๔
+เปลวแรง	harsh flame	๒๐ ก.ย. ๒๕๔๔
+เปลวแก๊สชั้นนอก	gas envelope	๒๐ ก.ย. ๒๕๔๔
+เปลวเพิ่ม, เปลวออกซิเจนมาก	oxidizing flame	๒๐ ก.ย. ๒๕๔๔
+เปลวสะดุดดับ	flame snap-out	๒๐ ก.ย. ๒๕๔๔
+แผ่นรองเชื่อม	backing	๒๐ ก.ย. ๒๕๔๔
+แผ่นรองเชื่อมชั่วคราว	temporary backing	๒๐ ก.ย. ๒๕๔๔
+แผ่นรองเชื่อมถาวร	permanent backing	๒๐ ก.ย. ๒๕๔๔
+แผ่นเคลื่อนที่	flyer plate	๒๐ ก.ย. ๒๕๔๔
+แผ่นอยู่กับที่	static-plate	๒๐ ก.ย. ๒๕๔๔
+แผ่นลองอาร์ก	striking plate	๒๐ ก.ย. ๒๕๔๔
+แผ่นจุดอาร์กรองเชื่อม	starting block	๒๐ ก.ย. ๒๕๔๔
+แผ่นชิ้นงาน	parent plate	๒๐ ก.ย. ๒๕๔๔
+แผ่นต่อหัว	run-on plate	๒๐ ก.ย. ๒๕๔๔
+แผ่นต่อท้าย	run-off plate	๒๐ ก.ย. ๒๕๔๔
+แผ่นทดสอบต่อหัว	run-on test plate	๒๐ ก.ย. ๒๕๔๔
+แผ่นทดสอบต่อท้าย	run-off test plate	๒๐ ก.ย. ๒๕๔๔
+แผ่นนำหัวตัด	spade guide	๒๐ ก.ย. ๒๕๔๔
+แผ่นประกับ	back plate	๒๐ ก.ย. ๒๕๔๔
+แผ่นฟลักซ์งานเชื่อมทุบ	forge welding flux plate	๒๐ ก.ย. ๒๕๔๔
+โพรงยาว	elongated cavity	๒๐ ก.ย. ๒๕๔๔
+โพรงแก๊ส	blowhole	๒๐ ก.ย. ๒๕๔๔
+โพรงหนอน	wormhole	๒๐ ก.ย. ๒๕๔๔
+โพรงหด	shrinkage cavity	๒๐ ก.ย. ๒๕๔๔
+เพอร์วีแอนซ์	perveance	๒๐ ก.ย. ๒๕๔๔
+แฟกเตอร์เวลาอาร์ก	arcing time factor	๒๐ ก.ย. ๒๕๔๔
+มุมร่องเชื่อม	"angle of preparation; <a href=""/coinages/websearch.php?Wd=included+angle&amp;Sj=0"">included angle</a>"	๒๐ ก.ย. ๒๕๔๔
+มุมเฟส	"firing angle; <a href=""/coinages/websearch.php?Wd=phase+angle&amp;Sj=0"">phase angle</a>"	๒๐ ก.ย. ๒๕๔๔
+มุมหมุนแนวเชื่อม	weld rotation	๒๐ ก.ย. ๒๕๔๔
+มุมหัวเชื่อม	torch angle	๒๐ ก.ย. ๒๕๔๔
+มุมหน้าเฉียง, มุมบาก	angle of bevel	๒๐ ก.ย. ๒๕๔๔
+มุมชันแนวเชื่อม	weld slope	๒๐ ก.ย. ๒๕๔๔
+มุมบาก, มุมหน้าเฉียง	angle of bevel	๒๐ ก.ย. ๒๕๔๔
+มุมปะทะระหว่างเชื่อม	"collision angle; <a href=""/coinages/websearch.php?Wd=contact+angle&amp;Sj=0"">contact angle</a>"	๒๐ ก.ย. ๒๕๔๔
+มุมปะทะก่อนเชื่อม	"initial inclination; <a href=""/coinages/websearch.php?Wd=initial+plate+angle&amp;Sj=0"">initial plate angle</a>"	๒๐ ก.ย. ๒๕๔๔
+back-step sequence; back-step welding	การเชื่อมก้าวถอย	๒๐ ก.ย. ๒๕๔๔
+back-step welding; back-step sequence	การเชื่อมก้าวถอย	๒๐ ก.ย. ๒๕๔๔
+back-up die	ดายเสริม, ดายสอด	๒๐ ก.ย. ๒๕๔๔
+back plate	แผ่นประกับ	๒๐ ก.ย. ๒๕๔๔
+backfire	ไฟย้อนกลับ	๒๐ ก.ย. ๒๕๔๔
+backhand welding; backward welding; rightward welding	การเชื่อมถอยหลัง	๒๐ ก.ย. ๒๕๔๔
+backing	แผ่นรองเชื่อม	๒๐ ก.ย. ๒๕๔๔
+backing electrode	ขั้วเชื่อมประกับ	๒๐ ก.ย. ๒๕๔๔
+backing ring	แหวนรองเชื่อม	๒๐ ก.ย. ๒๕๔๔
+backing run; sealing run	เที่ยวเชื่อมปิดหลัง	๒๐ ก.ย. ๒๕๔๔
+backward force	แรงย้อนกลับ	๒๐ ก.ย. ๒๕๔๔
+backward pressure	ความดันย้อนกลับ	๒๐ ก.ย. ๒๕๔๔
+backward welding; backhand welding; rightward welding	การเชื่อมถอยหลัง	๒๐ ก.ย. ๒๕๔๔
+bare wire electrode	ลวดเชื่อมเปลือย	๒๐ ก.ย. ๒๕๔๔
+basic electrode	ลวดเชื่อมเบส	๒๐ ก.ย. ๒๕๔๔
+battery spot-welding machine	เครื่องเชื่อมจุดใช้แบตเตอรี่	๒๐ ก.ย. ๒๕๔๔
+beam current	ลำกระแส	๒๐ ก.ย. ๒๕๔๔
+beam current control	การควบคุมลำกระแส	๒๐ ก.ย. ๒๕๔๔
+beam deflector; deflection coil	ตัวเบนลำ	๒๐ ก.ย. ๒๕๔๔
+beam power	กำลังลำ	๒๐ ก.ย. ๒๕๔๔
+beam power density; specific beam power	ความหนาแน่นกำลังลำ	๒๐ ก.ย. ๒๕๔๔
+bead	แนวเชื่อม	๒๐ ก.ย. ๒๕๔๔
+beam pulsing	การเกิดลำแบบพัลส์	๒๐ ก.ย. ๒๕๔๔
+beam spinning	การหมุนลำ	๒๐ ก.ย. ๒๕๔๔
+bell butt joint	รอยต่อชนปากบานนอก	๒๐ ก.ย. ๒๕๔๔
+bend specimen	ชิ้นทดสอบมาตรฐานดัดโค้ง	๒๐ ก.ย. ๒๕๔๔
+bend test	การทดสอบดัดโค้ง	๒๐ ก.ย. ๒๕๔๔
+bias voltage	แรงดันไบแอส	๒๐ ก.ย. ๒๕๔๔
+blacksmith welding	การเชื่อมทุบด้วยมือ	๒๐ ก.ย. ๒๕๔๔
+blending taper	ปลายสอบ	๒๐ ก.ย. ๒๕๔๔
+block sequence; block welding	การเชื่อมแบบกลุ่ม	๒๐ ก.ย. ๒๕๔๔
+block welding; block sequence	การเชื่อมแบบกลุ่ม	๒๐ ก.ย. ๒๕๔๔
+blowhole	โพรงแก๊ส	๒๐ ก.ย. ๒๕๔๔
+blowpipe	"๑. คันเชื่อมแก๊ส<br/>๒. คันตัดแก๊ส <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=cutting+blowpipe&amp;Sj=0"">cutting blowpipe</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+blowpipe head	หัวคันเชื่อมแก๊ส	๒๐ ก.ย. ๒๕๔๔
+blowpipe shank	ด้ามคันเชื่อมแก๊ส	๒๐ ก.ย. ๒๕๔๔
+bolster	ตัวจับยึด	๒๐ ก.ย. ๒๕๔๔
+bond weld	งานเชื่อมสายโยง	๒๐ ก.ย. ๒๕๔๔
+braided electrode	ลวดเชื่อมหุ้มแบบถัก	๒๐ ก.ย. ๒๕๔๔
+braze metal	โลหะประสาน	๒๐ ก.ย. ๒๕๔๔
+braze welding	การเชื่อมประสาน	๒๐ ก.ย. ๒๕๔๔
+brazing	การแล่นประสาน	๒๐ ก.ย. ๒๕๔๔
+brazing alloy	โลหะเจือแล่นประสาน	๒๐ ก.ย. ๒๕๔๔
+branch T saddle joint	รอยต่อตัวทีรูปอานม้า	๒๐ ก.ย. ๒๕๔๔
+bronze filler metal	"โลหะเติมบรอนซ์ <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=bronze+welding+rod&amp;Sj=0"">bronze welding rod</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+bronze welding	การเชื่อมบรอนซ์	๒๐ ก.ย. ๒๕๔๔
+bronze welding rod	"ลวดเชื่อมบรอนซ์ <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=bronze+filler+metal&amp;Sj=0"">bronze filler metal</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+buffer	ตัวกัน	๒๐ ก.ย. ๒๕๔๔
+building-up	การเสริมผิว	๒๐ ก.ย. ๒๕๔๔
+bunsen type air-acetylene blowpipe	คันเชื่อมอากาศ-อะเซทิลีนแบบบุนเซน	๒๐ ก.ย. ๒๕๔๔
+bunsen type mixer	"หัวผสมแบบบุนเซน <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=open+injector-mixer&amp;Sj=0"">open injector-mixer</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+burden	ชั้นฟลักซ์หลอม	๒๐ ก.ย. ๒๕๔๔
+burnt weld	รอยเชื่อมไหม้	๒๐ ก.ย. ๒๕๔๔
+burn-back	การหลอมย้อน	๒๐ ก.ย. ๒๕๔๔
+burn-off length	ระยะยู่เสียดทาน	๒๐ ก.ย. ๒๕๔๔
+burn-off rate	๑. อัตรายู่เสียดทาน<br/>๒. อัตราสิ้นเปลือง	๒๐ ก.ย. ๒๕๔๔
+burn-through; melt-through	หลอมทะลุ	๒๐ ก.ย. ๒๕๔๔
+butt joint	รอยต่อชน	๒๐ ก.ย. ๒๕๔๔
+butt weld	รอยเชื่อมชน	๒๐ ก.ย. ๒๕๔๔
+butt-seam welding	การเชื่อมตะเข็บชน	๒๐ ก.ย. ๒๕๔๔
+capacitor spot-welding machine; condenser-discharge spot welding machine; condenser-discharge spot-welding machine	เครื่องเชื่อมจุดแบบเก็บประจุ	๒๐ ก.ย. ๒๕๔๔
+carbon-arc cutting	การตัดด้วยอาร์กคาร์บอน	๒๐ ก.ย. ๒๕๔๔
+carbon-arc welding	การเชื่อมอาร์กคาร์บอน	๒๐ ก.ย. ๒๕๔๔
+carburizing flame	เปลวคาร์บอนมาก	๒๐ ก.ย. ๒๕๔๔
+cascade firing	การปล่อยกระแสเป็นลำดับ	๒๐ ก.ย. ๒๕๔๔
+cathode	"แคโทด <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=filament&amp;Sj=0"">filament</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+cathode current	"กระแสแคโทด <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=filament+current&amp;Sj=0"">filament current</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+cathode shield; field electrode	ขั้วหุ้มแคโทด	๒๐ ก.ย. ๒๕๔๔
+cellulosic electrode	ลวดเชื่อมเซลลูโลส	๒๐ ก.ย. ๒๕๔๔
+chain intermittent weld	รอยเชื่อมเว้นระยะตรงกัน	๒๐ ก.ย. ๒๕๔๔
+chill time; quench time	เวลาปล่อยเย็น	๒๐ ก.ย. ๒๕๔๔
+chipping goggles	แว่นกันสะเก็ด	๒๐ ก.ย. ๒๕๔๔
+chipping hammer	ค้อนเคาะขี้เชื่อม	๒๐ ก.ย. ๒๕๔๔
+chipping mark	"รอยเคาะ <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=tool+mark&amp;Sj=0"">tool mark</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+clamp contact area; die contact area; electrode contact area	พื้นที่สัมผัสขั้วเชื่อม	๒๐ ก.ย. ๒๕๔๔
+clamp opening	ระยะปากจับ	๒๐ ก.ย. ๒๕๔๔
+cleft joint	รอยต่อเข้าลิ่ม	๒๐ ก.ย. ๒๕๔๔
+closed injector-mixer	หัวฉีดผสมแก๊สแบบปิด	๒๐ ก.ย. ๒๕๔๔
+closed joint preparation; closed weld preparation	การเตรียมรอยต่อแบบชิด	๒๐ ก.ย. ๒๕๔๔
+closed weld preparation; closed joint preparation	การเตรียมรอยต่อแบบชิด	๒๐ ก.ย. ๒๕๔๔
+วัสดุเชื่อมสิ้นเปลือง	welding consumables	๒๐ ก.ย. ๒๕๔๔
+CO<sub>2</sub> spot welding	การเชื่อมจุดคาร์บอนไดออกไซด์คลุม	๒๐ ก.ย. ๒๕๔๔
+CO<sub>2</sub> welding	การเชื่อมคาร์บอนไดออกไซด์คลุม	๒๐ ก.ย. ๒๕๔๔
+CO<sub>2</sub> flux welding	การเชื่อมฟลักซ์คาร์บอนไดออกไซด์คลุม	๒๐ ก.ย. ๒๕๔๔
+cold welding	การเชื่อมกดเย็น	๒๐ ก.ย. ๒๕๔๔
+cold crack	รอยร้าวขณะเย็น	๒๐ ก.ย. ๒๕๔๔
+collar	"๑. รอยเชื่อมวงแหวน <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=fillet&amp;Sj=0"">fillet</a>]</i><br/>๒. รอยเชื่อมวงรอบ"	๒๐ ก.ย. ๒๕๔๔
+collision angle; contact angle	มุมปะทะระหว่างเชื่อม	๒๐ ก.ย. ๒๕๔๔
+collision front	แนวปะทะ	๒๐ ก.ย. ๒๕๔๔
+combined blowpipe	คันเชื่อมแก๊สอเนกประสงค์	๒๐ ก.ย. ๒๕๔๔
+complete rectification	การเรียงกระแสตรงบริบูรณ์	๒๐ ก.ย. ๒๕๔๔
+concave fillet weld	รอยเชื่อมมุมหน้าเว้า	๒๐ ก.ย. ๒๕๔๔
+condenser-discharge spot welding machine; capacitor spot-welding machine; condenser-discharge spot-welding machine	เครื่องเชื่อมจุดแบบเก็บประจุ	๒๐ ก.ย. ๒๕๔๔
+condenser-discharge spot-welding machine; capacitor spot-welding machine; condenser-discharge spot welding machine	เครื่องเชื่อมจุดแบบเก็บประจุ	๒๐ ก.ย. ๒๕๔๔
+cone	กรวยไฟ	๒๐ ก.ย. ๒๕๔๔
+constant current control	ตัวคุมกระแสคงตัว	๒๐ ก.ย. ๒๕๔๔
+constant-pressure pressure welding	การเชื่อมกดความดันคงตัว	๒๐ ก.ย. ๒๕๔๔
+constant-temperature pressure welding	การเชื่อมกดอุณหภูมิคงตัว	๒๐ ก.ย. ๒๕๔๔
+constant-voltage welding set	ชุดเชื่อมแรงดันคงตัว	๒๐ ก.ย. ๒๕๔๔
+consumable electrode	ลวดเชื่อมสิ้นเปลือง	๒๐ ก.ย. ๒๕๔๔
+consumable nozzle; consumable wire guide	แกนนำลวดเชื่อมสิ้นเปลือง	๒๐ ก.ย. ๒๕๔๔
+consumable wire guide; consumable nozzle	แกนนำลวดเชื่อมสิ้นเปลือง	๒๐ ก.ย. ๒๕๔๔
+contact angle; collision angle	มุมปะทะระหว่างเชื่อม	๒๐ ก.ย. ๒๕๔๔
+contact electrode; touch type electrode	ลวดเชื่อมสัมผัส	๒๐ ก.ย. ๒๕๔๔
+contact tube	ท่อนำลวดเชื่อม	๒๐ ก.ย. ๒๕๔๔
+contact welding; touch welding	การเชื่อมสัมผัส	๒๐ ก.ย. ๒๕๔๔
+continuous covered electrode	ขดลวดเชื่อมหุ้มฟลักซ์	๒๐ ก.ย. ๒๕๔๔
+continuous weld	รอยเชื่อมต่อเนื่อง	๒๐ ก.ย. ๒๕๔๔
+convergent nozzle; divergent nozzle; venturi nozzle	หัวตัดเวนจูริ	๒๐ ก.ย. ๒๕๔๔
+controlled atmosphere brazing	การแล่นประสานควบคุมบรรยากาศ	๒๐ ก.ย. ๒๕๔๔
+controlled bend test	การทดสอบดัดโค้งควบคุมตามแบบ	๒๐ ก.ย. ๒๕๔๔
+controlled-arc welding	การเชื่อมอาร์กควบคุม	๒๐ ก.ย. ๒๕๔๔
+convex fillet weld	รอยเชื่อมมุมหน้านูน	๒๐ ก.ย. ๒๕๔๔
+cool time; off-time	เวลาเย็นตัว	๒๐ ก.ย. ๒๕๔๔
+cooled shoe	ตัวประกับหล่อเย็น	๒๐ ก.ย. ๒๕๔๔
+copper inclusion	ทองแดงฝังใน	๒๐ ก.ย. ๒๕๔๔
+cored electrode	ลวดเชื่อมไส้ฟลักซ์	๒๐ ก.ย. ๒๕๔๔
+corner joint	รอยต่อมุม	๒๐ ก.ย. ๒๕๔๔
+cover glass	"กระจกกั้นใส <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=plain+glass&amp;Sj=0"">plain glass</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+covered electrode	ลวดเชื่อมหุ้มฟลักซ์ <i>[ใช้ไฟฟ้า]</i>	๒๐ ก.ย. ๒๕๔๔
+covered filler rod	ลวดเติมหุ้มฟลักซ์ <i>[ใช้แก๊ส]</i>	๒๐ ก.ย. ๒๕๔๔
+crack	รอยร้าว	๒๐ ก.ย. ๒๕๔๔
+cracking test	การทดสอบการร้าว	๒๐ ก.ย. ๒๕๔๔
+cranked electrode; cranked offset electrode	ขั้วเชื่อมงอเยื้องศูนย์	๒๐ ก.ย. ๒๕๔๔
+cranked offset electrode; cranked electrode	ขั้วเชื่อมงอเยื้องศูนย์	๒๐ ก.ย. ๒๕๔๔
+crater filler	เครื่องกันเกิดรอยบุ๋ม	๒๐ ก.ย. ๒๕๔๔
+crater pipe	รอยบุ๋ม	๒๐ ก.ย. ๒๕๔๔
+cross bar; gap bar	แท่งยึดตัวประกับ	๒๐ ก.ย. ๒๕๔๔
+cross-carriage cutting machine	เครื่องตัดสองมิติ	๒๐ ก.ย. ๒๕๔๔
+cross tension test	การทดสอบดึงภาคตัด	๒๐ ก.ย. ๒๕๔๔
+cross-wire weld	งานเชื่อมไขว้	๒๐ ก.ย. ๒๕๔๔
+cruciform joint	รอยต่อรูปกากบาท	๒๐ ก.ย. ๒๕๔๔
+cruciform test	การทดสอบรูปกากบาท	๒๐ ก.ย. ๒๕๔๔
+cruciform test piece	ชิ้นงานทดสอบรูปกากบาท	๒๐ ก.ย. ๒๕๔๔
+cruciform test specimen	ชิ้นทดสอบมาตรฐานรูปกากบาท	๒๐ ก.ย. ๒๕๔๔
+current decay	การเสื่อมกระแส	๒๐ ก.ย. ๒๕๔๔
+current-off time	เวลาปลอดกระแส	๒๐ ก.ย. ๒๕๔๔
+cutting head; cutter	หัวตัด	๒๐ ก.ย. ๒๕๔๔
+cutting machine	เครื่องตัด	๒๐ ก.ย. ๒๕๔๔
+cutting oxygen	ออกซิเจนตัด	๒๐ ก.ย. ๒๕๔๔
+cutting oxygen bore	รูออกซิเจนตัด	๒๐ ก.ย. ๒๕๔๔
+cutter; cutting head	หัวตัด	๒๐ ก.ย. ๒๕๔๔
+cutter guide	ตัวนำหัวตัด	๒๐ ก.ย. ๒๕๔๔
+cutter head	หัวคันตัด	๒๐ ก.ย. ๒๕๔๔
+cutter steering system; steering system	ระบบนำหัวตัด	๒๐ ก.ย. ๒๕๔๔
+cutting blowpipe	"คันตัดแก๊ส <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=blowpipe&amp;Sj=0"">blowpipe</a> ๒]</i>"	๒๐ ก.ย. ๒๕๔๔
+cutting electrode	อิเล็กโทรดตัด	๒๐ ก.ย. ๒๕๔๔
+cycle recorder	เครื่องบันทึกรอบ	๒๐ ก.ย. ๒๕๔๔
+cyclic reignition voltage	แรงดันจุดอาร์กซ้ำเป็นรอบ	๒๐ ก.ย. ๒๕๔๔
+cycle counter	เครื่องนับรอบ	๒๐ ก.ย. ๒๕๔๔
+D.C. welding generator	เครื่องกำเนิดไฟฟ้าเชื่อมกระแสตรง	๒๐ ก.ย. ๒๕๔๔
+dab joint	รอยต่อฝังหัว	๒๐ ก.ย. ๒๕๔๔
+de-scaling blowpipe; flame cleaning blowpipe	คันเชื่อมขจัดสะเก็ด	๒๐ ก.ย. ๒๕๔๔
+de-seaming	การลบรอย	๒๐ ก.ย. ๒๕๔๔
+de-seaming blowpipe; scarfing torch	คันเชื่อมลบรอย	๒๐ ก.ย. ๒๕๔๔
+de-surfacing; scarfing	การลอกผิว	๒๐ ก.ย. ๒๕๔๔
+decay current	กระแสเสื่อม	๒๐ ก.ย. ๒๕๔๔
+decay time	เวลากระแสเสื่อม	๒๐ ก.ย. ๒๕๔๔
+deep penetration electrode	ลวดเชื่อมหลอมลึก	๒๐ ก.ย. ๒๕๔๔
+deflection coil; beam deflector	ตัวเบนลำ	๒๐ ก.ย. ๒๕๔๔
+deformation	การเปลี่ยนรูป	๒๐ ก.ย. ๒๕๔๔
+delayed firing	การปล่อยกระแสหน่วง	๒๐ ก.ย. ๒๕๔๔
+delayed non-beat	ระบบหน่วงกันสะดุด	๒๐ ก.ย. ๒๕๔๔
+dense slag; solid slag	ขี้เชื่อมแน่น	๒๐ ก.ย. ๒๕๔๔
+deposited metal	โลหะเติมแล้ว	๒๐ ก.ย. ๒๕๔๔
+deposition coefficient	สัมประสิทธิ์การเติม, สัมประสิทธิ์การพอกพูน	๒๐ ก.ย. ๒๕๔๔
+deposition efficiency; metal recovery	ประสิทธิภาพการเติม, ประสิทธิภาพการพอกพูน	๒๐ ก.ย. ๒๕๔๔
+deposition rate	อัตราการเติม, อัตราการพอกพูน	๒๐ ก.ย. ๒๕๔๔
+design throat thickness	"ความหนารอยเชื่อมตามแบบ <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=effective+throat+thickness&amp;Sj=0"">effective throat thickness</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+die; welding die	ดายเชื่อม	๒๐ ก.ย. ๒๕๔๔
+die contact area; clamp contact area; electrode contact area	พื้นที่สัมผัสขั้วเชื่อม	๒๐ ก.ย. ๒๕๔๔
+die gap; die opening	ช่องระหว่างดาย	๒๐ ก.ย. ๒๕๔๔
+die opening; die gap	ช่องระหว่างดาย	๒๐ ก.ย. ๒๕๔๔
+diffusion welding	การเชื่อมแบบแพร่	๒๐ ก.ย. ๒๕๔๔
+digital timer	เครื่องตั้งเวลาแบบดิจิทัล	๒๐ ก.ย. ๒๕๔๔
+dilution	๑. การทำให้เจือจาง<br/>๒. ความเจือจาง	๒๐ ก.ย. ๒๕๔๔
+dip transfer	การถ่ายโอนแบบจุ่ม	๒๐ ก.ย. ๒๕๔๔
+diminishing bell butt joint	รอยต่อชนปากบานใน	๒๐ ก.ย. ๒๕๔๔
+diode gun	ปืนไดโอด	๒๐ ก.ย. ๒๕๔๔
+dip brazing	การแล่นประสานแบบจุ่ม	๒๐ ก.ย. ๒๕๔๔
+dipped electrode	ลวดเชื่อมหุ้มแบบจุ่ม	๒๐ ก.ย. ๒๕๔๔
+dissolved acetylene	อะเซทิลีนละลาย	๒๐ ก.ย. ๒๕๔๔
+distortion bung; distortion plug	จุกกันเบี้ยว	๒๐ ก.ย. ๒๕๔๔
+distortion plug; distortion bung	จุกกันเบี้ยว	๒๐ ก.ย. ๒๕๔๔
+divergent nozzle; convergent nozzle; venturi nozzle	หัวตัดเวนจูริ	๒๐ ก.ย. ๒๕๔๔
+double-portal cutting machine	เครื่องตัดคู่ระหว่างราง	๒๐ ก.ย. ๒๕๔๔
+double-U butt weld	รอยเชื่อมชนรูปตัวยูคู่	๒๐ ก.ย. ๒๕๔๔
+double-V butt weld	รอยเชื่อมชนรูปตัววีคู่	๒๐ ก.ย. ๒๕๔๔
+double-bevel butt weld	รอยเชื่อมชนหน้าเฉียงคู่	๒๐ ก.ย. ๒๕๔๔
+double-cantilever cutting machine	เครื่องตัดคานยื่นสองข้าง	๒๐ ก.ย. ๒๕๔๔
+double-cranked electrode; swan-necked electrode	ขั้วเชื่อมคอห่าน	๒๐ ก.ย. ๒๕๔๔
+double-glut butt joint	รอยต่อชนชิ้นเสริมคู่	๒๐ ก.ย. ๒๕๔๔
+double-J butt weld	รอยเชื่อมชนรูปตัวเจคู่	๒๐ ก.ย. ๒๕๔๔
+dovetail joint	รอยต่อหางนก	๒๐ ก.ย. ๒๕๔๔
+drag line	รอยเบน	๒๐ ก.ย. ๒๕๔๔
+drag	ระยะเบน	๒๐ ก.ย. ๒๕๔๔
+drooping characteristicwelding set	ชุดเชื่อมแรงดันลด	๒๐ ก.ย. ๒๕๔๔
+droplet transfer; spray transfer	การถ่ายโอนแบบละออง	๒๐ ก.ย. ๒๕๔๔
+dual fuel blowpipe	คันตัดแก๊สเชื้อเพลิงผสม	๒๐ ก.ย. ๒๕๔๔
+dual gun control	การควบคุมปืนเชื่อมคู่สลับ	๒๐ ก.ย. ๒๕๔๔
+dual gun dual sequence control; dual gun dual welding cycle control	การควบคุมปืนเชื่อมคู่สลับรอบ	๒๐ ก.ย. ๒๕๔๔
+dual gun dual welding cycle control; dual gun dual sequence control	การควบคุมปืนเชื่อมคู่สลับรอบ	๒๐ ก.ย. ๒๕๔๔
+dual pressure cycle	รอบความดันสองระดับ	๒๐ ก.ย. ๒๕๔๔
+duty cycle	รอบทำงาน	๒๐ ก.ย. ๒๕๔๔
+dwell time; hold time	เวลากดค้าง	๒๐ ก.ย. ๒๕๔๔
+dynamic characteristic	ลักษณะเฉพาะพลวัต	๒๐ ก.ย. ๒๕๔๔
+หมวกเชื่อม	"head screen; <a href=""/coinages/websearch.php?Wd=head+shield&amp;Sj=0"">head shield</a>; <a href=""/coinages/websearch.php?Wd=helmet&amp;Sj=0"">helmet</a>"	๒๐ ก.ย. ๒๕๔๔
+หม้อแปลงเชื่อมหมุน	rotary welding transformer	๒๐ ก.ย. ๒๕๔๔
+หม้อแปลงเชื่อมอาร์ก	arc welding transformer	๒๐ ก.ย. ๒๕๔๔
+หม้อแปลงเชื่อมอาร์กปรับเอง	self-regulating arc-welding transformer	๒๐ ก.ย. ๒๕๔๔
+สแลก, ขี้เชื่อม	slag	๒๐ ก.ย. ๒๕๔๔
+สแลกฝังในเชิงเส้น, ขี้เชื่อมฝังในเชิงเส้น	"linear inclusion; <a href=""/coinages/websearch.php?Wd=slag+line&amp;Sj=0"">slag line</a>"	๒๐ ก.ย. ๒๕๔๔
+EB welding; electron beam welding	การเชื่อมด้วยลำอิเล็กตรอน	๒๐ ก.ย. ๒๕๔๔
+สะเก็ด	splash	๒๐ ก.ย. ๒๕๔๔
+สะเก็ดวาบ	flash	๒๐ ก.ย. ๒๕๔๔
+สะเก็ดติด; หลอมรวม	pick-up	๒๐ ก.ย. ๒๕๔๔
+สะเก็ดติดปลายขั้วเชื่อม	electrode pick-up	๒๐ ก.ย. ๒๕๔๔
+สะเก็ดติดผิว	surface pick-up	๒๐ ก.ย. ๒๕๔๔
+edge distance	ระยะขอบ	๒๐ ก.ย. ๒๕๔๔
+edge joint	รอยต่อขอบ	๒๐ ก.ย. ๒๕๔๔
+edge preparation; end preparation	การเตรียมขอบ	๒๐ ก.ย. ๒๕๔๔
+edge weld	รอยเชื่อมขอบ	๒๐ ก.ย. ๒๕๔๔
+ส่วนยื่น	overhang	๒๐ ก.ย. ๒๕๔๔
+ส่วนยื่นลวดเชื่อม	electrode extension	๒๐ ก.ย. ๒๕๔๔
+effective length	ความยาวยังผล	๒๐ ก.ย. ๒๕๔๔
+effective throat thickness	"ความหนารอยเชื่อมยังผล <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=design+throat+thickness&amp;Sj=0"">design throat thickness</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+electro-slag welding	การเชื่อมไฟฟ้าสแลกคลุม	๒๐ ก.ย. ๒๕๔๔
+electro-slag welding flux	ฟลักซ์เชื่อมไฟฟ้าสแลกคลุม	๒๐ ก.ย. ๒๕๔๔
+electro-gas welding	การเชื่อมไฟฟ้าแก๊สคลุม	๒๐ ก.ย. ๒๕๔๔
+electrode	๑. ขั้วเชื่อม<br/>๒. ลวดเชื่อม<br/>๓. อิเล็กโทรด	๒๐ ก.ย. ๒๕๔๔
+electrode clearance; electrode gap	ระยะขั้วเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electrode contact area; clamp contact area; die contact area	พื้นที่สัมผัสขั้วเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electrode current range	พิสัยกระแสอิเล็กโทรด	๒๐ ก.ย. ๒๕๔๔
+electrode efficiency; electrode recovery; electrode yield; eletrode recovery	ประสิทธิภาพลวดเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electrode extension	ส่วนยื่นลวดเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electrode face	หน้าขั้วเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electrode force	แรงขั้วเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electrode gap; electrode clearance	ระยะขั้วเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electrode holder	ตัวจับอิเล็กโทรด	๒๐ ก.ย. ๒๕๔๔
+electrode negative	อิเล็กโทรดขั้วลบ	๒๐ ก.ย. ๒๕๔๔
+electrode pick-up	สะเก็ดติดปลายขั้วเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electrode positive	อิเล็กโทรดขั้วบวก	๒๐ ก.ย. ๒๕๔๔
+electrode pressure	ความดันขั้วเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electrode recovery; electrode efficiency; electrode yield; eletrode recovery	ประสิทธิภาพลวดเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electrode shank	ก้านขั้วเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electrode tip	ปลายขั้วเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electrode wheel	ขั้วเชื่อมแบบล้อ	๒๐ ก.ย. ๒๕๔๔
+electrode wheel head	หัวจับขั้วเชื่อมแบบล้อ	๒๐ ก.ย. ๒๕๔๔
+electrode yield; electrode efficiency; electrode recovery; eletrode recovery	ประสิทธิภาพลวดเชื่อม	๒๐ ก.ย. ๒๕๔๔
+electronic frequency converter	เครื่องแปลงความถี่อิเล็กทรอนิกส์	๒๐ ก.ย. ๒๕๔๔
+electron beam cutting	การตัดด้วยลำอิเล็กตรอน	๒๐ ก.ย. ๒๕๔๔
+electron beam welding; EB welding	การเชื่อมด้วยลำอิเล็กตรอน	๒๐ ก.ย. ๒๕๔๔
+electron beam welding machine	เครื่องเชื่อมด้วยลำอิเล็กตรอน	๒๐ ก.ย. ๒๕๔๔
+electron gun	ปืนอิเล็กตรอน	๒๐ ก.ย. ๒๕๔๔
+eletrode recovery; electrode efficiency; electrode recovery; electrode yield	ประสิทธิภาพลวดเชื่อม	๒๐ ก.ย. ๒๕๔๔
+elongated cavity	โพรงยาว	๒๐ ก.ย. ๒๕๔๔
+สัมประสิทธิ์การเติม, สัมประสิทธิ์การพอกพูน	deposition coefficient	๒๐ ก.ย. ๒๕๔๔
+หัวเชื่อม	welding head	๒๐ ก.ย. ๒๕๔๔
+หัวเชื่อมมิก	MIG gun	๒๐ ก.ย. ๒๕๔๔
+หัวเชื่อมไฮโดรเจน	atomic-hydrogen torch	๒๐ ก.ย. ๒๕๔๔
+หัวเชื่อมทิก	"argon-arc torch; <a href=""/coinages/websearch.php?Wd=TIG+torch&amp;Sj=0"">TIG torch</a>"	๒๐ ก.ย. ๒๕๔๔
+หัวเชื่อมพลาสมา	plasma torch	๒๐ ก.ย. ๒๕๔๔
+หัวคันตัด	cutter head	๒๐ ก.ย. ๒๕๔๔
+หัวจับขั้วเชื่อมแบบล้อ	electrode wheel head	๒๐ ก.ย. ๒๕๔๔
+หัวฉีด, หัวพ่น; หัวตัด	nozzle	๒๐ ก.ย. ๒๕๔๔
+หัวฉีดผสมแก๊ส	injector-mixer	๒๐ ก.ย. ๒๕๔๔
+หัวฉีดผสมแก๊สแบบปิด	closed injector-mixer	๒๐ ก.ย. ๒๕๔๔
+หัวฉีดผสมแบบเปิด	open injector-mixer	๒๐ ก.ย. ๒๕๔๔
+หัวต่อท่ออ่อน	hose coupling nipple	๒๐ ก.ย. ๒๕๔๔
+หัวคันเชื่อมแก๊ส	blowpipe head	๒๐ ก.ย. ๒๕๔๔
+หัวผสมแบบบุนเซน	bunsen type mixer	๒๐ ก.ย. ๒๕๔๔
+หัวพ่น, หัวฉีด	nozzle	๒๐ ก.ย. ๒๕๔๔
+หัวตัด	"cutter; <a href=""/coinages/websearch.php?Wd=cutting+head&amp;Sj=0"">cutting head</a>"	๒๐ ก.ย. ๒๕๔๔
+หัวตัด; หัวฉีด, หัวพ่น	nozzle	๒๐ ก.ย. ๒๕๔๔
+หัวตัดรวม	one-piece nozzle	๒๐ ก.ย. ๒๕๔๔
+หัวตัดเวนจูริ	"convergent nozzle; <a href=""/coinages/websearch.php?Wd=divergent+nozzle&amp;Sj=0"">divergent nozzle</a>; <a href=""/coinages/websearch.php?Wd=venturi+nozzle&amp;Sj=0"">venturi nozzle</a>"	๒๐ ก.ย. ๒๕๔๔
+หัวตัดรูขนาน	parallel bore nozzle	๒๐ ก.ย. ๒๕๔๔
+หัวตัดแบบขั้น	"sheet metal nozzle; <a href=""/coinages/websearch.php?Wd=step-type+nozzle&amp;Sj=0"">step-type nozzle</a>"	๒๐ ก.ย. ๒๕๔๔
+หัวตัดวงแหวน	"annular flame cutting nozzle; <a href=""/coinages/websearch.php?Wd=annular+preheat+cutting+nozzle&amp;Sj=0"">annular preheat cutting nozzle</a>"	๒๐ ก.ย. ๒๕๔๔
+หัวตัดหลายรู	"multi-flame cutting nozzle; <a href=""/coinages/websearch.php?Wd=multi-preheat+cutting+nozzle&amp;Sj=0"">multi-preheat cutting nozzle</a>"	๒๐ ก.ย. ๒๕๔๔
+หัวตัดขลิบริม	rip-trim cutter	๒๐ ก.ย. ๒๕๔๔
+end tapering	การเชื่อมปลายลาด	๒๐ ก.ย. ๒๕๔๔
+end preparation; edge preparation	การเตรียมขอบ	๒๐ ก.ย. ๒๕๔๔
+engine driven welding set	ชุดเชื่อมใช้เครื่องยนต์	๒๐ ก.ย. ๒๕๔๔
+สารรองพื้นก่อนเชื่อม	welding primer	๒๐ ก.ย. ๒๕๔๔
+สารกันติด	stopping-off agent	๒๐ ก.ย. ๒๕๔๔
+สารฝังใน	inclusion	๒๐ ก.ย. ๒๕๔๔
+สารผสมเทอร์มิต	thermit mixture	๒๐ ก.ย. ๒๕๔๔
+หินก้นเบ้าวงนอก	stone	๒๐ ก.ย. ๒๕๔๔
+หินก้นเบ้าวงใน	thimble	๒๐ ก.ย. ๒๕๔๔
+excess penetration bead	แนวเชื่อมหลอมลึกเกิน	๒๐ ก.ย. ๒๕๔๔
+excess weld metal; reinforcement	โลหะเชื่อมส่วนเกิน	๒๐ ก.ย. ๒๕๔๔
+excessive dressing; underflushing	การแต่งเข้าเนื้อ	๒๐ ก.ย. ๒๕๔๔
+expansion gun; reaction gun	ปืนขยาย	๒๐ ก.ย. ๒๕๔๔
+explosive welding	การเชื่อมอัดระเบิด	๒๐ ก.ย. ๒๕๔๔
+extended boom single-cantilever cutting machine	เครื่องตัดคานยื่นเดี่ยวยาว	๒๐ ก.ย. ๒๕๔๔
+extruded electrode	ลวดเชื่อมหุ้มแบบอัดรีด	๒๐ ก.ย. ๒๕๔๔
+หลอมรวม; สะเก็ดติด	pick-up	๒๐ ก.ย. ๒๕๔๔
+หลอมไม่ติดระหว่างชั้น	lack of inter-run fusion	๒๐ ก.ย. ๒๕๔๔
+หลอมไม่ติดราก, หลอมไม่ติดฐาน	lack of root fusion	๒๐ ก.ย. ๒๕๔๔
+หลอมไม่ติดฐาน, หลอมไม่ติดราก	lack of root fusion	๒๐ ก.ย. ๒๕๔๔
+หลอมไม่ติดด้านข้าง	lack of side fusion	๒๐ ก.ย. ๒๕๔๔
+หลอมไม่ติดบางส่วน	lack of fusion	๒๐ ก.ย. ๒๕๔๔
+หลอมทะลุ	"burn-through; <a href=""/coinages/websearch.php?Wd=melt-through&amp;Sj=0"">melt-through</a>"	๒๐ ก.ย. ๒๕๔๔
+สลักหลอมได้	fusible insert	๒๐ ก.ย. ๒๕๔๔
+สลักปิดก้นเบ้า	tapping pin	๒๐ ก.ย. ๒๕๔๔
+สลักปลายหุ้มฟลักซ์เคลือบโลหะ	metallized fluxed stud	๒๐ ก.ย. ๒๕๔๔
+สลักปลายฟลักซ์	slug loaded stud	๒๐ ก.ย. ๒๕๔๔
+สลักบรรจุเม็ดฟลักซ์	granular flux filled stud	๒๐ ก.ย. ๒๕๔๔
+หน่วยเจียนด้วยเปลวไฟ	flame planing unit	๒๐ ก.ย. ๒๕๔๔
+หน่วยชุดเชื่อม, ชุดเครื่องเชื่อม	welding plant	๒๐ ก.ย. ๒๕๔๔
+หน้าสัมผัส	interface	๒๐ ก.ย. ๒๕๔๔
+หน้าหลอม	fusion face	๒๐ ก.ย. ๒๕๔๔
+หน้ารอยเชื่อม	weld face	๒๐ ก.ย. ๒๕๔๔
+หน้าราก, หน้าฐาน	root face	๒๐ ก.ย. ๒๕๔๔
+หน้าขั้วเชื่อม	electrode face	๒๐ ก.ย. ๒๕๔๔
+หน้าฐาน, หน้าราก	root face	๒๐ ก.ย. ๒๕๔๔
+หน้าล้ออิเล็กโทรด	tread	๒๐ ก.ย. ๒๕๔๔
+หน้ากาก	face mask	๒๐ ก.ย. ๒๕๔๔
+หน้ากากมือถือ	"face shield; <a href=""/coinages/websearch.php?Wd=hand+screen&amp;Sj=0"">hand screen</a>; <a href=""/coinages/websearch.php?Wd=hand+shield&amp;Sj=0"">hand shield</a>"	๒๐ ก.ย. ๒๕๔๔
+face bend test	"การทดสอบดัดโค้งด้านหน้า <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=normal+bend+test&amp;Sj=0"">normal bend test</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+face mask	หน้ากาก	๒๐ ก.ย. ๒๕๔๔
+face shield; hand screen; hand shield	หน้ากากมือถือ	๒๐ ก.ย. ๒๕๔๔
+faying surface	ผิวสัมผัส	๒๐ ก.ย. ๒๕๔๔
+feather	เปลวขนนก	๒๐ ก.ย. ๒๕๔๔
+feather edge	ขอบขนนก	๒๐ ก.ย. ๒๕๔๔
+ferrule	ปลอกดักเชื่อมสลัก	๒๐ ก.ย. ๒๕๔๔
+field electrode; cathode shield	ขั้วหุ้มแคโทด	๒๐ ก.ย. ๒๕๔๔
+field weld; site weld	งานเชื่อมหน้างาน	๒๐ ก.ย. ๒๕๔๔
+filament	"ฟิลาเมนต์ <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=cathode&amp;Sj=0"">cathode</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+filament current	"กระแสฟิลาเมนต์ <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=cathode+current&amp;Sj=0"">cathode current</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+filter glass	"กระจกกรองแสง <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=welding+glass&amp;Sj=0"">welding glass</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+filler metal	โลหะเติม	๒๐ ก.ย. ๒๕๔๔
+filler rod	ลวดเติม	๒๐ ก.ย. ๒๕๔๔
+filler wire	"ม้วนลวดเติม <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=welding+wire&amp;Sj=0"">welding wire</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+fillet	"รอยเชื่อมวงแหวน <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=collar&amp;Sj=0"">collar</a> ๑]</i>"	๒๐ ก.ย. ๒๕๔๔
+fillet weld	รอยเชื่อมมุม	๒๐ ก.ย. ๒๕๔๔
+fin	ครีบ	๒๐ ก.ย. ๒๕๔๔
+final current	กระแสปลาย, กระแสสิ้นสุด	๒๐ ก.ย. ๒๕๔๔
+fire welding; forge welding	การเชื่อมทุบ	๒๐ ก.ย. ๒๕๔๔
+firecracker welding	การเชื่อมปะทุ	๒๐ ก.ย. ๒๕๔๔
+firing angle; phase angle	มุมเฟส	๒๐ ก.ย. ๒๕๔๔
+fish eye	ตาปลา <i>[รอยแตก]</i>	๒๐ ก.ย. ๒๕๔๔
+fitted hose	ท่ออ่อนพร้อมข้อต่อ	๒๐ ก.ย. ๒๕๔๔
+fixed shield	โล่เชื่อมประจำที่	๒๐ ก.ย. ๒๕๔๔
+flame brazing	การแล่นประสานเปลวไฟ	๒๐ ก.ย. ๒๕๔๔
+flame cleaning blowpipe; de-scaling blowpipe	คันเชื่อมขจัดสะเก็ด	๒๐ ก.ย. ๒๕๔๔
+flame cutting	การตัดด้วยเปลวไฟ	๒๐ ก.ย. ๒๕๔๔
+flash	สะเก็ดวาบ	๒๐ ก.ย. ๒๕๔๔
+flash welding	การเชื่อมวาบ	๒๐ ก.ย. ๒๕๔๔
+flame normalizing	การอบปรกติด้วยเปลวไฟ	๒๐ ก.ย. ๒๕๔๔
+flame planing machine	เครื่องเจียนด้วยเปลวไฟ	๒๐ ก.ย. ๒๕๔๔
+flame planing unit	หน่วยเจียนด้วยเปลวไฟ	๒๐ ก.ย. ๒๕๔๔
+flame snap-out	เปลวสะดุดดับ	๒๐ ก.ย. ๒๕๔๔
+flame washing	การแต่งผิวด้วยเปลวไฟ	๒๐ ก.ย. ๒๕๔๔
+flash welding with preheating	การเชื่อมวาบแบบอุ่นก่อน	๒๐ ก.ย. ๒๕๔๔
+flashback	ไฟวาบย้อนกลับ	๒๐ ก.ย. ๒๕๔๔
+flashback arrester	ชุดกันไฟวาบย้อนกลับ	๒๐ ก.ย. ๒๕๔๔
+flashing	การวาบ	๒๐ ก.ย. ๒๕๔๔
+flashing allowance	ระยะเผื่อวาบ	๒๐ ก.ย. ๒๕๔๔
+flashing current	กระแสวาบ	๒๐ ก.ย. ๒๕๔๔
+flashing loss	ระยะหดขณะวาบ	๒๐ ก.ย. ๒๕๔๔
+flashing speed	อัตราเร็ววาบ	๒๐ ก.ย. ๒๕๔๔
+flashing time	เวลาวาบ	๒๐ ก.ย. ๒๕๔๔
+flashing travel	ระยะวาบ	๒๐ ก.ย. ๒๕๔๔
+flat position	ท่าราบ, แนวราบ	๒๐ ก.ย. ๒๕๔๔
+flat spot	จุดเรียบ	๒๐ ก.ย. ๒๕๔๔
+flat electrode; pad electrode	ขั้วเชื่อมพื้นราบ	๒๐ ก.ย. ๒๕๔๔
+flat face fillet weld	รอยเชื่อมมุมหน้าราบ	๒๐ ก.ย. ๒๕๔๔
+flattening test	การทดสอบกดแบน <i>[ท่อ]</i>	๒๐ ก.ย. ๒๕๔๔
+floating head	ตัวจับหัวตัดลอยตัว	๒๐ ก.ย. ๒๕๔๔
+fluid slag	ขี้เชื่อมเหลว	๒๐ ก.ย. ๒๕๔๔
+flux	ฟลักซ์	๒๐ ก.ย. ๒๕๔๔
+flux-dip brazing	การแล่นประสานจุ่มฟลักซ์	๒๐ ก.ย. ๒๕๔๔
+fluxed ferrule	ปลอกดักฟลักซ์เชื่อมสลัก	๒๐ ก.ย. ๒๕๔๔
+flush weld	รอยเชื่อมเรียบ	๒๐ ก.ย. ๒๕๔๔
+focal length	ความยาวโฟกัส	๒๐ ก.ย. ๒๕๔๔
+focal spot	จุดโฟกัส	๒๐ ก.ย. ๒๕๔๔
+focus control	ตัวควบคุมโฟกัส	๒๐ ก.ย. ๒๕๔๔
+focusing lens	เลนส์โฟกัส	๒๐ ก.ย. ๒๕๔๔
+flyer plate	แผ่นเคลื่อนที่	๒๐ ก.ย. ๒๕๔๔
+foil butt-seam welding; tape butt-seam welding	การเชื่อมตะเข็บชนใช้แผ่นเปลว	๒๐ ก.ย. ๒๕๔๔
+follow-up	การกดย้ำ	๒๐ ก.ย. ๒๕๔๔
+foot-operated welding machine; pedal-operated welding machine	เครื่องเชื่อมแบบคันเหยียบ	๒๐ ก.ย. ๒๕๔๔
+forge delay time	เวลาหน่วงกด	๒๐ ก.ย. ๒๕๔๔
+forge force; forging force	แรงกดยู่	๒๐ ก.ย. ๒๕๔๔
+forge length	ระยะกดยู่	๒๐ ก.ย. ๒๕๔๔
+forge pressure; forging pressure	ความดันกดยู่	๒๐ ก.ย. ๒๕๔๔
+forge rate	อัตรากดยู่	๒๐ ก.ย. ๒๕๔๔
+forge speed	อัตราเร็วกดยู่	๒๐ ก.ย. ๒๕๔๔
+forge time; forging time	เวลากดยู่	๒๐ ก.ย. ๒๕๔๔
+forge welding; fire welding	การเชื่อมทุบ	๒๐ ก.ย. ๒๕๔๔
+forge welding flux plate	แผ่นฟลักซ์งานเชื่อมทุบ	๒๐ ก.ย. ๒๕๔๔
+forging force; forge force	แรงกดยู่	๒๐ ก.ย. ๒๕๔๔
+forging pressure; forge pressure	ความดันกดยู่	๒๐ ก.ย. ๒๕๔๔
+forging time; forge time	เวลากดยู่	๒๐ ก.ย. ๒๕๔๔
+forward force	แรงผลัก	๒๐ ก.ย. ๒๕๔๔
+forward pressure	ความดันผลัก	๒๐ ก.ย. ๒๕๔๔
+forward welding; leftward welding	การเชื่อมเดินหน้า	๒๐ ก.ย. ๒๕๔๔
+free bend test	การทดสอบดัดโค้งอิสระ	๒๐ ก.ย. ๒๕๔๔
+friable slag	ขี้เชื่อมเปราะ	๒๐ ก.ย. ๒๕๔๔
+friction force	แรงเสียดทาน	๒๐ ก.ย. ๒๕๔๔
+friction pressure	ความดันเสียดทาน	๒๐ ก.ย. ๒๕๔๔
+friction speed	อัตราเร็วเสียดทาน	๒๐ ก.ย. ๒๕๔๔
+friction time	เวลาเสียดทาน	๒๐ ก.ย. ๒๕๔๔
+friction welding	การเชื่อมเสียดทาน	๒๐ ก.ย. ๒๕๔๔
+full penetration welding	การเชื่อมหลอมลึกเต็มที่	๒๐ ก.ย. ๒๕๔๔
+full vacuum system; hard vacuum system	ระบบเชื่อมสุญญากาศเต็มที่	๒๐ ก.ย. ๒๕๔๔
+furnace brazing	การแล่นประสานในเตาหลอม	๒๐ ก.ย. ๒๕๔๔
+fusion face	หน้าหลอม	๒๐ ก.ย. ๒๕๔๔
+fusion penetration	ระยะหลอมลึก	๒๐ ก.ย. ๒๕๔๔
+fusion spot weld	รอยเชื่อมจุดหลอม	๒๐ ก.ย. ๒๕๔๔
+fusion welding	การเชื่อมหลอม	๒๐ ก.ย. ๒๕๔๔
+fusion zone	บริเวณหลอม	๒๐ ก.ย. ๒๕๔๔
+fused melt	ฟลักซ์หลอม	๒๐ ก.ย. ๒๕๔๔
+fusible insert	สลักหลอมได้	๒๐ ก.ย. ๒๕๔๔
+gantry cutting machine; portal cutting machine	เครื่องตัดเดี่ยวระหว่างราง	๒๐ ก.ย. ๒๕๔๔
+gap	ช่องว่าง	๒๐ ก.ย. ๒๕๔๔
+gap bar; cross bar	แท่งยึดตัวประกับ	๒๐ ก.ย. ๒๕๔๔
+gas economizer	เครื่องประหยัดแก๊ส	๒๐ ก.ย. ๒๕๔๔
+gas envelope	เปลวแก๊สชั้นนอก	๒๐ ก.ย. ๒๕๔๔
+gas fluxing	การให้ฟลักซ์แก๊ส	๒๐ ก.ย. ๒๕๔๔
+gas jet laser cutting	การตัดด้วยเลเซอร์แก๊ส	๒๐ ก.ย. ๒๕๔๔
+gas laser	เครื่องเลเซอร์ใช้แก๊ส	๒๐ ก.ย. ๒๕๔๔
+gas pore	ฟองแก๊ส, ตามด	๒๐ ก.ย. ๒๕๔๔
+gas regulator; pressure regulator	ตัวคุมค่าความดัน	๒๐ ก.ย. ๒๕๔๔
+gas shield	แก๊สคลุม	๒๐ ก.ย. ๒๕๔๔
+gas shielded metal-arc welding	การเชื่อมอาร์กโลหะแก๊สคลุม	๒๐ ก.ย. ๒๕๔๔
+gas welding	การเชื่อมแก๊ส	๒๐ ก.ย. ๒๕๔๔
+gas-shielded arc welding	การเชื่อมอาร์กแก๊สคลุม	๒๐ ก.ย. ๒๕๔๔
+globular transfer	การถ่ายโอนแบบหยด	๒๐ ก.ย. ๒๕๔๔
+glut	ชิ้นเสริม	๒๐ ก.ย. ๒๕๔๔
+gouging (thermal)	การเซาะร่อง <i>[ด้วยความร้อน]</i>	๒๐ ก.ย. ๒๕๔๔
+gouging blowpipe	คันตัดแก๊สเซาะร่อง	๒๐ ก.ย. ๒๕๔๔
+gouging (thermal)	การเซาะร่อง <i>[ด้วยความร้อน]</i>	๒๐ ก.ย. ๒๕๔๔
+granular flux filled stud	สลักบรรจุเม็ดฟลักซ์	๒๐ ก.ย. ๒๕๔๔
+gravity welding	การเชื่อมใช้แรงโน้มถ่วง	๒๐ ก.ย. ๒๕๔๔
+grid electrode	กริดอิเล็กโทรด	๒๐ ก.ย. ๒๕๔๔
+grinding mark	รอยขัด	๒๐ ก.ย. ๒๕๔๔
+groove weld	รอยเชื่อมร่อง	๒๐ ก.ย. ๒๕๔๔
+guide tube	ท่อนำ	๒๐ ก.ย. ๒๕๔๔
+guided bend test	การทดสอบดัดโค้งตามแบบ	๒๐ ก.ย. ๒๕๔๔
+gun; gun welding head	ปืนเชื่อม	๒๐ ก.ย. ๒๕๔๔
+gun welding head; gun	ปืนเชื่อม	๒๐ ก.ย. ๒๕๔๔
+gun welding machine	เครื่องเชื่อมจุดแบบปืน	๒๐ ก.ย. ๒๕๔๔
+half-cycle welding	การเชื่อมครึ่งรอบกระแส	๒๐ ก.ย. ๒๕๔๔
+hand-operated welding machine	เครื่องเชื่อมมือกด	๒๐ ก.ย. ๒๕๔๔
+hammer mark	รอยค้อน	๒๐ ก.ย. ๒๕๔๔
+hammer welding	การเชื่อมทุบด้วยเครื่อง	๒๐ ก.ย. ๒๕๔๔
+hand screen; face shield; hand shield	หน้ากากมือถือ	๒๐ ก.ย. ๒๕๔๔
+hand shield; face shield; hand screen	หน้ากากมือถือ	๒๐ ก.ย. ๒๕๔๔
+hard facing; hard surfacing	๑. การฉาบผิวแข็ง<br/>๒. การพอกผิวแข็ง	๒๐ ก.ย. ๒๕๔๔
+hard facing electrode; hard surfacing electrode	ลวดเชื่อมพอกผิวแข็ง	๒๐ ก.ย. ๒๕๔๔
+hard surfacing; hard facing	๑. การฉาบผิวแข็ง<br/>๒. การพอกผิวแข็ง	๒๐ ก.ย. ๒๕๔๔
+hard surfacing electrode; hard facing electrode	ลวดเชื่อมพอกผิวแข็ง	๒๐ ก.ย. ๒๕๔๔
+hard vacuum system; full vacuum system	ระบบเชื่อมสุญญากาศเต็มที่	๒๐ ก.ย. ๒๕๔๔
+harsh flame	เปลวแรง	๒๐ ก.ย. ๒๕๔๔
+head screen; head shield; helmet	หมวกเชื่อม	๒๐ ก.ย. ๒๕๔๔
+head shield; head screen; helmet	หมวกเชื่อม	๒๐ ก.ย. ๒๕๔๔
+head lowering time	เวลาลดระยะหัวเชื่อม	๒๐ ก.ย. ๒๕๔๔
+head mixing blowpipe	คันเชื่อมแก๊สผสมที่หัว	๒๐ ก.ย. ๒๕๔๔
+heat control	การควบคุมความร้อน	๒๐ ก.ย. ๒๕๔๔
+heat diffusion time	เวลาแพร่ความร้อน	๒๐ ก.ย. ๒๕๔๔
+heat filter	กระจกกันความร้อน	๒๐ ก.ย. ๒๕๔๔
+heating time	เวลาให้ความร้อน	๒๐ ก.ย. ๒๕๔๔
+heat time; on-time	เวลาร้อน	๒๐ ก.ย. ๒๕๔๔
+heat-affected zone	บริเวณกระทบร้อน	๒๐ ก.ย. ๒๕๔๔
+helmet; head screen; head shield	หมวกเชื่อม	๒๐ ก.ย. ๒๕๔๔
+HF ignition	"การจุดอาร์กด้วยความถี่สูง <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=spark+starting&amp;Sj=0"">spark starting</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+HF induction welding	การเชื่อมเหนี่ยวนำความถี่สูง	๒๐ ก.ย. ๒๕๔๔
+HF pressure welding	การเชื่อมกดความถี่สูง	๒๐ ก.ย. ๒๕๔๔
+HF reignition	"การจุดอาร์กซ้ำด้วยความถี่สูง <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=spark+reignition&amp;Sj=0"">spark reignition</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+HF resistance welding	การเชื่อมความต้านทานความถี่สูง	๒๐ ก.ย. ๒๕๔๔
+HF unit	ชุดสร้างความถี่สูง	๒๐ ก.ย. ๒๕๔๔
+high temperature type air-acetylene blowpipe	คันเชื่อมอากาศ-อะเซทิลีนแบบอุณหภูมิสูง	๒๐ ก.ย. ๒๕๔๔
+high voltage electron gun	ปืนอิเล็กตรอนแรงดันสูง	๒๐ ก.ย. ๒๕๔๔
+high lift system	ระบบยกสูง	๒๐ ก.ย. ๒๕๔๔
+high pressure blowpipe	คันเชื่อมแก๊สความดันสูง	๒๐ ก.ย. ๒๕๔๔
+hold time; dwell time	เวลากดค้าง	๒๐ ก.ย. ๒๕๔๔
+horizontal position	ท่าระดับ, แนวระดับ	๒๐ ก.ย. ๒๕๔๔
+hose coupler	ข้อต่อเกลียวท่ออ่อน	๒๐ ก.ย. ๒๕๔๔
+hose coupling nipple	หัวต่อท่ออ่อน	๒๐ ก.ย. ๒๕๔๔
+hose coupling nut	แป้นเกลียวข้อต่อท่ออ่อน	๒๐ ก.ย. ๒๕๔๔
+hot crack	รอยร้าวขณะร้อน	๒๐ ก.ย. ๒๕๔๔
+hot cracking test	การทดสอบการร้าวขณะร้อน	๒๐ ก.ย. ๒๕๔๔
+hot cropping	การตัดปลายขณะร้อน <i>[ด้วยออกซิเจน]</i>	๒๐ ก.ย. ๒๕๔๔
+hydraulic back pressure valve	ลิ้นกันกลับไฮดรอลิก	๒๐ ก.ย. ๒๕๔๔
+hydrogen controlled electrode	ลวดเชื่อมควบคุมไฮโดรเจน	๒๐ ก.ย. ๒๕๔๔
+hydrogen valve	ลิ้นไฮโดรเจน	๒๐ ก.ย. ๒๕๔๔
+อะเซทิลีนละลาย	dissolved acetylene	๒๐ ก.ย. ๒๕๔๔
+igniter	ตัวจุดไฟ	๒๐ ก.ย. ๒๕๔๔
+IG spot welding; inert-gas tungsten-arc spot welding	การเชื่อมจุดทิก	๒๐ ก.ย. ๒๕๔๔
+อ่างขี้เชื่อม, อ่างสแลก	slag basin	๒๐ ก.ย. ๒๕๔๔
+ignition powder	ผงจุดไฟ, ผงชนวน	๒๐ ก.ย. ๒๕๔๔
+ออกไซด์ฝังใน	oxide inclusion	๒๐ ก.ย. ๒๕๔๔
+ออกซิเจนใช้อุ่น	preheating oxygen	๒๐ ก.ย. ๒๕๔๔
+ออกซิเจนตัด	cutting oxygen	๒๐ ก.ย. ๒๕๔๔
+inclined electrode; angle electrode	ขั้วเชื่อมปลายเอียง	๒๐ ก.ย. ๒๕๔๔
+inclined position	ท่าเอียง, แนวเอียง	๒๐ ก.ย. ๒๕๔๔
+included angle; angle of preparation	มุมร่องเชื่อม	๒๐ ก.ย. ๒๕๔๔
+inclusion	สารฝังใน	๒๐ ก.ย. ๒๕๔๔
+incomplete root penetration	การหลอมลึกไม่บริบูรณ์ที่ฐาน, การหลอมลึกไม่บริบูรณ์ที่ราก	๒๐ ก.ย. ๒๕๔๔
+incompletely filled groove	ร่องไม่เต็ม	๒๐ ก.ย. ๒๕๔๔
+indirect spot welding	การเชื่อมจุดทางอ้อม	๒๐ ก.ย. ๒๕๔๔
+inductor spot-welding machine; induction spot-welding machine	เครื่องเชื่อมจุดเหนี่ยวนำ	๒๐ ก.ย. ๒๕๔๔
+induction brazing	การแล่นประสานเหนี่ยวนำ	๒๐ ก.ย. ๒๕๔๔
+induction spot-welding machine; inductor spot-welding machine	เครื่องเชื่อมจุดเหนี่ยวนำ	๒๐ ก.ย. ๒๕๔๔
+inert-gas consumable electrode spot welding; MIG spot welding	การเชื่อมจุดมิก	๒๐ ก.ย. ๒๕๔๔
+inert-gas tungsten-arc spot welding; IG spot welding	การเชื่อมจุดทิก	๒๐ ก.ย. ๒๕๔๔
+inflated slag; porous slag	ขี้เชื่อมพรุน	๒๐ ก.ย. ๒๕๔๔
+inherent rectification	การเรียงกระแสตรงในตัว	๒๐ ก.ย. ๒๕๔๔
+initial current	กระแสต้น	๒๐ ก.ย. ๒๕๔๔
+initial force	แรงเริ่มเชื่อม	๒๐ ก.ย. ๒๕๔๔
+initial inclination; initial plate angle	มุมปะทะก่อนเชื่อม	๒๐ ก.ย. ๒๕๔๔
+initial plate angle; initial inclination	มุมปะทะก่อนเชื่อม	๒๐ ก.ย. ๒๕๔๔
+initial pressure	ความดันเริ่มเชื่อม	๒๐ ก.ย. ๒๕๔๔
+injector-mixer	หัวฉีดผสมแก๊ส	๒๐ ก.ย. ๒๕๔๔
+insert	ปลายเสียบ	๒๐ ก.ย. ๒๕๔๔
+interface	หน้าสัมผัส	๒๐ ก.ย. ๒๕๔๔
+intermittent weld	รอยเชื่อมเว้นระยะ	๒๐ ก.ย. ๒๕๔๔
+interpass temperature	อุณหภูมิระหว่างเที่ยวเชื่อม	๒๐ ก.ย. ๒๕๔๔
+interpulse time	เวลาระหว่างพัลส์	๒๐ ก.ย. ๒๕๔๔
+intrusion	การแทรกซอน	๒๐ ก.ย. ๒๕๔๔
+อัตราเร็วเสียดทาน	friction speed	๒๐ ก.ย. ๒๕๔๔
+อัตราเร็วยู่	upset speed	๒๐ ก.ย. ๒๕๔๔
+อัตราเร็ววาบ	flashing speed	๒๐ ก.ย. ๒๕๔๔
+อัตรายู่เสียดทาน; อัตราสิ้นเปลือง	burn-off rate	๒๐ ก.ย. ๒๕๔๔
+อัตราเร็วการเชื่อม	welding speed	๒๐ ก.ย. ๒๕๔๔
+อัตราเร็วกดยู่	forge speed	๒๐ ก.ย. ๒๕๔๔
+อัตราสิ้นเปลือง; อัตรายู่เสียดทาน	burn-off rate	๒๐ ก.ย. ๒๕๔๔
+อัตรากระแสเพิ่ม	slope-up	๒๐ ก.ย. ๒๕๔๔
+อัตรากระแสลด	slope-down	๒๐ ก.ย. ๒๕๔๔
+อัตราการเติม, อัตราการพอกพูน	deposition rate	๒๐ ก.ย. ๒๕๔๔
+อัตราการป้อนลวด	wire feed rate	๒๐ ก.ย. ๒๕๔๔
+อัตราการพอกพูน, อัตราการเติม	deposition rate	๒๐ ก.ย. ๒๕๔๔
+อัตรากดยู่	forge rate	๒๐ ก.ย. ๒๕๔๔
+อัตราความชันกระแส	rate of slope	๒๐ ก.ย. ๒๕๔๔
+อาร์กถ่ายโอน	transferred arc	๒๐ ก.ย. ๒๕๔๔
+อาร์กถ่ายโอนบางส่วน	partially transferred arc	๒๐ ก.ย. ๒๕๔๔
+อาร์กนำร่อง	pilot arc	๒๐ ก.ย. ๒๕๔๔
+อาร์กปรับด้วยกระแสวน	vortex-constricted arc	๒๐ ก.ย. ๒๕๔๔
+อาร์กพลาสมา	plasma arc	๒๐ ก.ย. ๒๕๔๔
+อาร์กหลัก	main arc	๒๐ ก.ย. ๒๕๔๔
+อาร์กไม่ถ่ายโอน	non-transferred arc	๒๐ ก.ย. ๒๕๔๔
+อาร์ก	arc	๒๐ ก.ย. ๒๕๔๔
+อาร์กรูปพัด	arc fan	๒๐ ก.ย. ๒๕๔๔
+อาร์กเบน	arc blow	๒๐ ก.ย. ๒๕๔๔
+อาร์กหัวฉีดจำกัด	nozzle-constricted arc	๒๐ ก.ย. ๒๕๔๔
+อิเล็กโทรด; ขั้วเชื่อม; ลวดเชื่อม	electrode	๒๐ ก.ย. ๒๕๔๔
+อิเล็กโทรดขั้วลบ	electrode negative	๒๐ ก.ย. ๒๕๔๔
+อิเล็กโทรดขั้วบวก	electrode positive	๒๐ ก.ย. ๒๕๔๔
+อิเล็กโทรดตัด	cutting electrode	๒๐ ก.ย. ๒๕๔๔
+iron oxide electrode	ลวดเชื่อมเหล็กออกไซด์	๒๐ ก.ย. ๒๕๔๔
+iron powder electrode	ลวดเชื่อมผงเหล็ก	๒๐ ก.ย. ๒๕๔๔
+อุณหภูมิระหว่างเที่ยวเชื่อม	interpass temperature	๒๐ ก.ย. ๒๕๔๔
+อุณหภูมิอุ่นก่อนเชื่อม	preheating temperature	๒๐ ก.ย. ๒๕๔๔
+อุปกรณ์งานเชื่อม	welding accessories	๒๐ ก.ย. ๒๕๔๔
+jet	พวยลม	๒๐ ก.ย. ๒๕๔๔
+joint	รอยต่อ	๒๐ ก.ย. ๒๕๔๔
+joint preparation; weld preparation	การเตรียมรอยต่อ	๒๐ ก.ย. ๒๕๔๔
+kerf	ร่องตัด	๒๐ ก.ย. ๒๕๔๔
+lack of fusion	หลอมไม่ติดบางส่วน	๒๐ ก.ย. ๒๕๔๔
+lack of inter-run fusion	หลอมไม่ติดระหว่างชั้น	๒๐ ก.ย. ๒๕๔๔
+lack of root fusion	หลอมไม่ติดฐาน, หลอมไม่ติดราก	๒๐ ก.ย. ๒๕๔๔
+lack of side fusion	หลอมไม่ติดด้านข้าง	๒๐ ก.ย. ๒๕๔๔
+land	บ่า	๒๐ ก.ย. ๒๕๔๔
+lap joint	รอยต่อเกย	๒๐ ก.ย. ๒๕๔๔
+laser	เครื่องเลเซอร์	๒๐ ก.ย. ๒๕๔๔
+laser cutting	การตัดด้วยเลเซอร์	๒๐ ก.ย. ๒๕๔๔
+laser welding	การเชื่อมด้วยเลเซอร์	๒๐ ก.ย. ๒๕๔๔
+layer	ชั้นเชื่อม	๒๐ ก.ย. ๒๕๔๔
+leftward welding; forward welding	การเชื่อมเดินหน้า	๒๐ ก.ย. ๒๕๔๔
+leg	ขา <i>[รอยเชื่อมมุม]</i>	๒๐ ก.ย. ๒๕๔๔
+leg length; size	ความยาวขา	๒๐ ก.ย. ๒๕๔๔
+lift	ระยะยก	๒๐ ก.ย. ๒๕๔๔
+light radiation welding	การเชื่อมด้วยรังสีแสง	๒๐ ก.ย. ๒๕๔๔
+linear inclusion; slag line	ขี้เชื่อมฝังในเชิงเส้น, สแลกฝังในเชิงเส้น	๒๐ ก.ย. ๒๕๔๔
+linear porosity	ความพรุนเชิงเส้น	๒๐ ก.ย. ๒๕๔๔
+liquid phase diffusion welding	การเชื่อมแบบแพร่ผ่านเฟสของเหลว	๒๐ ก.ย. ๒๕๔๔
+load current	กระแสโหลด	๒๐ ก.ย. ๒๕๔๔
+load voltage	แรงดันโหลด	๒๐ ก.ย. ๒๕๔๔
+localized porosity	ความพรุนเฉพาะที่	๒๐ ก.ย. ๒๕๔๔
+longitudinal bend specimen	ชิ้นทดสอบมาตรฐานดัดโค้งตามยาว	๒๐ ก.ย. ๒๕๔๔
+low pressure blowpipe	คันเชื่อมแก๊สความดันต่ำ	๒๐ ก.ย. ๒๕๔๔
+low voltage electron gun	ปืนอิเล็กตรอนแรงดันต่ำ	๒๐ ก.ย. ๒๕๔๔
+machine stroke	ระยะชักหัวเชื่อม	๒๐ ก.ย. ๒๕๔๔
+MAG welding; metal active-gas welding	การเชื่อมแม็ก	๒๐ ก.ย. ๒๕๔๔
+magnetically-impelled arc butt welding	การเชื่อมชนอาร์กแม่เหล็ก	๒๐ ก.ย. ๒๕๔๔
+main arc	อาร์กหลัก	๒๐ ก.ย. ๒๕๔๔
+manipulator; positioner	ตัวจัดแนว	๒๐ ก.ย. ๒๕๔๔
+manual metal-arc welding; MMA welding	การเชื่อมอาร์กโลหะด้วยมือ	๒๐ ก.ย. ๒๕๔๔
+manual welding	การเชื่อมด้วยมือ	๒๐ ก.ย. ๒๕๔๔
+mash weld	งานเชื่อมหลอมกด	๒๐ ก.ย. ๒๕๔๔
+maximum continuous hand-welding current	กระแสเชื่อมต่อเนื่องสูงสุด	๒๐ ก.ย. ๒๕๔๔
+maximum welding current	กระแสเชื่อมสูงสุด	๒๐ ก.ย. ๒๕๔๔
+mechanized welding	การเชื่อมควบคุมเชิงกล	๒๐ ก.ย. ๒๕๔๔
+medium voltage electron gun	ปืนอิเล็กตรอนแรงดันปานกลาง	๒๐ ก.ย. ๒๕๔๔
+melt	ฟลักซ์ <i>[ใช้สำหรับการเชื่อมอาร์กใต้ฟลักซ์]</i>	๒๐ ก.ย. ๒๕๔๔
+melt run	เที่ยวเชื่อมหลอมเหลว	๒๐ ก.ย. ๒๕๔๔
+melt-through; burn-through	หลอมทะลุ	๒๐ ก.ย. ๒๕๔๔
+metal active-gas welding; MAG welding	การเชื่อมแม็ก	๒๐ ก.ย. ๒๕๔๔
+metal inert-gas welding; MIG welding	การเชื่อมมิก	๒๐ ก.ย. ๒๕๔๔
+metal recovery; deposition efficiency	ประสิทธิภาพการเติม, ประสิทธิภาพการพอกพูน	๒๐ ก.ย. ๒๕๔๔
+metal run-out	โลหะไหลหนี	๒๐ ก.ย. ๒๕๔๔
+metal transfer	การถ่ายโอนโลหะ	๒๐ ก.ย. ๒๕๔๔
+metal-arc cutting	การตัดด้วยอาร์กโลหะ	๒๐ ก.ย. ๒๕๔๔
+metal-arc spot welding	การเชื่อมจุดอาร์กโลหะ	๒๐ ก.ย. ๒๕๔๔
+metal-arc welding	การเชื่อมอาร์กโลหะ	๒๐ ก.ย. ๒๕๔๔
+metallized fluxed stud	สลักปลายหุ้มฟลักซ์เคลือบโลหะ	๒๐ ก.ย. ๒๕๔๔
+micro-plasma arc welding	การเชื่อมอาร์กไมโครพลาสมา	๒๐ ก.ย. ๒๕๔๔
+MIG gun	หัวเชื่อมมิก	๒๐ ก.ย. ๒๕๔๔
+MIG pulsed-arc welding	การเชื่อมมิกอาร์กพัลส์	๒๐ ก.ย. ๒๕๔๔
+MIG spot welding; inert-gas consumable electrode spot welding	การเชื่อมจุดมิก	๒๐ ก.ย. ๒๕๔๔
+MIG welding; metal inert-gas welding	การเชื่อมมิก	๒๐ ก.ย. ๒๕๔๔
+mitre fillet weld	รอยเชื่อมมุมด้านเท่า	๒๐ ก.ย. ๒๕๔๔
+MMA welding; manual metal-arc welding	การเชื่อมอาร์กโลหะด้วยมือ	๒๐ ก.ย. ๒๕๔๔
+modulator	ตัวคุมกระแส	๒๐ ก.ย. ๒๕๔๔
+molten pool; weld pool	แอ่งหลอมเหลว	๒๐ ก.ย. ๒๕๔๔
+motor generator welding set	ชุดเชื่อมใช้มอเตอร์	๒๐ ก.ย. ๒๕๔๔
+motor-operated welding machine	เครื่องเชื่อมใช้มอเตอร์	๒๐ ก.ย. ๒๕๔๔
+mould	แบบหล่อ	๒๐ ก.ย. ๒๕๔๔
+muff joint; sleeve joint	ปลอกต่อ	๒๐ ก.ย. ๒๕๔๔
+multi-flame cutting nozzle; multi-preheat cutting nozzle	หัวตัดหลายรู	๒๐ ก.ย. ๒๕๔๔
+multi-power welding	การเชื่อมรวมพลัง	๒๐ ก.ย. ๒๕๔๔
+multi-preheat cutting nozzle; multi-flame cutting nozzle	หัวตัดหลายรู	๒๐ ก.ย. ๒๕๔๔
+multi-pressure cycle	รอบความดันหลายระดับ	๒๐ ก.ย. ๒๕๔๔
+multi-stage regulator	ตัวคุมค่าหลายระดับ	๒๐ ก.ย. ๒๕๔๔
+multiple spot welding	การเชื่อมหลายจุด	๒๐ ก.ย. ๒๕๔๔
+neutral flame	เปลวกลาง	๒๐ ก.ย. ๒๕๔๔
+nick-break test	การทดสอบหักรอยบาก	๒๐ ก.ย. ๒๕๔๔
+non-beat	ระบบกันสะดุด	๒๐ ก.ย. ๒๕๔๔
+non-consumable electrode	ลวดเชื่อมไม่สิ้นเปลือง	๒๐ ก.ย. ๒๕๔๔
+non-shielded welding	การเชื่อมเปิด	๒๐ ก.ย. ๒๕๔๔
+non-synchronous control	การควบคุมอสมวาร	๒๐ ก.ย. ๒๕๔๔
+non-repeat operation; single operation	การทำงานรอบเดียว	๒๐ ก.ย. ๒๕๔๔
+non-return valve	ลิ้นกันกลับ	๒๐ ก.ย. ๒๕๔๔
+non-transferred arc	อาร์กไม่ถ่ายโอน	๒๐ ก.ย. ๒๕๔๔
+non-vacuum system; out of vacuum system	ระบบเชื่อมนอกสุญญากาศ	๒๐ ก.ย. ๒๕๔๔
+normal bend test	"การทดสอบดัดโค้งปรกติ <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=face+bend+test&amp;Sj=0"">face bend test</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+nozzle	๑. หัวฉีด, หัวพ่น<br/>๒. หัวตัด	๒๐ ก.ย. ๒๕๔๔
+nozzle mixing blowpipe	คันเชื่อมแก๊สผสมที่หัวฉีด	๒๐ ก.ย. ๒๕๔๔
+nozzle skirt	ปลอกหัวตัด	๒๐ ก.ย. ๒๕๔๔
+nozzle-constricted arc	อาร์กหัวฉีดจำกัด	๒๐ ก.ย. ๒๕๔๔
+off-time; cool time	เวลาเย็นตัว	๒๐ ก.ย. ๒๕๔๔
+offset electrode	ขั้วเชื่อมเยื้องศูนย์	๒๐ ก.ย. ๒๕๔๔
+on-time; heat time	เวลาร้อน	๒๐ ก.ย. ๒๕๔๔
+one-piece nozzle	หัวตัดรวม	๒๐ ก.ย. ๒๕๔๔
+open circuit voltage	แรงดันวงจรเปิด	๒๐ ก.ย. ๒๕๔๔
+open injector-mixer	"หัวฉีดผสมแบบเปิด <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=bunsen-type+mixer&amp;Sj=0"">bunsen-type mixer</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+open joint preparation; open weld preparation	การเตรียมรอยต่อแบบห่าง	๒๐ ก.ย. ๒๕๔๔
+open arc welding	การเชื่อมอาร์กเปิด	๒๐ ก.ย. ๒๕๔๔
+open weld preparation; open joint preparation	การเตรียมรอยต่อแบบห่าง	๒๐ ก.ย. ๒๕๔๔
+operational stroke	ระยะชักใช้งาน	๒๐ ก.ย. ๒๕๔๔
+optical viewing system	ระบบแสงส่องนำ	๒๐ ก.ย. ๒๕๔๔
+out of vacuum system; non-vacuum system	ระบบเชื่อมนอกสุญญากาศ	๒๐ ก.ย. ๒๕๔๔
+overall weld metal recovery	ประสิทธิภาพการเติมโลหะรวม	๒๐ ก.ย. ๒๕๔๔
+overhang	ส่วนยื่น	๒๐ ก.ย. ๒๕๔๔
+overhead position	ท่าเหนือศีรษะ, แนวเหนือศีรษะ	๒๐ ก.ย. ๒๕๔๔
+overlap	รอยเกย	๒๐ ก.ย. ๒๕๔๔
+oxide inclusion	ออกไซด์ฝังใน	๒๐ ก.ย. ๒๕๔๔
+oxidizing flame	เปลวออกซิเจนมาก, เปลวเพิ่ม	๒๐ ก.ย. ๒๕๔๔
+oxy-acetylene pressure welding	การเชื่อมกดออกซีอะเซทิลีน	๒๐ ก.ย. ๒๕๔๔
+oxy-acetylene welding	การเชื่อมออกซีอะเซทิลีน	๒๐ ก.ย. ๒๕๔๔
+oxygen cutting	การตัดด้วยออกซิเจน	๒๐ ก.ย. ๒๕๔๔
+oxygen lance	แลนซ์ออกซิเจน	๒๐ ก.ย. ๒๕๔๔
+oxygen lancing	การตัดใช้แลนซ์ออกซิเจน	๒๐ ก.ย. ๒๕๔๔
+oxygen-arc cutting	การตัดด้วยอาร์กออกซิเจน	๒๐ ก.ย. ๒๕๔๔
+packed lance	แลนซ์ออกซิเจนไส้ลวด	๒๐ ก.ย. ๒๕๔๔
+pad electrode; flat electrode	ขั้วเชื่อมพื้นราบ	๒๐ ก.ย. ๒๕๔๔
+parallel bore nozzle	หัวตัดรูขนาน	๒๐ ก.ย. ๒๕๔๔
+parallel spot welding	การเชื่อมจุดขนาน	๒๐ ก.ย. ๒๕๔๔
+parallel welding	การเชื่อมขนาน	๒๐ ก.ย. ๒๕๔๔
+parent plate	แผ่นชิ้นงาน	๒๐ ก.ย. ๒๕๔๔
+parent metal	โลหะชิ้นงาน	๒๐ ก.ย. ๒๕๔๔
+partial rectification	การเรียงกระแสตรงบางส่วน	๒๐ ก.ย. ๒๕๔๔
+partial vacuum system; soft vacuum system	ระบบเชื่อมสุญญากาศไม่สมบูรณ์	๒๐ ก.ย. ๒๕๔๔
+partially transferred arc	อาร์กถ่ายโอนบางส่วน	๒๐ ก.ย. ๒๕๔๔
+particle transfer frequency	ความถี่ถ่ายโอนอนุภาค	๒๐ ก.ย. ๒๕๔๔
+pass; run	เที่ยวเชื่อม	๒๐ ก.ย. ๒๕๔๔
+peaking	การโด่ง	๒๐ ก.ย. ๒๕๔๔
+pedal-operated welding machine; foot-operated welding machine	เครื่องเชื่อมแบบคันเหยียบ	๒๐ ก.ย. ๒๕๔๔
+peel test; slug test	การทดสอบแบบดึงลอก	๒๐ ก.ย. ๒๕๔๔
+penetration bead	แนวเชื่อมหลอมลึก	๒๐ ก.ย. ๒๕๔๔
+penetration pass; penetration run	เที่ยวเชื่อมหลอมลึก	๒๐ ก.ย. ๒๕๔๔
+penetration run; penetration pass	เที่ยวเชื่อมหลอมลึก	๒๐ ก.ย. ๒๕๔๔
+percussion welding	การเชื่อมกระทบ	๒๐ ก.ย. ๒๕๔๔
+permanent backing	แผ่นรองเชื่อมถาวร	๒๐ ก.ย. ๒๕๔๔
+permanent backing ring	แหวนรองเชื่อมถาวร	๒๐ ก.ย. ๒๕๔๔
+perveance	เพอร์วีแอนซ์	๒๐ ก.ย. ๒๕๔๔
+phase angle; firing angle	มุมเฟส	๒๐ ก.ย. ๒๕๔๔
+phase displacement	การจัดเฟส	๒๐ ก.ย. ๒๕๔๔
+phase shift	การปรับเฟส	๒๐ ก.ย. ๒๕๔๔
+pick-up	๑. สะเก็ดติด<br/>๒. หลอมรวม	๒๐ ก.ย. ๒๕๔๔
+pillow test	การทดสอบรูปหมอน	๒๐ ก.ย. ๒๕๔๔
+pilot arc	อาร์กนำร่อง	๒๐ ก.ย. ๒๕๔๔
+pincer spot-welding machine; plier spot-welding machine	เครื่องเชื่อมจุดแบบคีม	๒๐ ก.ย. ๒๕๔๔
+plain butt joint	รอยต่อชนหน้าเรียบ	๒๐ ก.ย. ๒๕๔๔
+plain glass	"กระจกใส <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=cover+glass&amp;Sj=0"">cover glass</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+plasma	พลาสมา	๒๐ ก.ย. ๒๕๔๔
+plasma arc	อาร์กพลาสมา	๒๐ ก.ย. ๒๕๔๔
+plasma arc cutting; arc plasma cutting	การตัดด้วยอาร์กพลาสมา	๒๐ ก.ย. ๒๕๔๔
+plasma arc welding; arc plasma welding	การเชื่อมด้วยอาร์กพลาสมา	๒๐ ก.ย. ๒๕๔๔
+plasma jet	พวยพลาสมา	๒๐ ก.ย. ๒๕๔๔
+plasma torch	หัวเชื่อมพลาสมา	๒๐ ก.ย. ๒๕๔๔
+plasma weld surfacing	๑. การฉาบผิวด้วยพลาสมา<br/>๒. การพอกผิวด้วยพลาสมา	๒๐ ก.ย. ๒๕๔๔
+platen	แท่น	๒๐ ก.ย. ๒๕๔๔
+plier spot-welding machine; pincer spot-welding machine	เครื่องเชื่อมจุดแบบคีม	๒๐ ก.ย. ๒๕๔๔
+plugging material	ฝาครอบสลัก	๒๐ ก.ย. ๒๕๔๔
+plug weld	รอยเชื่อมอุด	๒๐ ก.ย. ๒๕๔๔
+poke gun; push gun	ปืนกด	๒๐ ก.ย. ๒๕๔๔
+porosity	ความพรุน	๒๐ ก.ย. ๒๕๔๔
+porous slag; inflated slag	ขี้เชื่อมพรุน	๒๐ ก.ย. ๒๕๔๔
+portable spot-welding machine	เครื่องเชื่อมจุดแบบเคลื่อนย้ายได้	๒๐ ก.ย. ๒๕๔๔
+portal cutting machine; gantry cutting machine	เครื่องตัดเดี่ยวระหว่างราง	๒๐ ก.ย. ๒๕๔๔
+portal-cantilever cutting machine	เครื่องตัดแบบผสม	๒๐ ก.ย. ๒๕๔๔
+positioner; manipulator	ตัวจัดแนว	๒๐ ก.ย. ๒๕๔๔
+post-braze diffusion treatment	กรรมวิธีแพร่ความร้อนหลังแล่นประสาน	๒๐ ก.ย. ๒๕๔๔
+post-heat time	เวลาปล่อยกระแสอุ่นหลังเชื่อม	๒๐ ก.ย. ๒๕๔๔
+post-heating current	กระแสอุ่นหลังเชื่อม	๒๐ ก.ย. ๒๕๔๔
+post-heating force	แรงกดอุ่นหลังเชื่อม	๒๐ ก.ย. ๒๕๔๔
+post-heating pressure	ความดันอุ่นหลังเชื่อม	๒๐ ก.ย. ๒๕๔๔
+post-heating pressure time	เวลาคงความดันอุ่นหลังเชื่อม	๒๐ ก.ย. ๒๕๔๔
+post-weld time	เวลาหลังเชื่อม	๒๐ ก.ย. ๒๕๔๔
+post-weld upset force	แรงยู่หลังเชื่อม	๒๐ ก.ย. ๒๕๔๔
+post-weld upset pressure	ความดันยู่หลังเชื่อม	๒๐ ก.ย. ๒๕๔๔
+pouring gate	ช่องเท	๒๐ ก.ย. ๒๕๔๔
+powder cutting	การตัดใช้ผงช่วย	๒๐ ก.ย. ๒๕๔๔
+powder lance	แลนซ์ออกซิเจนไส้ผง	๒๐ ก.ย. ๒๕๔๔
+powder washing	การแต่งผิวใช้ผง	๒๐ ก.ย. ๒๕๔๔
+power-operated welding machine	เครื่องเชื่อมใช้กำลังกล	๒๐ ก.ย. ๒๕๔๔
+pre-weld time	เวลาก่อนเชื่อม	๒๐ ก.ย. ๒๕๔๔
+preheat time	เวลาอุ่นก่อนเชื่อม, เวลาอุ่นก่อนวาบ	๒๐ ก.ย. ๒๕๔๔
+preheating allowance	ระยะเผื่ออุ่นก่อนวาบ	๒๐ ก.ย. ๒๕๔๔
+preheating current	กระแสอุ่นก่อนเชื่อม	๒๐ ก.ย. ๒๕๔๔
+preheating gate	ช่องอุ่น	๒๐ ก.ย. ๒๕๔๔
+preheating loss	ระยะหดขณะอุ่นก่อนวาบ	๒๐ ก.ย. ๒๕๔๔
+preheating oxygen	ออกซิเจนใช้อุ่น	๒๐ ก.ย. ๒๕๔๔
+preheating temperature	อุณหภูมิอุ่นก่อนเชื่อม	๒๐ ก.ย. ๒๕๔๔
+pressure application time	เวลาใช้แรงกด	๒๐ ก.ย. ๒๕๔๔
+pressure contact area	พื้นที่สัมผัสรับแรงกด	๒๐ ก.ย. ๒๕๔๔
+pressure decrease time	เวลาลดแรงกด	๒๐ ก.ย. ๒๕๔๔
+pressure head; welding pressure head	ชุดความดันเชื่อม	๒๐ ก.ย. ๒๕๔๔
+pressure	๑. แรงกด<br/>๒. ความดัน	๒๐ ก.ย. ๒๕๔๔
+pressure regulator; gas regulator	ตัวคุมค่าความดัน	๒๐ ก.ย. ๒๕๔๔
+pressure welding; solid-phase welding	การเชื่อมกด	๒๐ ก.ย. ๒๕๔๔
+pressure-off time	เวลาปลดแรงกด	๒๐ ก.ย. ๒๕๔๔
+programme control	การควบคุมด้วยโปรแกรม	๒๐ ก.ย. ๒๕๔๔
+projection welding	การเชื่อมปุ่มยื่น	๒๐ ก.ย. ๒๕๔๔
+puckering	๑. การเกิดรอยย่น<br/>๒. รอยย่น	๒๐ ก.ย. ๒๕๔๔
+pulsation welding	การเชื่อมแบบพัลส์, การเชื่อมพักจังหวะ	๒๐ ก.ย. ๒๕๔๔
+pulse	พัลส์	๒๐ ก.ย. ๒๕๔๔
+pulse time	เวลาพัลส์	๒๐ ก.ย. ๒๕๔๔
+push gun; poke gun	ปืนกด	๒๐ ก.ย. ๒๕๔๔
+push-pull series spot welding	การเชื่อมจุดอนุกรมแบบพุชพุล	๒๐ ก.ย. ๒๕๔๔
+quench time; chill time	เวลาปล่อยเย็น	๒๐ ก.ย. ๒๕๔๔
+rate of slope	อัตราความชันกระแส	๒๐ ก.ย. ๒๕๔๔
+rate of travel; travel speed	เวลาต่อเที่ยวเชื่อม	๒๐ ก.ย. ๒๕๔๔
+reaction gun; expansion gun	ปืนขยาย	๒๐ ก.ย. ๒๕๔๔
+recovery time	เวลาคืนสภาพ	๒๐ ก.ย. ๒๕๔๔
+rectifier converter	เครื่องเรียงกระแสตรง	๒๐ ก.ย. ๒๕๔๔
+rectifier welding set	ชุดเชื่อมแบบเรียงกระแสตรง	๒๐ ก.ย. ๒๕๔๔
+reducing flame	เปลวลด	๒๐ ก.ย. ๒๕๔๔
+reinforcement; excess weld metal	โลหะเชื่อมส่วนเกิน	๒๐ ก.ย. ๒๕๔๔
+repeat operation	การทำงานซ้ำรอบ	๒๐ ก.ย. ๒๕๔๔
+residual welding stress	ความเค้นตกค้าง	๒๐ ก.ย. ๒๕๔๔
+resistance brazing	การแล่นประสานความต้านทาน	๒๐ ก.ย. ๒๕๔๔
+resistance butt welding	การเชื่อมชนความต้านทาน	๒๐ ก.ย. ๒๕๔๔
+resistance stud welding	การเชื่อมสลักความต้านทาน	๒๐ ก.ย. ๒๕๔๔
+resistance welding	การเชื่อมความต้านทาน	๒๐ ก.ย. ๒๕๔๔
+resistance welding electrode	ขั้วเชื่อมความต้านทาน	๒๐ ก.ย. ๒๕๔๔
+restriking voltage	แรงดันอาร์กเกิดซ้ำ	๒๐ ก.ย. ๒๕๔๔
+restrained weld test	การทดสอบการร้าวแบบตรึง	๒๐ ก.ย. ๒๕๔๔
+reverse bend test	การทดสอบดัดโค้งด้านหลัง	๒๐ ก.ย. ๒๕๔๔
+rightward welding; backhand welding; backward welding	การเชื่อมถอยหลัง	๒๐ ก.ย. ๒๕๔๔
+rip-trim cutter	หัวตัดขลิบริม	๒๐ ก.ย. ๒๕๔๔
+riser	รูขึ้น	๒๐ ก.ย. ๒๕๔๔
+rising characteristic welding set	ชุดเชื่อมแรงดันเพิ่ม	๒๐ ก.ย. ๒๕๔๔
+rivet piercing	การทะลวงหมุดย้ำ	๒๐ ก.ย. ๒๕๔๔
+rivet washing	การปาดหัวหมุดย้ำ	๒๐ ก.ย. ๒๕๔๔
+rivet cutting blowpipe	คันตัดหมุดย้ำ <i>[ด้วยแก๊ส]</i>	๒๐ ก.ย. ๒๕๔๔
+rocker arm	แขนโยก, กระเดื่องขั้วเชื่อม	๒๐ ก.ย. ๒๕๔๔
+roll welding	การเชื่อมหมุน	๒๐ ก.ย. ๒๕๔๔
+roller guide; wheel guide	ล้อนำหัวตัด	๒๐ ก.ย. ๒๕๔๔
+roller spot welding	การเชื่อมจุดด้วยล้ออิเล็กโทรด	๒๐ ก.ย. ๒๕๔๔
+root	ฐาน, ราก	๒๐ ก.ย. ๒๕๔๔
+root bead	แนวเชื่อมฐาน, แนวเชื่อมราก	๒๐ ก.ย. ๒๕๔๔
+root bend test	การทดสอบดัดโค้งฐาน, การทดสอบดัดโค้งราก	๒๐ ก.ย. ๒๕๔๔
+root concavity; suck-back; underwashing	รอยเว้าที่ฐาน, รอยเว้าที่ราก	๒๐ ก.ย. ๒๕๔๔
+root face	หน้าฐาน, หน้าราก	๒๐ ก.ย. ๒๕๔๔
+root pass; root run	เที่ยวเชื่อมฐาน, เที่ยวเชื่อมราก	๒๐ ก.ย. ๒๕๔๔
+root penetration	การหลอมลึกที่ฐาน	๒๐ ก.ย. ๒๕๔๔
+root radius	รัศมีฐาน, รัศมีราก	๒๐ ก.ย. ๒๕๔๔
+root run; root pass	เที่ยวเชื่อมฐาน, เที่ยวเชื่อมราก	๒๐ ก.ย. ๒๕๔๔
+rotary welding transformer	หม้อแปลงเชื่อมหมุน	๒๐ ก.ย. ๒๕๔๔
+run-off plate	แผ่นต่อท้าย	๒๐ ก.ย. ๒๕๔๔
+run-off test plate	แผ่นทดสอบต่อท้าย	๒๐ ก.ย. ๒๕๔๔
+run; pass	เที่ยวเชื่อม	๒๐ ก.ย. ๒๕๔๔
+run-on plate	แผ่นต่อหัว	๒๐ ก.ย. ๒๕๔๔
+run-on test plate	แผ่นทดสอบต่อหัว	๒๐ ก.ย. ๒๕๔๔
+rutile electroded	ลวดเชื่อมรูไทล์	๒๐ ก.ย. ๒๕๔๔
+sagged weld	รอยเชื่อมหย่อน	๒๐ ก.ย. ๒๕๔๔
+salt bath brazing	การแล่นประสานเตาเกลือ	๒๐ ก.ย. ๒๕๔๔
+scarf joint	รอยต่อทาบแนว	๒๐ ก.ย. ๒๕๔๔
+scarfing; de-surfacing	การลอกผิว	๒๐ ก.ย. ๒๕๔๔
+scarfing torch; de-seaming blowpipe	คันเชื่อมลบรอย	๒๐ ก.ย. ๒๕๔๔
+seal weld; sealing weld	รอยเชื่อมกันรั่ว	๒๐ ก.ย. ๒๕๔๔
+sealing run; backing run	เที่ยวเชื่อมปิดหลัง	๒๐ ก.ย. ๒๕๔๔
+sealing weld; seal weld	รอยเชื่อมกันรั่ว	๒๐ ก.ย. ๒๕๔๔
+seam welding	การเชื่อมตะเข็บ	๒๐ ก.ย. ๒๕๔๔
+self-adjusting arc welding	การเชื่อมอาร์กปรับเอง	๒๐ ก.ย. ๒๕๔๔
+semi-automatic welding	การเชื่อมกึ่งอัตโนมัติ	๒๐ ก.ย. ๒๕๔๔
+self-regulating arc-welding transformer	หม้อแปลงเชื่อมอาร์กปรับเอง	๒๐ ก.ย. ๒๕๔๔
+separately pumped electron gun	ปืนอิเล็กตรอนปั๊มแยก	๒๐ ก.ย. ๒๕๔๔
+sequence timer	เครื่องตั้งเวลาแบบลำดับ	๒๐ ก.ย. ๒๕๔๔
+series arc welding	การเชื่อมอาร์กอนุกรม	๒๐ ก.ย. ๒๕๔๔
+series spot welding	การเชื่อมจุดอนุกรม	๒๐ ก.ย. ๒๕๔๔
+shear test piece	ชิ้นงานทดสอบแรงเฉือน	๒๐ ก.ย. ๒๕๔๔
+shear test specimen	ชิ้นทดสอบมาตรฐานแรงเฉือน	๒๐ ก.ย. ๒๕๔๔
+sheet metal nozzle; step-type nozzle	หัวตัดแบบขั้น	๒๐ ก.ย. ๒๕๔๔
+sheathed electrode	ลวดเชื่อมมีเปลือก	๒๐ ก.ย. ๒๕๔๔
+shocked metal zone	บริเวณเชื่อมติด	๒๐ ก.ย. ๒๕๔๔
+shoe	ตัวประกับ	๒๐ ก.ย. ๒๕๔๔
+shop weld	งานเชื่อมในโรงงาน	๒๐ ก.ย. ๒๕๔๔
+short bell branch joint	รอยต่อเฉียงปากบานใน	๒๐ ก.ย. ๒๕๔๔
+shrinkage cavity	โพรงหด	๒๐ ก.ย. ๒๕๔๔
+shrinkage groove	ร่องหด	๒๐ ก.ย. ๒๕๔๔
+side bend test	การทดสอบดัดโค้งด้านข้าง	๒๐ ก.ย. ๒๕๔๔
+single operation; non-repeat operation	การทำงานรอบเดียว	๒๐ ก.ย. ๒๕๔๔
+single-bevel butt weld	รอยเชื่อมชนหน้าเฉียงเดี่ยว	๒๐ ก.ย. ๒๕๔๔
+single-cantilever cutting machine	เครื่องตัดคานยื่นเดี่ยว	๒๐ ก.ย. ๒๕๔๔
+single-glut butt joint	รอยต่อชนชิ้นเสริมเดี่ยว	๒๐ ก.ย. ๒๕๔๔
+single-glut square corner	รอยต่อมุมฉากชิ้นเสริมเดี่ยว	๒๐ ก.ย. ๒๕๔๔
+single-J butt weld	รอยเชื่อมชนรูปตัวเจเดี่ยว	๒๐ ก.ย. ๒๕๔๔
+single-U butt weld	รอยเชื่อมชนรูปตัวยูเดี่ยว	๒๐ ก.ย. ๒๕๔๔
+single-V butt weld	รอยเชื่อมชนรูปตัววีเดี่ยว	๒๐ ก.ย. ๒๕๔๔
+site weld; field weld	งานเชื่อมหน้างาน	๒๐ ก.ย. ๒๕๔๔
+size; leg length	ความยาวขา	๒๐ ก.ย. ๒๕๔๔
+skip sequence; skip welding; wandering sequence	การเชื่อมก้าวกระโดด	๒๐ ก.ย. ๒๕๔๔
+skip welding; skip sequence; wandering sequence	การเชื่อมก้าวกระโดด	๒๐ ก.ย. ๒๕๔๔
+slag	ขี้เชื่อม, สแลก	๒๐ ก.ย. ๒๕๔๔
+slag basin	อ่างขี้เชื่อม, อ่างสแลก	๒๐ ก.ย. ๒๕๔๔
+slag line; linear inclusion	ขี้เชื่อมฝังในเชิงเส้น, สแลกฝังในเชิงเส้น	๒๐ ก.ย. ๒๕๔๔
+slag pot	ถังขี้เชื่อม, ถังสแลก	๒๐ ก.ย. ๒๕๔๔
+slag shute	รางสแลก	๒๐ ก.ย. ๒๕๔๔
+slag trap	จุดดักสแลก	๒๐ ก.ย. ๒๕๔๔
+sleeve joint; muff joint	ปลอกต่อ	๒๐ ก.ย. ๒๕๔๔
+slope control	การควบคุมอัตรากระแส	๒๐ ก.ย. ๒๕๔๔
+slope time	เวลาอัตรากระแสเปลี่ยน	๒๐ ก.ย. ๒๕๔๔
+slope-controlled power source	ชุดเชื่อมควบคุมกำลัง	๒๐ ก.ย. ๒๕๔๔
+slope-down	อัตรากระแสลด	๒๐ ก.ย. ๒๕๔๔
+slope-up	อัตรากระแสเพิ่ม	๒๐ ก.ย. ๒๕๔๔
+slug loaded stud	สลักปลายฟลักซ์	๒๐ ก.ย. ๒๕๔๔
+slug test; peel test	การทดสอบแบบดึงลอก	๒๐ ก.ย. ๒๕๔๔
+slot lap joint	รอยต่อเกยรอบช่อง	๒๐ ก.ย. ๒๕๔๔
+soft flame	เปลวอ่อน	๒๐ ก.ย. ๒๕๔๔
+soft vacuum system; partial vacuum system	ระบบเชื่อมสุญญากาศไม่สมบูรณ์	๒๐ ก.ย. ๒๕๔๔
+solid slag; dense slag	ขี้เชื่อมแน่น	๒๐ ก.ย. ๒๕๔๔
+solid state diffusion welding	การเชื่อมแบบแพร่ในสถานะของแข็ง	๒๐ ก.ย. ๒๕๔๔
+solid state laser	เครื่องเลเซอร์ใช้ของแข็ง	๒๐ ก.ย. ๒๕๔๔
+solid-phase welding; pressure welding	การเชื่อมกด	๒๐ ก.ย. ๒๕๔๔
+solidification crack	รอยร้าวขณะแข็งตัว	๒๐ ก.ย. ๒๕๔๔
+solidification cracking test	การทดสอบการร้าวขณะแข็งตัว	๒๐ ก.ย. ๒๕๔๔
+spade guide	แผ่นนำหัวตัด	๒๐ ก.ย. ๒๕๔๔
+spark erosion cutting	การตัดเซาะด้วยประกาย	๒๐ ก.ย. ๒๕๔๔
+spark reignition	"การจุดประกายอาร์กซ้ำ <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=HF+reignition&amp;Sj=0"">HF reignition</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+spark starting	"การเริ่มจุดประกายอาร์ก <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=HF+ignition&amp;Sj=0"">HF ignition</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+spatter	เม็ดโลหะกระเด็น	๒๐ ก.ย. ๒๕๔๔
+spatter loss	ความสูญเสียจากเม็ดโลหะกระเด็น	๒๐ ก.ย. ๒๕๔๔
+spatter shield	ปลอกกันเม็ดโลหะกระเด็น	๒๐ ก.ย. ๒๕๔๔
+specific beam power; beam power density	ความหนาแน่นกำลังลำ	๒๐ ก.ย. ๒๕๔๔
+spelter	โลหะสเปลเตอร์	๒๐ ก.ย. ๒๕๔๔
+splash	สะเก็ด	๒๐ ก.ย. ๒๕๔๔
+spot welding	การเชื่อมจุด	๒๐ ก.ย. ๒๕๔๔
+spray transfer; droplet transfer	การถ่ายโอนแบบละออง	๒๐ ก.ย. ๒๕๔๔
+square butt weld	รอยเชื่อมชนหน้าฉาก	๒๐ ก.ย. ๒๕๔๔
+squeeze time	เวลากด	๒๐ ก.ย. ๒๕๔๔
+stack cutting	การตัดชิ้นงานซ้อน	๒๐ ก.ย. ๒๕๔๔
+staggered intermittent weld	รอยเชื่อมเว้นระยะสลับฟันปลา	๒๐ ก.ย. ๒๕๔๔
+stand-off distance; stand-off gap	ระยะเว้นก่อนเชื่อม	๒๐ ก.ย. ๒๕๔๔
+stand-off gap; stand-off distance	ระยะเว้นก่อนเชื่อม	๒๐ ก.ย. ๒๕๔๔
+starting block	แผ่นจุดอาร์กรองเชื่อม	๒๐ ก.ย. ๒๕๔๔
+static-plate	แผ่นอยู่กับที่	๒๐ ก.ย. ๒๕๔๔
+static characteristic	ลักษณะเฉพาะสถิต	๒๐ ก.ย. ๒๕๔๔
+steering system; cutter steering system	ระบบนำหัวตัด	๒๐ ก.ย. ๒๕๔๔
+step time	เวลาเว้นเชื่อม	๒๐ ก.ย. ๒๕๔๔
+step-by-step roller spot welding	การเชื่อมจุดเว้นระยะด้วยล้ออิเล็กโทรด	๒๐ ก.ย. ๒๕๔๔
+step-by-step seam welding	การเชื่อมตะเข็บเว้นระยะ	๒๐ ก.ย. ๒๕๔๔
+step-by-step welding	การเชื่อมจุดเว้นระยะ	๒๐ ก.ย. ๒๕๔๔
+step-type nozzle; sheet metal nozzle	หัวตัดแบบขั้น	๒๐ ก.ย. ๒๕๔๔
+stick electrode	ลวดเชื่อมแบบแท่ง	๒๐ ก.ย. ๒๕๔๔
+stitch welding	การเชื่อมจุดเกย	๒๐ ก.ย. ๒๕๔๔
+stone	หินก้นเบ้าวงนอก	๒๐ ก.ย. ๒๕๔๔
+stopping time	เวลาการหยุด	๒๐ ก.ย. ๒๕๔๔
+stopping-off agent	สารกันติด	๒๐ ก.ย. ๒๕๔๔
+stored-energy welding	การเชื่อมพลังงานสะสม	๒๐ ก.ย. ๒๕๔๔
+straight electrode; vertical centre electrode	ขั้วเชื่อมแนวตั้งร่วมศูนย์	๒๐ ก.ย. ๒๕๔๔
+straight flash welding	การเชื่อมวาบแบบตรง	๒๐ ก.ย. ๒๕๔๔
+strength weld	แนวเชื่อมรับแรง	๒๐ ก.ย. ๒๕๔๔
+stray arcing; stray flash	การอาร์กพลาด	๒๐ ก.ย. ๒๕๔๔
+stray flash; stray arcing	การอาร์กพลาด	๒๐ ก.ย. ๒๕๔๔
+strip cladding; strip surfacing	๑. การฉาบผิวด้วยแถบเชื่อม<br/>๒. การพอกผิวด้วยแถบเชื่อม	๒๐ ก.ย. ๒๕๔๔
+strip surfacing; strip cladding	๑. การฉาบผิวด้วยแถบเชื่อม<br/>๒. การพอกผิวด้วยแถบเชื่อม	๒๐ ก.ย. ๒๕๔๔
+striking plate	แผ่นลองอาร์ก	๒๐ ก.ย. ๒๕๔๔
+striking voltage	แรงดันเริ่มอาร์ก	๒๐ ก.ย. ๒๕๔๔
+stringer bead	แนวเชื่อมเส้นเชือก	๒๐ ก.ย. ๒๕๔๔
+stub end	โคนลวดเชื่อม, ก้นลวดเชื่อม	๒๐ ก.ย. ๒๕๔๔
+stub-in	ลวดเชื่อมติด	๒๐ ก.ย. ๒๕๔๔
+stud welding	การเชื่อมสลัก	๒๐ ก.ย. ๒๕๔๔
+stud welding controller	ตัวควบคุมการเชื่อมสลัก	๒๐ ก.ย. ๒๕๔๔
+stud welding gun	ปืนเชื่อมสลัก	๒๐ ก.ย. ๒๕๔๔
+stud welding tool	เครื่องมือเชื่อมสลัก	๒๐ ก.ย. ๒๕๔๔
+submerged-arc welding	การเชื่อมอาร์กใต้ฟลักซ์	๒๐ ก.ย. ๒๕๔๔
+suck-back; root concavity; underwashing	รอยเว้าที่ฐาน, รอยเว้าที่ราก	๒๐ ก.ย. ๒๕๔๔
+surface pick-up	สะเก็ดติดผิว	๒๐ ก.ย. ๒๕๔๔
+surface pitting	ผิวปรุ	๒๐ ก.ย. ๒๕๔๔
+surface-fusion welding	การเชื่อมพอกผิวหลอม	๒๐ ก.ย. ๒๕๔๔
+surge injector	เครื่องจุดอาร์กซ้ำด้วยแรงดันกระโชก	๒๐ ก.ย. ๒๕๔๔
+surge reignition	การจุดอาร์กซ้ำด้วยแรงดันกระโชก	๒๐ ก.ย. ๒๕๔๔
+sustained backfire	ไฟย้อนกลับติด	๒๐ ก.ย. ๒๕๔๔
+swan-necked electrode; double-cranked electrode	ขั้วเชื่อมคอห่าน	๒๐ ก.ย. ๒๕๔๔
+synchronous control	การควบคุมสมวาร	๒๐ ก.ย. ๒๕๔๔
+T-butt joint	รอยต่อชนรูปตัวที	๒๐ ก.ย. ๒๕๔๔
+T-joint	รอยต่อรูปตัวที	๒๐ ก.ย. ๒๕๔๔
+T-shaped pocket joint	รอยต่อลิ่มรูปตัวที	๒๐ ก.ย. ๒๕๔๔
+tack weld	รอยเชื่อมยึด	๒๐ ก.ย. ๒๕๔๔
+tape butt-seam welding; foil butt-seam welding	การเชื่อมตะเข็บชนใช้แผ่นเปลว	๒๐ ก.ย. ๒๕๔๔
+tapered member	ชิ้นปลายสอบ	๒๐ ก.ย. ๒๕๔๔
+tapping pin	สลักปิดก้นเบ้า	๒๐ ก.ย. ๒๕๔๔
+temporary backing	แผ่นรองเชื่อมชั่วคราว	๒๐ ก.ย. ๒๕๔๔
+temporary backing ring	แหวนรองเชื่อมชั่วคราว	๒๐ ก.ย. ๒๕๔๔
+test piece	ชิ้นงานทดสอบ	๒๐ ก.ย. ๒๕๔๔
+test specimen	ชิ้นทดสอบมาตรฐาน	๒๐ ก.ย. ๒๕๔๔
+thermal cutting	การตัดด้วยความร้อน	๒๐ ก.ย. ๒๕๔๔
+thermit crucible	เบ้าเทอร์มิต	๒๐ ก.ย. ๒๕๔๔
+thermit mixture	สารผสมเทอร์มิต	๒๐ ก.ย. ๒๕๔๔
+thermit welding	"การเชื่อมเทอร์มิต <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=aluminothermic+welding&amp;Sj=0"">aluminothermic welding</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+thimble	หินก้นเบ้าวงใน	๒๐ ก.ย. ๒๕๔๔
+threaded hose connection	เกลียวต่อท่ออ่อน	๒๐ ก.ย. ๒๕๔๔
+three-phase welding machine	เครื่องเชื่อมสามเฟส	๒๐ ก.ย. ๒๕๔๔
+three-phase welding set	ชุดเครื่องเชื่อมสามเฟส	๒๐ ก.ย. ๒๕๔๔
+throat; throat depth	ระยะลึก	๒๐ ก.ย. ๒๕๔๔
+throat depth; throat	ระยะลึก	๒๐ ก.ย. ๒๕๔๔
+throat gap	ช่องว่างระหว่างแขน	๒๐ ก.ย. ๒๕๔๔
+throat thickness	ความหนารอยเชื่อม	๒๐ ก.ย. ๒๕๔๔
+TIG pulsed-arc welding	การเชื่อมทิกอาร์กพัลส์	๒๐ ก.ย. ๒๕๔๔
+TIG spot welding; inert-gas tungsten-arc spot welding	การเชื่อมจุดทิก	๒๐ ก.ย. ๒๕๔๔
+TIG torch; argon-arc torch	หัวเชื่อมทิก	๒๐ ก.ย. ๒๕๔๔
+toe	ขอบแนวเชื่อม, ขอบรอยเชื่อม	๒๐ ก.ย. ๒๕๔๔
+tongue-bend test specimen	ชิ้นทดสอบมาตรฐานดัดโค้งรูปลิ้น	๒๐ ก.ย. ๒๕๔๔
+tool mark	"รอยเครื่องมือ <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=chipping+mark&amp;Sj=0"">chipping mark</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+torch angle	มุมหัวเชื่อม	๒๐ ก.ย. ๒๕๔๔
+torn surface	ผิวฉีก	๒๐ ก.ย. ๒๕๔๔
+total allowance	ระยะเผื่อรวม	๒๐ ก.ย. ๒๕๔๔
+total loss	ระยะหดรวม	๒๐ ก.ย. ๒๕๔๔
+touch time	เวลาสัมผัส	๒๐ ก.ย. ๒๕๔๔
+touch type electrode; contact electrode	ลวดเชื่อมสัมผัส	๒๐ ก.ย. ๒๕๔๔
+touch welding; contact welding	การเชื่อมสัมผัส	๒๐ ก.ย. ๒๕๔๔
+transfer efficiency	ประสิทธิภาพการถ่ายโอน	๒๐ ก.ย. ๒๕๔๔
+transferred arc	อาร์กถ่ายโอน	๒๐ ก.ย. ๒๕๔๔
+transverse bend specimen	ชิ้นทดสอบมาตรฐานดัดโค้งตามขวาง	๒๐ ก.ย. ๒๕๔๔
+transverse tensile specimen	ชิ้นทดสอบมาตรฐานแรงดึงตามขวาง	๒๐ ก.ย. ๒๕๔๔
+travel speed; rate of travel	เวลาต่อเที่ยวเชื่อม	๒๐ ก.ย. ๒๕๔๔
+tread	หน้าล้ออิเล็กโทรด	๒๐ ก.ย. ๒๕๔๔
+triode gun	ปืนไทรโอด	๒๐ ก.ย. ๒๕๔๔
+true arc voltage	แรงดันอาร์กจริง	๒๐ ก.ย. ๒๕๔๔
+tube cutting blowpipe	คันตัดท่อ <i>[ด้วยแก๊ส]</i>	๒๐ ก.ย. ๒๕๔๔
+tungsten inclusion	ทังสเตนฝังใน	๒๐ ก.ย. ๒๕๔๔
+tungsten-arc spot welding	การเชื่อมจุดอาร์กทังสเตน	๒๐ ก.ย. ๒๕๔๔
+two-stage initiation	การทำงานสองจังหวะ, การเริ่มงานสองจังหวะ	๒๐ ก.ย. ๒๕๔๔
+two-stage regulator	ตัวคุมค่าสองระดับ	๒๐ ก.ย. ๒๕๔๔
+U-tensile test	การทดสอบการดึงรูปตัวยู	๒๐ ก.ย. ๒๕๔๔
+typical electrode current	กระแสอิเล็กโทรดปรกติ	๒๐ ก.ย. ๒๕๔๔
+ultrasonic welding	การเชื่อมอัลทราโซนิก	๒๐ ก.ย. ๒๕๔๔
+underflushing; excessive dressing	การแต่งเข้าเนื้อ	๒๐ ก.ย. ๒๕๔๔
+undercut	รอยแหว่งขอบแนว	๒๐ ก.ย. ๒๕๔๔
+underwashing; root concavity; suck-back	รอยเว้าที่ฐาน, รอยเว้าที่ราก	๒๐ ก.ย. ๒๕๔๔
+underwater cutting	การตัดใต้น้ำ	๒๐ ก.ย. ๒๕๔๔
+uniform porosity	ความพรุนตลอดแนว	๒๐ ก.ย. ๒๕๔๔
+unipolarity operation; unipolarity welding	การเชื่อมขั้วเหมือน	๒๐ ก.ย. ๒๕๔๔
+unipolarity welding; unipolarity operation	การเชื่อมขั้วเหมือน	๒๐ ก.ย. ๒๕๔๔
+upset allowance	ระยะเผื่อยู่	๒๐ ก.ย. ๒๕๔๔
+upset current	กระแสยู่	๒๐ ก.ย. ๒๕๔๔
+upset current time	เวลากระแสเชื่อมยู่	๒๐ ก.ย. ๒๕๔๔
+upset force	แรงยู่	๒๐ ก.ย. ๒๕๔๔
+upset length	ระยะยู่	๒๐ ก.ย. ๒๕๔๔
+upset metal; upset	โลหะยู่	๒๐ ก.ย. ๒๕๔๔
+upset pressure	ความดันยู่	๒๐ ก.ย. ๒๕๔๔
+upset speed	อัตราเร็วยู่	๒๐ ก.ย. ๒๕๔๔
+upset time	เวลาเชื่อมยู่	๒๐ ก.ย. ๒๕๔๔
+upset travel	ระยะเคลื่อนยู่	๒๐ ก.ย. ๒๕๔๔
+upset; upset metal	โลหะยู่	๒๐ ก.ย. ๒๕๔๔
+upsetting	การกดยู่	๒๐ ก.ย. ๒๕๔๔
+upsetting time	เวลาเชื่อมกดยู่	๒๐ ก.ย. ๒๕๔๔
+vacuum brazing	การแล่นประสานสุญญากาศ	๒๐ ก.ย. ๒๕๔๔
+venturi nozzle; convergent nozzle; divergent nozzle	หัวตัดเวนจูริ	๒๐ ก.ย. ๒๕๔๔
+vertical centre electrode; straight electrode	ขั้วเชื่อมแนวตั้งร่วมศูนย์	๒๐ ก.ย. ๒๕๔๔
+vertical electrode	ขั้วเชื่อมแนวตั้ง	๒๐ ก.ย. ๒๕๔๔
+vertical offset electrode	ขั้วเชื่อมแนวตั้งเยื้องศูนย์	๒๐ ก.ย. ๒๕๔๔
+vertical position	ท่าตั้ง, แนวตั้ง	๒๐ ก.ย. ๒๕๔๔
+viscous slag	ขี้เชื่อมหนืด	๒๐ ก.ย. ๒๕๔๔
+vortex-constricted arc	อาร์กปรับด้วยกระแสวน	๒๐ ก.ย. ๒๕๔๔
+wandering sequence; skip sequence; skip welding	การเชื่อมก้าวกระโดด	๒๐ ก.ย. ๒๕๔๔
+wax pattern	แบบขี้ผึ้ง	๒๐ ก.ย. ๒๕๔๔
+wearing depth	ระยะสึก	๒๐ ก.ย. ๒๕๔๔
+weaving	การส่าย	๒๐ ก.ย. ๒๕๔๔
+weld	๑. งานเชื่อม<br/>๒. รอยเชื่อม<br/>๓. เชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld contact area	พื้นที่สัมผัสเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld delay time	เวลาหน่วงเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld face	หน้ารอยเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld heat time	เวลาร้อนเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld interval heat time	เวลาร้อนระหว่างเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld junction	เขตรอยเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld metal	โลหะเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld nugget	บริเวณหลอมเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld pool; molten pool	แอ่งหลอมเหลว	๒๐ ก.ย. ๒๕๔๔
+weld preparation; joint preparation	การเตรียมรอยต่อ	๒๐ ก.ย. ๒๕๔๔
+weld rotation	มุมหมุนแนวเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld slope	มุมชันแนวเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld time	เวลาเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld timer	เครื่องตั้งเวลาเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld width	ความกว้างรอยเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld zone	บริเวณรอยเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weld-through sealer	ตัวกันรั่วงานเชื่อม	๒๐ ก.ย. ๒๕๔๔
+weldability test	การทดสอบสภาพเชื่อมได้	๒๐ ก.ย. ๒๕๔๔
+welder	ช่างเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding	การเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding accessories	อุปกรณ์งานเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding consumables	วัสดุเชื่อมสิ้นเปลือง	๒๐ ก.ย. ๒๕๔๔
+welding current	กระแสเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding cycle	รอบการเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding cycle time	เวลารอบการเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding die; die	ดายเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding equipment	บริภัณฑ์งานเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding force	แรงเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding glass	"กระจกเชื่อม <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=filter+glass&amp;Sj=0"">filter glass</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+welding gloves	ถุงมือเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding goggles; welding spectacles	แว่นเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding head	หัวเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding plant	ชุดเครื่องเชื่อม, หน่วยชุดเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding position	ท่าเชื่อม, แนวการเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding pressure	ความดันเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding pressure head; pressure head	ชุดความดันเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding pressure time	เวลากดเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding primer	สารรองพื้นก่อนเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding procedure	ข้อปฏิบัติการเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding process	กระบวนการเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding sequence	ลำดับการเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding spectacles; welding goggles	แว่นเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding speed	อัตราเร็วการเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding technique	เทคนิคการเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding time	เวลาการเชื่อม	๒๐ ก.ย. ๒๕๔๔
+welding wire	"ม้วนลวดเชื่อม <i>[มีความหมายเหมือนกับ <a href=""/coinages/websearch.php?Wd=filler+wire&amp;Sj=0"">filler wire</a>]</i>"	๒๐ ก.ย. ๒๕๔๔
+wheel guide; roller guide	ล้อนำหัวตัด	๒๐ ก.ย. ๒๕๔๔
+wire feed nozzle; wire guide	แกนนำลวดเชื่อม	๒๐ ก.ย. ๒๕๔๔
+wire feed rate	อัตราการป้อนลวด	๒๐ ก.ย. ๒๕๔๔
+wire guide; wire feed nozzle	แกนนำลวดเชื่อม	๒๐ ก.ย. ๒๕๔๔
+work distance	ระยะเชื่อม	๒๐ ก.ย. ๒๕๔๔
+wormhole	โพรงหนอน	๒๐ ก.ย. ๒๕๔๔
+wrapped electrode	ลวดเชื่อมหุ้มแบบพัน	๒๐ ก.ย. ๒๕๔๔
+zero current pause	ช่วงปลอดกระแส	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อม; ขั้วเชื่อม; อิเล็กโทรด	electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมเหล็กออกไซด์	iron oxide electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมมีเปลือก	sheathed electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมรูไทล์	rutile electroded	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมเซลลูโลส	cellulosic electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมเบส	basic electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมแบบแท่ง	stick electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมเปลือย	bare wire electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมสัมผัส	"contact electrode; <a href=""/coinages/websearch.php?Wd=touch+type+electrode&amp;Sj=0"">touch type electrode</a>"	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมไส้ฟลักซ์	cored electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมควบคุมไฮโดรเจน	hydrogen controlled electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมติด	stub-in	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมบรอนซ์	bronze welding rod	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมผงเหล็ก	iron powder electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมพอกผิวแข็ง	"hard facing electrode; <a href=""/coinages/websearch.php?Wd=hard+surfacing+electrode&amp;Sj=0"">hard surfacing electrode</a>"	๒๐ ก.ย. ๒๕๔๔
+ลวดเติม	filler rod	๒๐ ก.ย. ๒๕๔๔
+ลวดเติมหุ้มฟลักซ์ <i>[ใช้แก๊ส]</i>	covered filler rod	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมสิ้นเปลือง	consumable electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมหลอมลึก	deep penetration electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมหุ้มแบบอัดรีด	extruded electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมหุ้มแบบจุ่ม	dipped electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมหุ้มแบบถัก	braided electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมหุ้มแบบพัน	wrapped electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมหุ้มผงโลหะ	alloy powder electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมหุ้มฟลักซ์ <i>[ใช้ไฟฟ้า]</i>	covered electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมอาร์ก	arc welding electrode	๒๐ ก.ย. ๒๕๔๔
+ลวดเชื่อมไม่สิ้นเปลือง	non-consumable electrode	๒๐ ก.ย. ๒๕๔๔
+ล้อนำหัวตัด	"roller guide; <a href=""/coinages/websearch.php?Wd=wheel+guide&amp;Sj=0"">wheel guide</a>"	๒๐ ก.ย. ๒๕๔๔
+ลักษณะเฉพาะพลวัต	dynamic characteristic	๒๐ ก.ย. ๒๕๔๔
+ลักษณะเฉพาะสถิต	static characteristic	๒๐ ก.ย. ๒๕๔๔
+ลิ้นไฮโดรเจน	hydrogen valve	๒๐ ก.ย. ๒๕๔๔
+ลิ้นกันกลับ	non-return valve	๒๐ ก.ย. ๒๕๔๔
+ลิ้นกันกลับไฮดรอลิก	hydraulic back pressure valve	๒๐ ก.ย. ๒๕๔๔
+ลำกระแส	beam current	๒๐ ก.ย. ๒๕๔๔
+ลำดับการเชื่อม	welding sequence	๒๐ ก.ย. ๒๕๔๔
+ไฟย้อนกลับ	backfire	๒๐ ก.ย. ๒๕๔๔
+ไฟย้อนกลับติด	sustained backfire	๒๐ ก.ย. ๒๕๔๔
+ไฟวาบย้อนกลับ	flashback	๒๐ ก.ย. ๒๕๔๔
+กรรมวิธีแพร่ความร้อนหลังแล่นประสาน	post-braze diffusion treatment	๒๐ ก.ย. ๒๕๔๔
+กรวยไฟ	cone	๒๐ ก.ย. ๒๕๔๔
+กระแสโหลด	load current	๒๐ ก.ย. ๒๕๔๔
+กระแสเสื่อม	decay current	๒๐ ก.ย. ๒๕๔๔
+กระแสยู่	upset current	๒๐ ก.ย. ๒๕๔๔
+กระแสแคโทด	cathode current	๒๐ ก.ย. ๒๕๔๔
+กระแสเชื่อม	welding current	๒๐ ก.ย. ๒๕๔๔
+กระแสเชื่อมสูงสุด	maximum welding current	๒๐ ก.ย. ๒๕๔๔
+กระแสเชื่อมต่อเนื่องสูงสุด	maximum continuous hand-welding current	๒๐ ก.ย. ๒๕๔๔
+กระแสวาบ	flashing current	๒๐ ก.ย. ๒๕๔๔
+กระแสสิ้นสุด, กระแสปลาย	final current	๒๐ ก.ย. ๒๕๔๔
+กระแสอิเล็กโทรดปรกติ	typical electrode current	๒๐ ก.ย. ๒๕๔๔
+กระแสอุ่นหลังเชื่อม	post-heating current	๒๐ ก.ย. ๒๕๔๔
+กระแสอุ่นก่อนเชื่อม	preheating current	๒๐ ก.ย. ๒๕๔๔
+กระเดื่องขั้วเชื่อม, แขนโยก	rocker arm	๒๐ ก.ย. ๒๕๔๔
+กระแสต้น	initial current	๒๐ ก.ย. ๒๕๔๔
+กระแสปลาย, กระแสสิ้นสุด	final current	๒๐ ก.ย. ๒๕๔๔
+กระแสฟิลาเมนต์	filament current	๒๐ ก.ย. ๒๕๔๔
+กระจกใส	plain glass	๒๐ ก.ย. ๒๕๔๔
+กระจกเชื่อม	welding glass	๒๐ ก.ย. ๒๕๔๔
+กระจกกรองแสง	filter glass	๒๐ ก.ย. ๒๕๔๔
+กระจกกั้นใส	cover glass	๒๐ ก.ย. ๒๕๔๔
+กระจกกันความร้อน	heat filter	๒๐ ก.ย. ๒๕๔๔
+กระบวนการเชื่อม	welding process	๒๐ ก.ย. ๒๕๔๔
+กริดอิเล็กโทรด	grid electrode	๒๐ ก.ย. ๒๕๔๔
+ก้านขั้วเชื่อม	electrode shank	๒๐ ก.ย. ๒๕๔๔
+ก้นลวดเชื่อม, โคนลวดเชื่อม	stub end	๒๐ ก.ย. ๒๕๔๔
+การเรียงกระแสตรงในตัว	inherent rectification	๒๐ ก.ย. ๒๕๔๔
+การเรียงกระแสตรงบริบูรณ์	complete rectification	๒๐ ก.ย. ๒๕๔๔
+การเรียงกระแสตรงบางส่วน	partial rectification	๒๐ ก.ย. ๒๕๔๔
+การเริ่มงานสองจังหวะ, การทำงานสองจังหวะ	two-stage initiation	๒๐ ก.ย. ๒๕๔๔
+การเริ่มจุดประกายอาร์ก	spark starting	๒๐ ก.ย. ๒๕๔๔
+การเสริมผิว	building-up	๒๐ ก.ย. ๒๕๔๔
+การให้ฟลักซ์แก๊ส	gas fluxing	๒๐ ก.ย. ๒๕๔๔
+การเสื่อมกระแส	current decay	๒๐ ก.ย. ๒๕๔๔
+การแล่นประสาน	brazing	๒๐ ก.ย. ๒๕๔๔
+การแล่นประสานเหนี่ยวนำ	induction brazing	๒๐ ก.ย. ๒๕๔๔
+การแล่นประสานเตาเกลือ	salt bath brazing	๒๐ ก.ย. ๒๕๔๔
+การแล่นประสานในเตาหลอม	furnace brazing	๒๐ ก.ย. ๒๕๔๔
+การแล่นประสานแบบจุ่ม	dip brazing	๒๐ ก.ย. ๒๕๔๔
+การแล่นประสานเปลวไฟ	flame brazing	๒๐ ก.ย. ๒๕๔๔
+การแล่นประสานสุญญากาศ	vacuum brazing	๒๐ ก.ย. ๒๕๔๔
+การแล่นประสานความต้านทาน	resistance brazing	๒๐ ก.ย. ๒๕๔๔
+การแล่นประสานควบคุมบรรยากาศ	controlled atmosphere brazing	๒๐ ก.ย. ๒๕๔๔
+การแล่นประสานจุ่มฟลักซ์	flux-dip brazing	๒๐ ก.ย. ๒๕๔๔
+การเกิดรอยย่น; รอยย่น	puckering	๒๐ ก.ย. ๒๕๔๔
+การเกิดลำแบบพัลส์	beam pulsing	๒๐ ก.ย. ๒๕๔๔
+การเชื่อม	welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมแม็ก	"MAG welding; <a href=""/coinages/websearch.php?Wd=metal+active-gas+welding&amp;Sj=0"">metal active-gas welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมรวมพลัง	multi-power welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมเสียดทาน	friction welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมเหนี่ยวนำความถี่สูง	HF induction welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมมิก	"metal inert-gas welding; <a href=""/coinages/websearch.php?Wd=MIG+welding&amp;Sj=0"">MIG welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมมิกอาร์กพัลส์	MIG pulsed-arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมแก๊ส	gas welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมใช้แรงโน้มถ่วง	gravity welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมเดินหน้า	"forward welding; <a href=""/coinages/websearch.php?Wd=leftward+welding&amp;Sj=0"">leftward welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมเทอร์มิต	thermit welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมแบบแพร่	diffusion welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมแบบแพร่ในสถานะของแข็ง	solid state diffusion welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมแบบแพร่ผ่านเฟสของเหลว	liquid phase diffusion welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมแบบกลุ่ม	"block sequence; <a href=""/coinages/websearch.php?Wd=block+welding&amp;Sj=0"">block welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมแบบพัลส์, การเชื่อมพักจังหวะ	pulsation welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมเปิด	non-shielded welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมวาบ	flash welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมวาบแบบอุ่นก่อน	flash welding with preheating	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมวาบแบบตรง	straight flash welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมหมุน	roll welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมสัมผัส	"contact welding; <a href=""/coinages/websearch.php?Wd=touch+welding&amp;Sj=0"">touch welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมหลอม	fusion welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมหลอมลึกเต็มที่	full penetration welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมสลัก	stud welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมสลักอาร์ก	arc stud welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมสลักความต้านทาน	resistance stud welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมหลายจุด	multiple spot welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอะลูมิโนเทอร์มิก	aluminothermic welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมออกซีอะเซทิลีน	oxy-acetylene welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอัลทราโซนิก	ultrasonic welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอัดระเบิด	explosive welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอัตโนมัติ	automatic welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอาร์ก	arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอาร์กโลหะ	metal-arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอาร์กโลหะแก๊สคลุม	gas shielded metal-arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอาร์กโลหะด้วยมือ	"manual metal-arc welding; <a href=""/coinages/websearch.php?Wd=MMA+welding&amp;Sj=0"">MMA welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมไฟฟ้าสแลกคลุม	electro-slag welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมกระทบ	percussion welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมก้าวกระโดด	"skip sequence; <a href=""/coinages/websearch.php?Wd=skip+welding&amp;Sj=0"">skip welding</a>; <a href=""/coinages/websearch.php?Wd=wandering+sequence&amp;Sj=0"">wandering sequence</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมก้าวถอย	"back-step sequence; <a href=""/coinages/websearch.php?Wd=back-step+welding&amp;Sj=0"">back-step welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมกึ่งอัตโนมัติ	semi-automatic welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมกด	"pressure welding; <a href=""/coinages/websearch.php?Wd=solid-phase+welding&amp;Sj=0"">solid-phase welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมกดเย็น	cold welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมกดออกซีอะเซทิลีน	oxy-acetylene pressure welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมกดอุณหภูมิคงตัว	constant-temperature pressure welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมกดความดันคงตัว	constant-pressure pressure welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอาร์กแก๊สคลุม	gas-shielded arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอาร์กใต้ฟลักซ์	submerged-arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอาร์กเปิด	open arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอาร์กอนุกรม	series arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอาร์กไมโครพลาสมา	micro-plasma arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอาร์กควบคุม	controlled-arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอาร์กคาร์บอน	carbon-arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมอาร์กปรับเอง	self-adjusting arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมไฮโดรเจน	atomic-hydrogen welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมไฟฟ้าแก๊สคลุม	electro-gas welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดคาร์บอนไดออกไซด์คลุม	CO<sub>2</sub> spot welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดด้วยล้ออิเล็กโทรด	roller spot welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดทิก	"inert-gas tungsten-arc spot welding; <a href=""/coinages/websearch.php?Wd=TIG+spot+welding&amp;Sj=0"">TIG spot welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดทางอ้อม	indirect spot welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมชนอาร์กแม่เหล็ก	magnetically-impelled arc butt welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมชนความต้านทาน	resistance butt welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมด้วยรังสีแสง	light radiation welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมด้วยรังสีอาร์ก	arc image welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมด้วยเลเซอร์	laser welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมด้วยมือ	manual welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดเว้นระยะ	step-by-step welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดเว้นระยะด้วยล้ออิเล็กโทรด	step-by-step roller spot welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดมิก	"inert-gas consumable electrode spot welding; <a href=""/coinages/websearch.php?Wd=MIG+spot+welding&amp;Sj=0"">MIG spot welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดเกย	stitch welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดอาร์ก	arc spot welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดอาร์กโลหะ	metal-arc spot welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดอาร์กทังสเตน	tungsten-arc spot welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดอนุกรม	series spot welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดอนุกรมแบบพุชพุล	push-pull series spot welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุดขนาน	parallel spot welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมกดความถี่สูง	HF pressure welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมขั้วเหมือน	"unipolarity operation; <a href=""/coinages/websearch.php?Wd=unipolarity+welding&amp;Sj=0"">unipolarity welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมขั้วสลับ	"alternate polarity operation; <a href=""/coinages/websearch.php?Wd=alternate+polarity+welding&amp;Sj=0"">alternate polarity welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมขนาน	parallel welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมครึ่งรอบกระแส	half-cycle welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมความต้านทาน	resistance welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมความต้านทานความถี่สูง	HF resistance welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมควบคุมเชิงกล	mechanized welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมคาร์บอนไดออกไซด์คลุม	CO<sub>2</sub> welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมจุด	spot welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมถอยหลัง	"backhand welding; <a href=""/coinages/websearch.php?Wd=backward+welding&amp;Sj=0"">backward welding</a>; <a href=""/coinages/websearch.php?Wd=rightward+welding&amp;Sj=0"">rightward welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมถอยหลังทุกท่า	all-position rightward welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมทิกอาร์กพัลส์	TIG pulsed-arc welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมทุบ	"fire welding; <a href=""/coinages/websearch.php?Wd=forge+welding&amp;Sj=0"">forge welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมทุบด้วยเครื่อง	hammer welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมทุบด้วยมือ	blacksmith welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมบรอนซ์	bronze welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมประสาน	braze welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมปะทุ	firecracker welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมด้วยอาร์กพลาสมา	"arc plasma welding; <a href=""/coinages/websearch.php?Wd=plasma+arc+welding&amp;Sj=0"">plasma arc welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมด้วยลำอิเล็กตรอน	"EB welding; <a href=""/coinages/websearch.php?Wd=electron+beam+welding&amp;Sj=0"">electron beam welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมตะเข็บ	seam welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมตะเข็บเว้นระยะ	step-by-step seam welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมตะเข็บชน	butt-seam welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมตะเข็บชนใช้แผ่นเปลว	"foil butt-seam welding; <a href=""/coinages/websearch.php?Wd=tape+butt-seam+welding&amp;Sj=0"">tape butt-seam welding</a>"	๒๐ ก.ย. ๒๕๔๔
+การโด่ง	peaking	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมปลายลาด	end tapering	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมปุ่มยื่น	projection welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมพอกผิวหลอม	surface-fusion welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมพักจังหวะ, การเชื่อมแบบพัลส์	pulsation welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมพลังงานสะสม	stored-energy welding	๒๐ ก.ย. ๒๕๔๔
+การเชื่อมฟลักซ์คาร์บอนไดออกไซด์คลุม	CO<sub>2</sub> flux welding	๒๐ ก.ย. ๒๕๔๔
+การเซาะร่อง <i>[ด้วยความร้อน]</i>	gouging (thermal)	๒๐ ก.ย. ๒๕๔๔
+การแต่งเข้าเนื้อ	"excessive dressing; <a href=""/coinages/websearch.php?Wd=underflushing&amp;Sj=0"">underflushing</a>"	๒๐ ก.ย. ๒๕๔๔
+การแต่งผิวใช้ผง	powder washing	๒๐ ก.ย. ๒๕๔๔
+การแต่งผิวด้วยเปลวไฟ	flame washing	๒๐ ก.ย. ๒๕๔๔
+การเตรียมรอยต่อ	"joint preparation; <a href=""/coinages/websearch.php?Wd=weld+preparation&amp;Sj=0"">weld preparation</a>"	๒๐ ก.ย. ๒๕๔๔
+การเตรียมรอยต่อแบบห่าง	"open joint preparation; <a href=""/coinages/websearch.php?Wd=open+weld+preparation&amp;Sj=0"">open weld preparation</a>"	๒๐ ก.ย. ๒๕๔๔
+การเตรียมรอยต่อแบบชิด	"closed joint preparation; <a href=""/coinages/websearch.php?Wd=closed+weld+preparation&amp;Sj=0"">closed weld preparation</a>"	๒๐ ก.ย. ๒๕๔๔
+การเตรียมขอบ	"edge preparation; <a href=""/coinages/websearch.php?Wd=end+preparation&amp;Sj=0"">end preparation</a>"	๒๐ ก.ย. ๒๕๔๔
+การแทรกซอน	intrusion	๒๐ ก.ย. ๒๕๔๔
+การเปลี่ยนรูป	deformation	๒๐ ก.ย. ๒๕๔๔
+การวาบ	flashing	๒๐ ก.ย. ๒๕๔๔
+การหมุนลำ	beam spinning	๒๐ ก.ย. ๒๕๔๔
+การส่าย	weaving	๒๐ ก.ย. ๒๕๔๔
+การหลอมย้อน	burn-back	๒๐ ก.ย. ๒๕๔๔
+การหลอมลึกไม่บริบูรณ์ที่ฐาน, การหลอมลึกไม่บริบูรณ์ที่ราก	incomplete root penetration	๒๐ ก.ย. ๒๕๔๔
+การหลอมลึกที่ฐาน	root penetration	๒๐ ก.ย. ๒๕๔๔
+การอาร์กพลาด	"stray arcing; <a href=""/coinages/websearch.php?Wd=stray+flash&amp;Sj=0"">stray flash</a>"	๒๐ ก.ย. ๒๕๔๔
+การอบปรกติด้วยเปลวไฟ	flame normalizing	๒๐ ก.ย. ๒๕๔๔
+การลอกผิว	"de-surfacing; <a href=""/coinages/websearch.php?Wd=scarfing&amp;Sj=0"">scarfing</a>"	๒๐ ก.ย. ๒๕๔๔
+การลบรอย	de-seaming	๒๐ ก.ย. ๒๕๔๔
+การกดย้ำ	follow-up	๒๐ ก.ย. ๒๕๔๔
+การกดยู่	upsetting	๒๐ ก.ย. ๒๕๔๔
+การควบคุมสมวาร	synchronous control	๒๐ ก.ย. ๒๕๔๔
+การควบคุมอสมวาร	non-synchronous control	๒๐ ก.ย. ๒๕๔๔
+การควบคุมอัตรากระแส	slope control	๒๐ ก.ย. ๒๕๔๔
+การควบคุมลำกระแส	beam current control	๒๐ ก.ย. ๒๕๔๔
+การควบคุมปืนเชื่อมคู่สลับ	dual gun control	๒๐ ก.ย. ๒๕๔๔
+การควบคุมปืนเชื่อมคู่สลับรอบ	"dual gun dual sequence control; <a href=""/coinages/websearch.php?Wd=dual+gun+dual+welding+cycle+control&amp;Sj=0"">dual gun dual welding cycle control</a>"	๒๐ ก.ย. ๒๕๔๔
+การควบคุมความร้อน	heat control	๒๐ ก.ย. ๒๕๔๔
+การควบคุมด้วยโปรแกรม	programme control	๒๐ ก.ย. ๒๕๔๔
+การจัดเฟส	phase displacement	๒๐ ก.ย. ๒๕๔๔
+การจุดอาร์กซ้ำด้วยแรงดันกระโชก	surge reignition	๒๐ ก.ย. ๒๕๔๔
+การจุดอาร์กซ้ำด้วยความถี่สูง	HF reignition	๒๐ ก.ย. ๒๕๔๔
+การจุดอาร์กด้วยความถี่สูง	HF ignition	๒๐ ก.ย. ๒๕๔๔
+การจุดประกายอาร์กซ้ำ	spark reignition	๒๐ ก.ย. ๒๕๔๔
+การฉาบผิวแข็ง; การพอกผิวแข็ง	"hard facing; <a href=""/coinages/websearch.php?Wd=hard+surfacing&amp;Sj=0"">hard surfacing</a>"	๒๐ ก.ย. ๒๕๔๔
+การฉาบผิวด้วยแถบเชื่อม; การพอกผิวด้วยแถบเชื่อม	"strip cladding; <a href=""/coinages/websearch.php?Wd=strip+surfacing&amp;Sj=0"">strip surfacing</a>"	๒๐ ก.ย. ๒๕๔๔
+การฉาบผิวด้วยพลาสมา; การพอกผิวด้วยพลาสมา	plasma weld surfacing	๒๐ ก.ย. ๒๕๔๔
+การตัดใช้แลนซ์ออกซิเจน	oxygen lancing	๒๐ ก.ย. ๒๕๔๔
+การตัดใช้ผงช่วย	powder cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดเซาะด้วยประกาย	spark erosion cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดใต้น้ำ	underwater cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดชิ้นงานซ้อน	stack cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดด้วยเลเซอร์	laser cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดด้วยเลเซอร์แก๊ส	gas jet laser cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดด้วยเปลวไฟ	flame cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดด้วยออกซิเจน	oxygen cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดด้วยอาร์ก	arc cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดด้วยอาร์กโลหะ	metal-arc cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดด้วยอาร์กออกซิเจน	oxygen-arc cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดด้วยอาร์กอากาศ	air-arc cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดด้วยอาร์กคาร์บอน	carbon-arc cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดด้วยอาร์กพลาสมา	"arc plasma cutting; <a href=""/coinages/websearch.php?Wd=plasma+arc+cutting&amp;Sj=0"">plasma arc cutting</a>"	๒๐ ก.ย. ๒๕๔๔
+การตัดด้วยลำอิเล็กตรอน	electron beam cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดด้วยความร้อน	thermal cutting	๒๐ ก.ย. ๒๕๔๔
+การตัดปลายขณะร้อน <i>[ด้วยออกซิเจน]</i>	hot cropping	๒๐ ก.ย. ๒๕๔๔
+การถ่ายโอนโลหะ	metal transfer	๒๐ ก.ย. ๒๕๔๔
+การถ่ายโอนแบบหยด	globular transfer	๒๐ ก.ย. ๒๕๔๔
+การถ่ายโอนแบบละออง	"droplet transfer; <a href=""/coinages/websearch.php?Wd=spray+transfer&amp;Sj=0"">spray transfer</a>"	๒๐ ก.ย. ๒๕๔๔
+การถ่ายโอนแบบจุ่ม	dip transfer	๒๐ ก.ย. ๒๕๔๔
+การทะลวงหมุดย้ำ	rivet piercing	๒๐ ก.ย. ๒๕๔๔
+การทำให้เจือจาง; ความเจือจาง	dilution	๒๐ ก.ย. ๒๕๔๔
+การทำงานสองจังหวะ, การเริ่มงานสองจังหวะ	two-stage initiation	๒๐ ก.ย. ๒๕๔๔
+การทำงานซ้ำรอบ	repeat operation	๒๐ ก.ย. ๒๕๔๔
+การทำงานรอบเดียว	"non-repeat operation; <a href=""/coinages/websearch.php?Wd=single+operation&amp;Sj=0"">single operation</a>"	๒๐ ก.ย. ๒๕๔๔
+การทดสอบรูปหมอน	pillow test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบรูปกากบาท	cruciform test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบแบบดึงลอก	"peel test; <a href=""/coinages/websearch.php?Wd=slug+test&amp;Sj=0"">slug test</a>"	๒๐ ก.ย. ๒๕๔๔
+การทดสอบสภาพเชื่อมได้	weldability test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบการดึงรูปตัวยู	U-tensile test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบกดแบน <i>[ท่อ]</i>	flattening test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบหักรอยบาก	nick-break test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบการร้าว	cracking test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบการร้าวแบบตรึง	restrained weld test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบการร้าวขณะร้อน	hot cracking test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบการร้าวขณะแข็งตัว	solidification cracking test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบดัดโค้ง	bend test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบดัดโค้งราก, การทดสอบดัดโค้งฐาน	root bend test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบดัดโค้งอิสระ	free bend test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบดัดโค้งควบคุมตามแบบ	controlled bend test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบดัดโค้งฐาน, การทดสอบดัดโค้งราก	root bend test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบดัดโค้งด้านหลัง	reverse bend test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบดัดโค้งด้านหน้า	face bend test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบดัดโค้งด้านข้าง	side bend test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบดัดโค้งตามแบบ	guided bend test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบดัดโค้งปรกติ	normal bend test	๒๐ ก.ย. ๒๕๔๔
+การทดสอบดึงภาคตัด	cross tension test	๒๐ ก.ย. ๒๕๔๔
+การปรับเฟส	phase shift	๒๐ ก.ย. ๒๕๔๔
+การปาดหัวหมุดย้ำ	rivet washing	๒๐ ก.ย. ๒๕๔๔
+การปล่อยกระแสเป็นลำดับ	cascade firing	๒๐ ก.ย. ๒๕๔๔
+การปล่อยกระแสหน่วง	delayed firing	๒๐ ก.ย. ๒๕๔๔
+การพอกผิวแข็ง; การฉาบผิวแข็ง	"hard facing; <a href=""/coinages/websearch.php?Wd=hard+surfacing&amp;Sj=0"">hard surfacing</a>"	๒๐ ก.ย. ๒๕๔๔
+การพอกผิวด้วยแถบเชื่อม; การฉาบผิวด้วยแถบเชื่อม	"strip cladding; <a href=""/coinages/websearch.php?Wd=strip+surfacing&amp;Sj=0"">strip surfacing</a>"	๒๐ ก.ย. ๒๕๔๔
+การพอกผิวด้วยพลาสมา; การฉาบผิวด้วยพลาสมา	plasma weld surfacing	๒๐ ก.ย. ๒๕๔๔
+กำลังลำ	beam power	๒๐ ก.ย. ๒๕๔๔
+ข้อต่อเกลียวท่ออ่อน	hose coupler	๒๐ ก.ย. ๒๕๔๔
+ข้อปฏิบัติการเชื่อม	welding procedure	๒๐ ก.ย. ๒๕๔๔
+ขอบแนวเชื่อม, ขอบรอยเชื่อม	toe	๒๐ ก.ย. ๒๕๔๔
+ขอบขนนก	feather edge	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อม; ลวดเชื่อม; อิเล็กโทรด	electrode	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมเยื้องศูนย์	offset electrode	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมแนวตั้ง	vertical electrode	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมแนวตั้งเยื้องศูนย์	vertical offset electrode	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมแนวตั้งร่วมศูนย์	"straight electrode; <a href=""/coinages/websearch.php?Wd=vertical+centre+electrode&amp;Sj=0"">vertical centre electrode</a>"	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมแบบล้อ	electrode wheel	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมความต้านทาน	resistance welding electrode	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมคอห่าน	"double-cranked electrode; <a href=""/coinages/websearch.php?Wd=swan-necked+electrode&amp;Sj=0"">swan-necked electrode</a>"	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมงอเยื้องศูนย์	"cranked electrode; <a href=""/coinages/websearch.php?Wd=cranked+offset+electrode&amp;Sj=0"">cranked offset electrode</a>"	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมประกับ	backing electrode	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมปลายเอียง	"angle electrode; <a href=""/coinages/websearch.php?Wd=inclined+electrode&amp;Sj=0"">inclined electrode</a>"	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมปลายเอียงเยื้องศูนย์	angle offset electrode	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมปลายเอียงร่วมศูนย์	angle centre electrode	๒๐ ก.ย. ๒๕๔๔
+ขั้วเชื่อมพื้นราบ	"flat electrode; <a href=""/coinages/websearch.php?Wd=pad+electrode&amp;Sj=0"">pad electrode</a>"	๒๐ ก.ย. ๒๕๔๔
+ขั้วหุ้มแคโทด	"cathode shield; <a href=""/coinages/websearch.php?Wd=field+electrode&amp;Sj=0"">field electrode</a>"	๒๐ ก.ย. ๒๕๔๔
+ขี้เชื่อม, สแลก	slag	๒๐ ก.ย. ๒๕๔๔
+ขา <i>[รอยเชื่อมมุม]</i>	leg	๒๐ ก.ย. ๒๕๔๔
+ขี้เชื่อมเหลว	fluid slag	๒๐ ก.ย. ๒๕๔๔
+ขี้เชื่อมแน่น	"dense slag; <a href=""/coinages/websearch.php?Wd=solid+slag&amp;Sj=0"">solid slag</a>"	๒๐ ก.ย. ๒๕๔๔
+ขี้เชื่อมเปราะ	friable slag	๒๐ ก.ย. ๒๕๔๔
+ขี้เชื่อมหนืด	viscous slag	๒๐ ก.ย. ๒๕๔๔
+ขี้เชื่อมฝังในเชิงเส้น, สแลกฝังในเชิงเส้น	"linear inclusion; <a href=""/coinages/websearch.php?Wd=slag+line&amp;Sj=0"">slag line</a>"	๒๐ ก.ย. ๒๕๔๔
+ขี้เชื่อมพรุน	"inflated slag; <a href=""/coinages/websearch.php?Wd=porous+slag&amp;Sj=0"">porous slag</a>"	๒๐ ก.ย. ๒๕๔๔
+ขดลวดเชื่อมหุ้มฟลักซ์	continuous covered electrode	๒๐ ก.ย. ๒๕๔๔
+ครีบ	fin	๒๐ ก.ย. ๒๕๔๔
+ความยาวโฟกัส	focal length	๒๐ ก.ย. ๒๕๔๔
+ความยาวขา	"leg length; <a href=""/coinages/websearch.php?Wd=size&amp;Sj=0"">size</a>"	๒๐ ก.ย. ๒๕๔๔
+ความยาวยังผล	effective length	๒๐ ก.ย. ๒๕๔๔
+ความเค้นตกค้าง	residual welding stress	๒๐ ก.ย. ๒๕๔๔
+ความเจือจาง; การทำให้เจือจาง	dilution	๒๐ ก.ย. ๒๕๔๔
+ความสูญเสียจากเม็ดโลหะกระเด็น	spatter loss	๒๐ ก.ย. ๒๕๔๔
+ความหนารอยเชื่อม	throat thickness	๒๐ ก.ย. ๒๕๔๔
+ความหนารอยเชื่อมยังผล	effective throat thickness	๒๐ ก.ย. ๒๕๔๔
+ความหนารอยเชื่อมจริง	actual throat thickness	๒๐ ก.ย. ๒๕๔๔
+ความหนารอยเชื่อมตามแบบ	design throat thickness	๒๐ ก.ย. ๒๕๔๔
+ความหนาแน่นกำลังลำ	"beam power density; <a href=""/coinages/websearch.php?Wd=specific+beam+power&amp;Sj=0"">specific beam power</a>"	๒๐ ก.ย. ๒๕๔๔
+ความกว้างรอยเชื่อม	weld width	๒๐ ก.ย. ๒๕๔๔
+ความดันย้อนกลับ	backward pressure	๒๐ ก.ย. ๒๕๔๔
+ความดันเสียดทาน	friction pressure	๒๐ ก.ย. ๒๕๔๔
+ความดันยู่	upset pressure	๒๐ ก.ย. ๒๕๔๔
+ความดันยู่หลังเชื่อม	post-weld upset pressure	๒๐ ก.ย. ๒๕๔๔
+ความดัน; แรงกด	pressure	๒๐ ก.ย. ๒๕๔๔
+ความดันเริ่มเชื่อม	initial pressure	๒๐ ก.ย. ๒๕๔๔
+ความดันเชื่อม	welding pressure	๒๐ ก.ย. ๒๕๔๔
+ความดันอุ่นหลังเชื่อม	post-heating pressure	๒๐ ก.ย. ๒๕๔๔
+ความดันกดยู่	"forge pressure; <a href=""/coinages/websearch.php?Wd=forging+pressure&amp;Sj=0"">forging pressure</a>"	๒๐ ก.ย. ๒๕๔๔
+ความดันขั้วเชื่อม	electrode pressure	๒๐ ก.ย. ๒๕๔๔
+ความดันผลัก	forward pressure	๒๐ ก.ย. ๒๕๔๔
+ความถี่ถ่ายโอนอนุภาค	particle transfer frequency	๒๐ ก.ย. ๒๕๔๔
+ความพรุน	porosity	๒๐ ก.ย. ๒๕๔๔
+ความพรุนเฉพาะที่	localized porosity	๒๐ ก.ย. ๒๕๔๔
+ความพรุนเชิงเส้น	linear porosity	๒๐ ก.ย. ๒๕๔๔
+ความพรุนตลอดแนว	uniform porosity	๒๐ ก.ย. ๒๕๔๔
+ค้อนเคาะขี้เชื่อม	chipping hammer	๒๐ ก.ย. ๒๕๔๔
+คันเชื่อมขจัดสะเก็ด	"de-scaling blowpipe; <a href=""/coinages/websearch.php?Wd=flame+cleaning+blowpipe&amp;Sj=0"">flame cleaning blowpipe</a>"	๒๐ ก.ย. ๒๕๔๔
+คันตัดแก๊ส	cutting blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันตัดแก๊ส; คันเชื่อมแก๊ส	blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันตัดแก๊สเชื้อเพลิงผสม	dual fuel blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันตัดแก๊สเซาะร่อง	gouging blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันตัดหมุดย้ำ <i>[ด้วยแก๊ส]</i>	rivet cutting blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันตัดท่อ <i>[ด้วยแก๊ส]</i>	tube cutting blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันเชื่อมแก๊ส; คันตัดแก๊ส	blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันเชื่อมแก๊สอเนกประสงค์	combined blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันเชื่อมแก๊สความดันสูง	high pressure blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันเชื่อมแก๊สความดันต่ำ	low pressure blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันเชื่อมแก๊สผสมที่หัว	head mixing blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันเชื่อมแก๊สผสมที่หัวฉีด	nozzle mixing blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันเชื่อมอากาศ-อะเซทิลีน	air-acetylene blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันเชื่อมอากาศ-อะเซทิลีนแบบอุณหภูมิสูง	high temperature type air-acetylene blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันเชื่อมอากาศ-อะเซทิลีนแบบบุนเซน	bunsen type air-acetylene blowpipe	๒๐ ก.ย. ๒๕๔๔
+คันเชื่อมลบรอย	"de-seaming blowpipe; <a href=""/coinages/websearch.php?Wd=scarfing+torch&amp;Sj=0"">scarfing torch</a>"	๒๐ ก.ย. ๒๕๔๔
+งานเชื่อม; รอยเชื่อม	weld	๒๐ ก.ย. ๒๕๔๔
+งานเชื่อมในโรงงาน	shop weld	๒๐ ก.ย. ๒๕๔๔
+งานเชื่อมสายโยง	bond weld	๒๐ ก.ย. ๒๕๔๔
+งานเชื่อมหลอมกด	mash weld	๒๐ ก.ย. ๒๕๔๔
+งานเชื่อมหน้างาน	"field weld; <a href=""/coinages/websearch.php?Wd=site+weld&amp;Sj=0"">site weld</a>"	๒๐ ก.ย. ๒๕๔๔
+งานเชื่อมไขว้	cross-wire weld	๒๐ ก.ย. ๒๕๔๔
+จุดเรียบ	flat spot	๒๐ ก.ย. ๒๕๔๔
+จุกกันเบี้ยว	"distortion bung; <a href=""/coinages/websearch.php?Wd=distortion+plug&amp;Sj=0"">distortion plug</a>"	๒๐ ก.ย. ๒๕๔๔
+จุดโฟกัส	focal spot	๒๐ ก.ย. ๒๕๔๔
+จุดดักสแลก	slag trap	๒๐ ก.ย. ๒๕๔๔
+ช่วงปลอดกระแส	zero current pause	๒๐ ก.ย. ๒๕๔๔
+ช่องระหว่างดาย	"die gap; <a href=""/coinages/websearch.php?Wd=die+opening&amp;Sj=0"">die opening</a>"	๒๐ ก.ย. ๒๕๔๔
+ช่องเท	pouring gate	๒๐ ก.ย. ๒๕๔๔
+ช่องว่าง	gap	๒๐ ก.ย. ๒๕๔๔
+ช่องว่างระหว่างแขน	throat gap	๒๐ ก.ย. ๒๕๔๔
+ช่องอุ่น	preheating gate	๒๐ ก.ย. ๒๕๔๔
+ช่างเชื่อม	welder	๒๐ ก.ย. ๒๕๔๔
+ชั้นเชื่อม	layer	๒๐ ก.ย. ๒๕๔๔
+ชั้นฟลักซ์หลอม	burden	๒๐ ก.ย. ๒๕๔๔
+ชิ้นเสริม	glut	๒๐ ก.ย. ๒๕๔๔
+ชิ้นงานทดสอบ	test piece	๒๐ ก.ย. ๒๕๔๔
+ชิ้นงานทดสอบแรงเฉือน	shear test piece	๒๐ ก.ย. ๒๕๔๔
+ชิ้นงานทดสอบรูปกากบาท	cruciform test piece	๒๐ ก.ย. ๒๕๔๔
+ชิ้นงานทดสอบเนื้อโลหะเชื่อม	all-weld test piece	๒๐ ก.ย. ๒๕๔๔
+ชิ้นทดสอบมาตรฐาน	test specimen	๒๐ ก.ย. ๒๕๔๔
+ชิ้นปลายสอบ	tapered member	๒๐ ก.ย. ๒๕๔๔
+ชิ้นทดสอบมาตรฐานแรงเฉือน	shear test specimen	๒๐ ก.ย. ๒๕๔๔
+ชิ้นทดสอบมาตรฐานแรงดึงตามขวาง	transverse tensile specimen	๒๐ ก.ย. ๒๕๔๔
+ชิ้นทดสอบมาตรฐานรูปกากบาท	cruciform test specimen	๒๐ ก.ย. ๒๕๔๔
+ชิ้นทดสอบมาตรฐานเนื้อโลหะเชื่อม	all-weld test specimen	๒๐ ก.ย. ๒๕๔๔
+ชิ้นทดสอบมาตรฐานดัดโค้ง	bend specimen	๒๐ ก.ย. ๒๕๔๔
+ชิ้นทดสอบมาตรฐานดัดโค้งรูปลิ้น	tongue-bend test specimen	๒๐ ก.ย. ๒๕๔๔
+ชิ้นทดสอบมาตรฐานดัดโค้งตามยาว	longitudinal bend specimen	๒๐ ก.ย. ๒๕๔๔
+ชิ้นทดสอบมาตรฐานดัดโค้งตามขวาง	transverse bend specimen	๒๐ ก.ย. ๒๕๔๔
+ชุดเครื่องเชื่อม, หน่วยชุดเชื่อม	welding plant	๒๐ ก.ย. ๒๕๔๔
+ชุดเชื่อมอาร์ก	"arc welding plant; <a href=""/coinages/websearch.php?Wd=arc+welding+set&amp;Sj=0"">arc welding set</a>"	๒๐ ก.ย. ๒๕๔๔
+ชุดเชื่อมควบคุมกำลัง	slope-controlled power source	๒๐ ก.ย. ๒๕๔๔
+ชุดเครื่องเชื่อมสามเฟส	three-phase welding set	๒๐ ก.ย. ๒๕๔๔
+ชุดเชื่อมแรงดันเพิ่ม	rising characteristic welding set	๒๐ ก.ย. ๒๕๔๔
+ชุดเชื่อมแรงดันลด	drooping characteristic welding set	๒๐ ก.ย. ๒๕๔๔
+ชุดเชื่อมแรงดันคงตัว	constant-voltage welding set	๒๐ ก.ย. ๒๕๔๔
+ชุดเชื่อมใช้มอเตอร์	motor generator welding set	๒๐ ก.ย. ๒๕๔๔
+ชุดเชื่อมใช้เครื่องยนต์	engine driven welding set	๒๐ ก.ย. ๒๕๔๔
+ชุดเชื่อมแบบเรียงกระแสตรง	rectifier welding set	๒๐ ก.ย. ๒๕๔๔
+ชุดสร้างความถี่สูง	HF unit	๒๐ ก.ย. ๒๕๔๔
+ชุดกันไฟวาบย้อนกลับ	flashback arrester	๒๐ ก.ย. ๒๕๔๔
+ชุดความดันเชื่อม	"pressure head; <a href=""/coinages/websearch.php?Wd=welding+pressure+head&amp;Sj=0"">welding pressure head</a>"	๒๐ ก.ย. ๒๕๔๔
+ฐาน, ราก	root	๒๐ ก.ย. ๒๕๔๔
+ด้ามคันเชื่อมแก๊ส	blowpipe shank	๒๐ ก.ย. ๒๕๔๔
+ดายเชื่อม	"die; <a href=""/coinages/websearch.php?Wd=welding+die&amp;Sj=0"">welding die</a>"	๒๐ ก.ย. ๒๕๔๔
+ดายสอด, ดายเสริม	back-up die	๒๐ ก.ย. ๒๕๔๔
+ตัวเบนลำ	"beam deflector; <a href=""/coinages/websearch.php?Wd=deflection+coil&amp;Sj=0"">deflection coil</a>"	๒๐ ก.ย. ๒๕๔๔
+ตัวหน่วงอาร์กเบน	"arc blow compensator; <a href=""/coinages/websearch.php?Wd=arc+damper&amp;Sj=0"">arc damper</a>"	๒๐ ก.ย. ๒๕๔๔
+ตัวกัน	buffer	๒๐ ก.ย. ๒๕๔๔
+ตัวกันรั่วงานเชื่อม	weld-through sealer	๒๐ ก.ย. ๒๕๔๔
+ตัวควบคุมโฟกัส	focus control	๒๐ ก.ย. ๒๕๔๔
+ตัวควบคุมการเชื่อมสลัก	stud welding controller	๒๐ ก.ย. ๒๕๔๔
+ตัวคุมกระแส	modulator	๒๐ ก.ย. ๒๕๔๔
+ตัวคุมกระแสคงตัว	constant current control	๒๐ ก.ย. ๒๕๔๔
+ตัวคุมค่าสองระดับ	two-stage regulator	๒๐ ก.ย. ๒๕๔๔
+ตัวคุมค่าหลายระดับ	multi-stage regulator	๒๐ ก.ย. ๒๕๔๔
+ตัวคุมค่าความดัน	"gas regulator; <a href=""/coinages/websearch.php?Wd=pressure+regulator&amp;Sj=0"">pressure regulator</a>"	๒๐ ก.ย. ๒๕๔๔
+ตัวจัดแนว	"manipulator; <a href=""/coinages/websearch.php?Wd=positioner&amp;Sj=0"">positioner</a>"	๒๐ ก.ย. ๒๕๔๔
+ตัวจับยึด	bolster	๒๐ ก.ย. ๒๕๔๔
+ตัวจับหัวตัดลอยตัว	floating head	๒๐ ก.ย. ๒๕๔๔
+ตัวจับอิเล็กโทรด	electrode holder	๒๐ ก.ย. ๒๕๔๔
+ตัวจุดไฟ	igniter	๒๐ ก.ย. ๒๕๔๔
+ตัวนำหัวตัด	cutter guide	๒๐ ก.ย. ๒๕๔๔
+ตัวประกับ	shoe	๒๐ ก.ย. ๒๕๔๔
+ตัวประกับหล่อเย็น	cooled shoe	๒๐ ก.ย. ๒๕๔๔
+ตามด, ฟองแก๊ส	gas pore	๒๐ ก.ย. ๒๕๔๔
+ตาอาร์ก	arc eye	๒๐ ก.ย. ๒๕๔๔
+ตาปลา <i>[รอยแตก]</i>	fish eye	๒๐ ก.ย. ๒๕๔๔
+ถังขี้เชื่อม, ถังสแลก	slag pot	๒๐ ก.ย. ๒๕๔๔
+ถุงมือเชื่อม	welding gloves	๒๐ ก.ย. ๒๕๔๔
+ท่ออ่อนพร้อมข้อต่อ	fitted hose	๒๐ ก.ย. ๒๕๔๔
+ท่าระดับ, แนวระดับ	horizontal position	๒๐ ก.ย. ๒๕๔๔
+ท่อนำ	guide tube	๒๐ ก.ย. ๒๕๔๔
+ท่อนำลวดเชื่อม	contact tube	๒๐ ก.ย. ๒๕๔๔
+ท่าเหนือศีรษะ, แนวเหนือศีรษะ	overhead position	๒๐ ก.ย. ๒๕๔๔
+ท่าเอียง, แนวเอียง	inclined position	๒๐ ก.ย. ๒๕๔๔
+ท่าราบ, แนวราบ	flat position	๒๐ ก.ย. ๒๕๔๔
+ท่าเชื่อม, แนวการเชื่อม	welding position	๒๐ ก.ย. ๒๕๔๔
+ท่าตั้ง, แนวตั้ง	vertical position	๒๐ ก.ย. ๒๕๔๔
+ทองแดงฝังใน	copper inclusion	๒๐ ก.ย. ๒๕๔๔
+ทั่ง	anvil	๒๐ ก.ย. ๒๕๔๔
+ทังสเตนฝังใน	tungsten inclusion	๒๐ ก.ย. ๒๕๔๔
+บริเวณรอยเชื่อม	weld zone	๒๐ ก.ย. ๒๕๔๔
+บริเวณเชื่อมติด	shocked metal zone	๒๐ ก.ย. ๒๕๔๔
+บริเวณหลอม	fusion zone	๒๐ ก.ย. ๒๕๔๔
+บริเวณหลอมเชื่อม	weld nugget	๒๐ ก.ย. ๒๕๔๔
+บริเวณกระทบร้อน	heat-affected zone	๒๐ ก.ย. ๒๕๔๔
+บริภัณฑ์งานเชื่อม	welding equipment	๒๐ ก.ย. ๒๕๔๔
+บริภัณฑ์งานเชื่อมสลักอัตโนมัติ	automatic stud welding equipment	๒๐ ก.ย. ๒๕๔๔
+บ่า	land	๒๐ ก.ย. ๒๕๔๔
+ประสิทธิภาพลวดเชื่อม	"electrode efficiency; <a href=""/coinages/websearch.php?Wd=electrode+recovery&amp;Sj=0"">electrode recovery</a>; <a href=""/coinages/websearch.php?Wd=electrode+yield&amp;Sj=0"">electrode yield</a>"	๒๐ ก.ย. ๒๕๔๔
+ประสิทธิภาพการเติม, ประสิทธิภาพการพอกพูน	"deposition efficiency; <a href=""/coinages/websearch.php?Wd=metal+recovery&amp;Sj=0"">metal recovery</a>"	๒๐ ก.ย. ๒๕๔๔
+ประสิทธิภาพการเติมโลหะรวม	overall weld metal recovery	๒๐ ก.ย. ๒๕๔๔
+ประสิทธิภาพการถ่ายโอน	transfer efficiency	๒๐ ก.ย. ๒๕๔๔
+ประสิทธิภาพการพอกพูน, ประสิทธิภาพการเติม	"deposition efficiency; <a href=""/coinages/websearch.php?Wd=metal+recovery&amp;Sj=0"">metal recovery</a>"	๒๐ ก.ย. ๒๕๔๔
+ปลอกหัวตัด	nozzle skirt	๒๐ ก.ย. ๒๕๔๔
+ปลอกดักฟลักซ์เชื่อมสลัก	fluxed ferrule	๒๐ ก.ย. ๒๕๔๔
+ปลอกต่อ	"muff joint; <a href=""/coinages/websearch.php?Wd=sleeve+joint&amp;Sj=0"">sleeve joint</a>"	๒๐ ก.ย. ๒๕๔๔
+ปลอกกันเม็ดโลหะกระเด็น	spatter shield	๒๐ ก.ย. ๒๕๔๔
+ปลอกดักเชื่อมสลัก	ferrule	๒๐ ก.ย. ๒๕๔๔
+ปลายเสียบ	insert	๒๐ ก.ย. ๒๕๔๔
+ปลายสอบ	blending taper	๒๐ ก.ย. ๒๕๔๔
+ปลายขั้วเชื่อม	electrode tip	๒๐ ก.ย. ๒๕๔๔
+ปืนเชื่อม	gun; gun welding head	๒๐ ก.ย. ๒๕๔๔
+ปืนเชื่อมสลัก	stud welding gun	๒๐ ก.ย. ๒๕๔๔
+ปืนอิเล็กตรอน	electron gun	๒๐ ก.ย. ๒๕๔๔
+ปืนอิเล็กตรอนแรงดันสูง	high voltage electron gun	๒๐ ก.ย. ๒๕๔๔
+ปืนอิเล็กตรอนแรงดันต่ำ	low voltage electron gun	๒๐ ก.ย. ๒๕๔๔
+ปืนอิเล็กตรอนแรงดันปานกลาง	medium voltage electron gun	๒๐ ก.ย. ๒๕๔๔
+ปืนอิเล็กตรอนปั๊มแยก	separately pumped electron gun	๒๐ ก.ย. ๒๕๔๔
+ปืนไดโอด	diode gun	๒๐ ก.ย. ๒๕๔๔
+ปืนไทรโอด	triode gun	๒๐ ก.ย. ๒๕๔๔
+ปืนกด	"poke gun; <a href=""/coinages/websearch.php?Wd=push+gun&amp;Sj=0"">push gun</a>"	๒๐ ก.ย. ๒๕๔๔
+ปืนขยาย	"expansion gun; <a href=""/coinages/websearch.php?Wd=reaction+gun&amp;Sj=0"">reaction gun</a>"	๒๐ ก.ย. ๒๕๔๔
+ผิวสัมผัส	faying surface	๒๐ ก.ย. ๒๕๔๔
+ผิวฉีก	torn surface	๒๐ ก.ย. ๒๕๔๔
+ผิวปรุ	surface pitting	๒๐ ก.ย. ๒๕๔๔
+ผงจุดไฟ, ผงชนวน	ignition powder	๒๐ ก.ย. ๒๕๔๔
+ฝาครอบสลัก	plugging material	๒๐ ก.ย. ๒๕๔๔
+พวยลม	jet	๒๐ ก.ย. ๒๕๔๔
+พวยพลาสมา	plasma jet	๒๐ ก.ย. ๒๕๔๔
+พัลส์	pulse	๒๐ ก.ย. ๒๕๔๔
+พิสัยกระแสอิเล็กโทรด	electrode current range	๒๐ ก.ย. ๒๕๔๔
+พลาสมา	plasma	๒๐ ก.ย. ๒๕๔๔
+พื้นที่สัมผัสรับแรงกด	pressure contact area	๒๐ ก.ย. ๒๕๔๔
+พื้นที่สัมผัสเชื่อม	weld contact area	๒๐ ก.ย. ๒๕๔๔
+พื้นที่สัมผัสขั้วเชื่อม	"clamp contact area; <a href=""/coinages/websearch.php?Wd=die+contact+area&amp;Sj=0"">die contact area</a>; <a href=""/coinages/websearch.php?Wd=electrode+contact+area&amp;Sj=0"">electrode contact area</a>"	๒๐ ก.ย. ๒๕๔๔
+ฟองแก๊ส, ตามด	gas pore	๒๐ ก.ย. ๒๕๔๔
+ฟิลาเมนต์	filament	๒๐ ก.ย. ๒๕๔๔
+ฟลักซ์	flux	๒๐ ก.ย. ๒๕๔๔
+ฟลักซ์ <i>[ใช้สำหรับการเชื่อมอาร์กใต้ฟลักซ์]</i>	melt	๒๐ ก.ย. ๒๕๔๔
+ฟลักซ์เชื่อมไฟฟ้าสแลกคลุม	electro-slag welding flux	๒๐ ก.ย. ๒๕๔๔
+ฟลักซ์หลอม	fused melt	๒๐ ก.ย. ๒๕๔๔
